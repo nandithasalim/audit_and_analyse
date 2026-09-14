@@ -1,0 +1,225 @@
+{
+  "question_id": "q01",
+  "question": "Which company owns the jewellery brand Tanishq, and since when has it been part of that company?",
+  "answer": "Tanishq is owned by Titan Company Limited, and its beginnings under Titan date to 1994. However, 1996 is the better-supported year for its launch as a jewellery brand. Titan\u2019s official sources disagree on the launch date: its franchising page says 1994, while its heritage timeline and an earnings-call transcript say 1996.",
+  "claims": [
+    {
+      "text": "Tanishq is owned by Titan Company Limited.",
+      "citation_url": "https://www.titancompany.in/business-division/jewellery-division"
+    },
+    {
+      "text": "Tanishq\u2019s beginnings under Titan date to 1994.",
+      "citation_url": "https://www.titancompany.in/business-division/jewellery-division"
+    },
+    {
+      "text": "1996 is the better-supported year for Tanishq\u2019s jewellery-brand launch, with Titan\u2019s investor presentation distinguishing the 1994 jewellery-facility inauguration from the 1996 Tanishq milestone.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-02/SEinvestorpresentationQ32025-26.pdf"
+    },
+    {
+      "text": "Titan\u2019s franchising page gives 1994 as Tanishq\u2019s launch year, conflicting with its other official accounts.",
+      "citation_url": "https://www.titancompany.in/business-opportunities/franchising"
+    },
+    {
+      "text": "Titan\u2019s heritage timeline dates the Tanishq jewellery launch to 1996.",
+      "citation_url": "https://www.titancompany.in/our-heritage"
+    },
+    {
+      "text": "Titan\u2019s Q3 FY2020 earnings-call transcript says Tanishq was launched in 1996.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2023-08/Q3%2520FY20%2520Earnings%2520Call%2520Transcript.pdf"
+    }
+  ],
+  "plan_notes": "Confirm ownership through Titan and Tanishq\u2019s official sources, then cross-check when the brand became part of Titan. Distinguish its establishment date from its commercial launch or first-store opening, and verify whether it was created by Titan rather than acquired.",
+  "search_queries": [
+    "site.titancompany.in Tanishq jewellery brand launched 1994 1996",
+    "site.tanishq.co.in Tanishq about us Titan Company history",
+    "Tanishq Titan brand established launch 1994 1996 first store"
+  ],
+  "known_facts_used": [],
+  "retrieval": [
+    {
+      "query": "site.titancompany.in Tanishq jewellery brand launched 1994 1996",
+      "text": "**1996 is the better-supported year for Tanishq\u2019s brand launch, though Titan\u2019s own website contains conflicting dates.** ([titancompany.in](https://www.titancompany.in/sites/default/files/2023-08/Q3%2520FY20%2520Earnings%2520Call%2520Transcript.pdf?utm_source=openai))\n\n- **1996:** Titan\u2019s *Our Heritage* timeline dates \u201cTanishq jewellery launch\u201d to 1996. Its Q3 FY2020 earnings-call transcript also explicitly says, \u201cWhen Tanishq was launched in 1996.\u201d ([titancompany.in](https://www.titancompany.in/our-heritage))\n- **1994:** Titan\u2019s jewellery-division page says its jewellery foray began in 1994 with Tanishq; its franchising page explicitly calls 1994 the launch year. ([titancompany.in](https://www.titancompany.in/business-division/jewellery-division?utm_source=openai))\n- **The clearest distinction:** Titan\u2019s Q3 FY2026 investor presentation lists **1994\u2014jewellery facility inaugurated** and **1996\u2014Tanishq** separately. This supports distinguishing the earlier manufacturing milestone from the brand launch, although it does not fully explain the inconsistent website wording. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-02/SEinvestorpresentationQ32025-26.pdf?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2023-08/Q3%2520FY20%2520Earnings%2520Call%2520Transcript.pdf?utm_source=openai",
+          "title": "Titan Company Limited"
+        },
+        {
+          "url": "https://www.titancompany.in/our-heritage",
+          "title": "Our Heritage | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/business-division/jewellery-division?utm_source=openai",
+          "title": "Explore Titan Company's Jewellery Division"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-02/SEinvestorpresentationQ32025-26.pdf?utm_source=openai",
+          "title": "Our Journey So Far"
+        }
+      ],
+      "cost_usd": 0.043590000000000004,
+      "search_calls": 2,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "site.tanishq.co.in Tanishq about us Titan Company history",
+      "text": "## Tanishq: About Us and Titan Company History\n\n**Tanishq is a jewellery brand of Titan Company Limited**, the company established in 1984 as a joint venture between the Tata Group and the Tamil Nadu Industrial Development Corporation (TIDCO). ([titancompany.in](https://www.titancompany.in/business-division/jewellery-division?utm_source=openai))\n\n### Key milestones\n- **1984 \u2014 Titan founded:** The company began with a focus on India\u2019s watch industry. ([titancompany.in](https://www.titancompany.in/our-heritage?utm_source=openai))\n- **1987 \u2014 Watch production began:** Titan commenced watch production and launched the Titan brand. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-02/Q3FY25%2520Earnings%2520Presentation.pdf?utm_source=openai))\n- **1994 \u2014 Jewellery beginnings:** Tanishq\u2019s \u201cAbout\u201d page traces its journey to precious-stone-studded 18K gold watches in 1994. Titan also inaugurated its jewellery manufacturing facility that year. ([tanishq.co.in](https://www.tanishq.co.in/about-tanishq?utm_source=openai))\n- **1996 \u2014 Tanishq jewellery launch:** Titan\u2019s corporate heritage timeline lists 1996 as the launch of Tanishq jewellery. This distinguishes the formal launch milestone from the earlier 1994 beginnings. ([titancompany.in](https://www.titancompany.in/our-heritage?utm_source=openai))\n- **1997 \u2014 Karatmeter introduced:** Tanishq introduced gold-purity testing to help customers assess their gold and improve transparency. ([titancompany.in](https://www.titancompany.in/our-heritage?utm_source=openai))\n\n### Official \u201cAbout Us\u201d sources\n- **Tanishq \u2014 About Tanishq:** Brand origins, its Hosur manufacturing facility, craftsmanship, and quality commitments. ([tanishq.co.in](https://www.tanishq.co.in/about-tanishq?utm_source=openai))\n- **Titan Company \u2014 Our Heritage:** The company\u2019s historical timeline, including Tanishq\u2019s launch. ([titancompany.in](https://www.titancompany.in/our-heritage?utm_source=openai))\n- **Titan Company \u2014 About Us:** Background on Titan and its expansion into jewellery and other lifestyle categories. ([titancompany.in](https://www.titancompany.in/about-us?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/business-division/jewellery-division?utm_source=openai",
+          "title": "Explore Titan Company's Jewellery Division"
+        },
+        {
+          "url": "https://www.titancompany.in/our-heritage?utm_source=openai",
+          "title": "Our Heritage | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-02/Q3FY25%2520Earnings%2520Presentation.pdf?utm_source=openai",
+          "title": "Our Journey So Far"
+        },
+        {
+          "url": "https://www.tanishq.co.in/about-tanishq?utm_source=openai",
+          "title": "About Tanishq | Tanishq Online Store"
+        },
+        {
+          "url": "https://www.titancompany.in/our-heritage?utm_source=openai",
+          "title": "Our Heritage | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/our-heritage?utm_source=openai",
+          "title": "Our Heritage | Titan Company"
+        },
+        {
+          "url": "https://www.tanishq.co.in/about-tanishq?utm_source=openai",
+          "title": "About Tanishq | Tanishq Online Store"
+        },
+        {
+          "url": "https://www.titancompany.in/our-heritage?utm_source=openai",
+          "title": "Our Heritage | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/about-us?utm_source=openai",
+          "title": "About Titan Company Ltd."
+        }
+      ],
+      "cost_usd": 0.02556,
+      "search_calls": 1,
+      "single_source": false,
+      "domains": [
+        "www.tanishq.co.in",
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "Tanishq Titan brand established launch 1994 1996 first store",
+      "text": "**Both 1994 and 1996 appear in Tanishq\u2019s history, but refer to different milestones:**\n\n- **1994 \u2014 Brand origins:** Titan dates Tanishq\u2019s beginnings to 1994. Tanishq\u2019s own history says its journey began with 18-karat gold watches studded with precious stones. ([titancompany.in](https://www.titancompany.in/business-opportunities/franchising?utm_source=openai))\n- **1996 \u2014 First retail store:** Tanishq opened its first boutique on **Cathedral Road, Chennai**. Tata also uses 1996 as the jewellery brand\u2019s launch year in some histories. ([titancorporategifting.com](https://www.titancorporategifting.com/about-us?utm_source=openai))\n\n**Safest wording:** \u201cTanishq, Titan\u2019s jewellery brand, traces its origins to 1994 and opened its first retail store in Chennai in 1996.\u201d ([tata.com](https://www.tata.com/newsroom/business/titan-company-india-75-years-independence?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/business-opportunities/franchising?utm_source=openai",
+          "title": "Become a Titan Company Franchise"
+        },
+        {
+          "url": "https://www.titancorporategifting.com/about-us?utm_source=openai",
+          "title": "About Titan Corporate Gifting | Our Heritage and Expertise"
+        },
+        {
+          "url": "https://www.tata.com/newsroom/business/titan-company-india-75-years-independence?utm_source=openai",
+          "title": "A Titan Of Transformation | Tata group"
+        }
+      ],
+      "cost_usd": 0.024413999999999998,
+      "search_calls": 1,
+      "single_source": false,
+      "domains": [
+        "www.tata.com",
+        "www.titancompany.in",
+        "www.titancorporategifting.com"
+      ]
+    }
+  ],
+  "facts_saved": 8,
+  "cost_usd": 0.10030900000000001,
+  "wall_clock_s": 50.65540289878845,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789400649.4010081,
+      "entities": [
+        "Tanishq",
+        "Titan Company"
+      ],
+      "known_facts": 0,
+      "search_queries": [
+        "site.titancompany.in Tanishq jewellery brand launched 1994 1996",
+        "site.tanishq.co.in Tanishq about us Titan Company history",
+        "Tanishq Titan brand established launch 1994 1996 first store"
+      ],
+      "plan_notes": "Confirm ownership through Titan and Tanishq\u2019s official sources, then cross-check when the brand became part of Titan. Distinguish its establishment date from its commercial launch or first-store opening, and verify whether it was created by Titan rather than acquired."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400658.623606,
+      "query": "Tanishq Titan brand established launch 1994 1996 first store",
+      "n_citations": 3,
+      "search_calls": 1
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400662.307862,
+      "query": "site.titancompany.in Tanishq jewellery brand launched 1994 1996",
+      "n_citations": 4,
+      "search_calls": 2
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400663.0206678,
+      "query": "site.tanishq.co.in Tanishq about us Titan Company history",
+      "n_citations": 9,
+      "search_calls": 1
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400663.02119,
+      "query": "site.titancompany.in Tanishq jewellery brand launched 1994 1996",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400663.021247,
+      "query": "site.tanishq.co.in Tanishq about us Titan Company history",
+      "single_source": false,
+      "domains": [
+        "www.tanishq.co.in",
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400663.0212831,
+      "query": "Tanishq Titan brand established launch 1994 1996 first store",
+      "single_source": false,
+      "domains": [
+        "www.tata.com",
+        "www.titancompany.in",
+        "www.titancorporategifting.com"
+      ]
+    },
+    {
+      "step": "synthesize",
+      "t": 1789400677.160199,
+      "answer": "Tanishq is owned by Titan Company Limited, and its beginnings under Titan date to 1994. However, 1996 is the better-supported year for its launch as a jewellery brand. Titan\u2019s official sources disagree on the launch date: its franchising page says 1994, while its heritage timeline and an earnings-call transcript say 1996.",
+      "n_claims": 6
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789400692.65557,
+      "facts_saved": 8
+    }
+  ]
+}

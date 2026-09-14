@@ -1,0 +1,30 @@
+{
+  "question_id": "q03",
+  "original_answer": "I could not find a definitive ranking of actual new-store openings for September 14, 2024\u2013September 14, 2026: the supplied evidence lacks comparable, complete gross-opening totals. Titan, Kalyan Jewellers and Malabar Gold & Diamonds are the strongest supported candidates among the retailers reviewed, based on reported network expansion rather than a verified openings ranking. Titan\u2019s domestic jewellery network increased from 991 stores on September 30, 2024 to 1,227 on June 30, 2026\u2014236 net additions. Kalyan\u2019s group network, including Candere and overseas showrooms, increased from 303 to 524 over those same dates\u2014221 net additions. For Malabar, India Ratings provides a clearer India-only comparison: 208 stores at the FY2023\u201324 baseline, 251 in FY2024\u201325 and 280 by March 25, 2026\u201472 net additions across that approximately two-year period. These figures have different geographic and brand coverage, and Malabar\u2019s comparison uses different dates, so they should not be presented as an apples-to-apples ranking of new stores opened.",
+  "repaired_answer": "I could not find a definitive ranking of actual new-store openings for September 14, 2024\u2013September 14, 2026: the supplied evidence lacks comparable, complete gross-opening totals. Titan, Kalyan Jewellers and Malabar Gold & Diamonds are the strongest supported candidates among the retailers reviewed, based on reported network expansion rather than a verified openings ranking. Titan\u2019s domestic jewellery network increased from 991 stores on September 30, 2024 to 1,227 on June 30, 2026\u2014236 net additions. Kalyan Jewellers\u2019 group network increased from 303 showrooms on September 30, 2024\u2014231 Kalyan showrooms in India, 36 Kalyan showrooms in the Middle East and 36 Candere showrooms\u2014to 524, including Candere and overseas locations, on June 30, 2026\u2014221 net additions. For Malabar, India Ratings provides a clearer India-only comparison: 208 stores at the FY2023\u201324 baseline, 251 in FY2024\u201325 and 280 by March 25, 2026\u201472 net additions across that approximately two-year period. These figures have different geographic and brand coverage, and Malabar\u2019s comparison uses different dates, so they should not be presented as an apples-to-apples ranking of new stores opened.",
+  "repaired_claims": [
+    {
+      "original_claim": "Titan had 1,227 domestic jewellery stores on June 30, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Titan had 1,227 domestic jewellery stores on June 30, 2026.",
+      "new_citation_url": "https://www.financialexpress.com/market/stock-insights/titan-grew-39-this-smaller-rival-grew-60yet-trades-at-just-9-times-earnings/4285941/"
+    },
+    {
+      "original_claim": "Kalyan Jewellers had 303 group showrooms, including Candere and overseas locations, on September 30, 2024.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Kalyan Jewellers had 303 group showrooms on September 30, 2024, comprising 231 Kalyan showrooms in India, 36 Kalyan showrooms in the Middle East, and 36 Candere showrooms.",
+      "new_citation_url": "https://www.kalyanjewellers.net/images/investors-new/pdf/shareholder-information/disclosures-to-stock-exchanges/2024-2025/32%20Quarterly%20Update%20-%20Q2%20FY%202024-25.pdf"
+    },
+    {
+      "original_claim": "Kalyan Jewellers had 524 group showrooms, including Candere and overseas locations, on June 30, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Kalyan Jewellers had 524 group showrooms, including Candere and overseas locations, on June 30, 2026.",
+      "new_citation_url": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-posts-strong-q1-growth-on-robust-demand/articleshow/132241944.cms"
+    }
+  ],
+  "cost_usd": 0.0943,
+  "wall_clock_s": 31.239465951919556
+}

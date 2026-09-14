@@ -1,0 +1,37 @@
+{
+  "question_id": "q02",
+  "original_answer": "If \u201clast year\u201d means FY2025\u201326, Tanishq added 27 stores net in India, calculated from quarterly additions of 3, 6, 10 and 8. These figures come from a single company source\u2014Titan\u2019s quarterly disclosures\u2014and measure net additions, not gross new-store openings. I could not find a full-year worldwide total of new Tanishq store openings in the supplied evidence.",
+  "repaired_answer": "If \u201clast year\u201d means FY2025\u201326, Tanishq added 27 stores net in India, calculated from quarterly additions of 3, 6, 10 and 8. These figures come from a single company source\u2014Titan\u2019s quarterly disclosures. I could not find a full-year worldwide total of new Tanishq store openings in the supplied evidence.",
+  "repaired_claims": [
+    {
+      "original_claim": "Tanishq added 3 stores net in India in Q1 FY2025\u201326.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Tanishq added 3 stores net in India in Q1 FY2025\u201326.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf"
+    },
+    {
+      "original_claim": "Tanishq added 6 stores net in India in Q2 FY2025\u201326.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Tanishq added 6 stores net in India in Q2 FY2025\u201326.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2025-10/Q2FY26%20-%20Quarterly%20Update%20_Uploaded.pdf"
+    },
+    {
+      "original_claim": "Tanishq added 10 stores net in India in Q3 FY2025\u201326.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Tanishq added 10 stores net in India in Q3 FY2025\u201326.",
+      "new_citation_url": "https://nsearchives.nseindia.com/corporate/TITAN003_06012026203710_IntimationQ3FY26updatesigned.pdf"
+    },
+    {
+      "original_claim": "The reported additions measure net additions rather than gross new-store openings.",
+      "original_verdict": "unsupported",
+      "resolution": "unresolvable",
+      "new_text": "The reported additions measure net additions rather than gross new-store openings.",
+      "new_citation_url": null
+    }
+  ],
+  "cost_usd": 0.12269500000000001,
+  "wall_clock_s": 42.18391799926758
+}

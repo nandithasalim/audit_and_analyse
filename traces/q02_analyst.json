@@ -1,0 +1,273 @@
+{
+  "question_id": "q02",
+  "question": "How many new stores did Tanishq open in the last year?",
+  "answer": "If \u201clast year\u201d means FY2025\u201326, Tanishq added 27 stores net in India, calculated from quarterly additions of 3, 6, 10 and 8. These figures come from a single company source\u2014Titan\u2019s quarterly disclosures\u2014and measure net additions, not gross new-store openings. I could not find a full-year worldwide total of new Tanishq store openings in the supplied evidence.",
+  "claims": [
+    {
+      "text": "Tanishq added 27 stores net in India in FY2025\u201326, calculated by summing the four quarterly figures.",
+      "citation_url": null
+    },
+    {
+      "text": "Tanishq added 3 stores net in India in Q1 FY2025\u201326.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf"
+    },
+    {
+      "text": "Tanishq added 6 stores net in India in Q2 FY2025\u201326.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-10/Q2FY26%20-%20Quarterly%20Update%20_Uploaded.pdf"
+    },
+    {
+      "text": "Tanishq added 10 stores net in India in Q3 FY2025\u201326.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-01/Quarterly%2520Update%2520-%2520Q3FY26%2520-%2520SE%2520Uploaded.pdf"
+    },
+    {
+      "text": "Tanishq added 8 stores net in India in Q4 FY2025\u201326.",
+      "citation_url": "https://www.titancompany.in/news/titan-FY26-results"
+    },
+    {
+      "text": "The quarterly figures come from a single company source, Titan\u2019s disclosures.",
+      "citation_url": null
+    },
+    {
+      "text": "The reported additions measure net additions rather than gross new-store openings.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded.pdf"
+    },
+    {
+      "text": "The supplied evidence does not establish a full-year worldwide total of new Tanishq store openings.",
+      "citation_url": null
+    }
+  ],
+  "plan_notes": "Establish the relevant year, then check Titan\u2019s annual reports and full-year results for Tanishq-specific store openings, cross-checking with independent reporting. Distinguish gross openings from net additions, India from worldwide totals, and fiscal from calendar years; the known launch dates do not answer this question.",
+  "search_queries": [
+    "site:titancompany.in Tanishq latest annual report store openings additions",
+    "site:titancompany.in Tanishq full year results \"new stores\"",
+    "Tanishq stores opened last year Titan annual expansion Reuters Economic Times"
+  ],
+  "known_facts_used": [
+    {
+      "id": 6,
+      "subject": "Tanishq",
+      "relation": "launched in",
+      "object": "1994",
+      "source_url": "https://www.titancompany.in/business-opportunities/franchising",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400688.824511,
+      "_fts_score": 1.134020618556701e-06,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 7,
+      "subject": "Tanishq",
+      "relation": "was launched in",
+      "object": "1996",
+      "source_url": "https://www.titancompany.in/our-heritage",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400691.053129,
+      "_fts_score": 1.0476190476190476e-06,
+      "_blend_score": 0.8464285714285713
+    },
+    {
+      "id": 8,
+      "subject": "Tanishq",
+      "relation": "was launched in",
+      "object": "1996",
+      "source_url": "https://www.titancompany.in/sites/default/files/2023-08/Q3%2520FY20%2520Earnings%2520Call%2520Transcript.pdf",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400692.653815,
+      "_fts_score": 1.0476190476190476e-06,
+      "_blend_score": 0.8464285714285713
+    },
+    {
+      "id": 2,
+      "subject": "Tanishq",
+      "relation": "began under",
+      "object": "Titan",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400682.1468952,
+      "_fts_score": 1.134020618556701e-06,
+      "_blend_score": 0.5
+    },
+    {
+      "id": 3,
+      "subject": "Tanishq",
+      "relation": "dates to",
+      "object": "1994",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400682.148263,
+      "_fts_score": 1.134020618556701e-06,
+      "_blend_score": 0.5
+    }
+  ],
+  "retrieval": [
+    {
+      "query": "site:titancompany.in Tanishq latest annual report store openings additions",
+      "text": "**Titan\u2019s latest annual report is FY 2025\u201326**, listed as \u201cAnnual Report 2026\u201d on its official website, as of September 14, 2026. ([titancompany.in](https://www.titancompany.in/investors/annual-reports))\n\n### Tanishq store additions for FY 2025\u201326\nTitan\u2019s official quarterly disclosures report:\n\n| Period | India: net Tanishq store additions |\n|---|---:|\n| Q1: April\u2013June 2025 | 3 ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf?utm_source=openai)) |\n| Q2: July\u2013September 2025 | 6 ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-10/Q2FY26%20-%20Quarterly%20Update%20_Uploaded.pdf?utm_source=openai)) |\n| Q3: October\u2013December 2025 | 10 ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-01/Quarterly%2520Update%2520-%2520Q3FY26%2520-%2520SE%2520Uploaded.pdf?utm_source=openai)) |\n| Q4: January\u2013March 2026 | 8 ([titancompany.in](https://www.titancompany.in/news/titan-FY26-results?utm_source=openai)) |\n| **FY 2025\u201326 total (calculated)** | **27** |\n\nThese are **net additions in India**, not gross openings, and exclude Mia, Zoya and CaratLane. Separately, Titan reported **four new Tanishq store openings in the GCC during Q4 FY26**. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf?utm_source=openai))\n\n**Source limitation:** I located the latest annual-report PDF, but it exceeded the retrieval tool\u2019s size limit. The figures above therefore come from Titan\u2019s quarterly disclosures\u2014not a verified annual-report passage.",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/investors/annual-reports",
+          "title": "Annual Reports | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf?utm_source=openai",
+          "title": "7th July 2025"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-10/Q2FY26%20-%20Quarterly%20Update%20_Uploaded.pdf?utm_source=openai",
+          "title": "7th October 2025"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-01/Quarterly%2520Update%2520-%2520Q3FY26%2520-%2520SE%2520Uploaded.pdf?utm_source=openai",
+          "title": "Digitally signed by"
+        },
+        {
+          "url": "https://www.titancompany.in/news/titan-FY26-results?utm_source=openai",
+          "title": "Titan Crosses \u20b975,000 Crores in FY 2025-26 | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-07/Q1FY26%20-%20Quaterly%20Update%20%28Uploaded%29.pdf?utm_source=openai",
+          "title": "7th July 2025"
+        }
+      ],
+      "cost_usd": 0.11121600000000001,
+      "search_calls": 7,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "site:titancompany.in Tanishq full year results \"new stores\"",
+      "text": "Relevant results on **titancompany.in**:\n\n| Full-year results document | Tanishq store-opening information |\n|---|---|\n| **FY2025\u201326 results** | In **Q4FY26**, Tanishq added **8 stores net in India** and opened **4 stores in the GCC region**. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded.pdf?utm_source=openai)) |\n| **FY2024\u201325 results** | In **Q4FY25**, Tanishq added **4 stores net in India**. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-05/SEoutcome%2520-%2520Copy.pdf?utm_source=openai)) |\n| **FY2023\u201324 results** | \u201cDuring the quarter, Tanishq opened 11 new stores in India; Mia added 16 new stores.\u201d Tanishq also added stores in Dubai and Chicago. ([titancompany.in](https://www.titancompany.in/sites/default/files/2024-05/QuickresultQ4202324.pdf?utm_source=openai)) |\n\n**Important:** These are **quarterly store additions reported in full-year results documents**, not full-year store-opening totals. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded.pdf?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded.pdf?utm_source=openai",
+          "title": "For the quarter,"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/SEoutcome%2520-%2520Copy.pdf?utm_source=openai",
+          "title": "Tanishq stores and 2 Mia stores. In the domestic market, of the 16 new store additions (net) during the quarter, 4 stores were added in Tanishq and 12 stores were added in Mia respectively."
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2024-05/QuickresultQ4202324.pdf?utm_source=openai",
+          "title": "Tanishq expanded its international presence adding a new store in Dubai and Chicago, USA taking the Titan's Jewellery international footprint to 16 stores. During the quarter, Tanishq opened 11 new stores in India; Mia added 16 new stores."
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded.pdf?utm_source=openai",
+          "title": "For the quarter,"
+        }
+      ],
+      "cost_usd": 0.024399,
+      "search_calls": 1,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "Tanishq stores opened last year Titan annual expansion Reuters Economic Times",
+      "text": "**If you mean FY2024\u201325 (April 1, 2024\u2013March 31, 2025), Tanishq added 43 stores net**, increasing its network from **479 to 522 stores**, according to Motilal Oswal\u2019s July 21, 2025 review of Titan\u2019s annual report. This is net expansion, not necessarily gross store openings. ([images.moneycontrol.com](https://images.moneycontrol.com/static-mcnews/2025/07/20250721092422_Titan-Company-21072025-Motilal.pdf))\n\nA related **Economic Times** article, *\u201cFewer karats brighten up Tanishq, give Titan lustre,\u201d* dated **November 6, 2025**, reported **17 new Tanishq stores in FY2025\u201326 through October**, against a **full-year target of 40**\u2014a different reporting period. ([m.economictimes.com](https://m.economictimes.com/markets/stocks/news/fewer-karats-brighten-up-tanishq-give-titan-lustre/amp_articleshow/125121023.cms))\n\nI couldn\u2019t identify a Reuters report matching your exact wording. Are you referring to **calendar 2025**, **FY2024\u201325**, or \u201clast year\u201d in an older article?",
+      "citations": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2025/07/20250721092422_Titan-Company-21072025-Motilal.pdf",
+          "title": ""
+        },
+        {
+          "url": "https://m.economictimes.com/markets/stocks/news/fewer-karats-brighten-up-tanishq-give-titan-lustre/amp_articleshow/125121023.cms",
+          "title": "Fewer karats brighten up Tanishq, give Titan lustre - The Economic Times"
+        }
+      ],
+      "cost_usd": 0.095334,
+      "search_calls": 5,
+      "single_source": false,
+      "domains": [
+        "images.moneycontrol.com",
+        "m.economictimes.com"
+      ]
+    }
+  ],
+  "facts_saved": 7,
+  "cost_usd": 0.23994000000000001,
+  "wall_clock_s": 108.96841382980347,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789400781.292007,
+      "entities": [
+        "Tanishq"
+      ],
+      "known_facts": 5,
+      "search_queries": [
+        "site:titancompany.in Tanishq latest annual report store openings additions",
+        "site:titancompany.in Tanishq full year results \"new stores\"",
+        "Tanishq stores opened last year Titan annual expansion Reuters Economic Times"
+      ],
+      "plan_notes": "Establish the relevant year, then check Titan\u2019s annual reports and full-year results for Tanishq-specific store openings, cross-checking with independent reporting. Distinguish gross openings from net additions, India from worldwide totals, and fiscal from calendar years; the known launch dates do not answer this question."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400791.434984,
+      "query": "site:titancompany.in Tanishq full year results \"new stores\"",
+      "n_citations": 4,
+      "search_calls": 1
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400818.808152,
+      "query": "Tanishq stores opened last year Titan annual expansion Reuters Economic Times",
+      "n_citations": 2,
+      "search_calls": 5
+    },
+    {
+      "step": "retrieve",
+      "t": 1789400819.821474,
+      "query": "site:titancompany.in Tanishq latest annual report store openings additions",
+      "n_citations": 6,
+      "search_calls": 7
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400819.8219898,
+      "query": "site:titancompany.in Tanishq latest annual report store openings additions",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400819.822041,
+      "query": "site:titancompany.in Tanishq full year results \"new stores\"",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789400819.822072,
+      "query": "Tanishq stores opened last year Titan annual expansion Reuters Economic Times",
+      "single_source": false,
+      "domains": [
+        "images.moneycontrol.com",
+        "m.economictimes.com"
+      ]
+    },
+    {
+      "step": "synthesize",
+      "t": 1789400840.3231082,
+      "answer": "If \u201clast year\u201d means FY2025\u201326, Tanishq added 27 stores net in India, calculated from quarterly additions of 3, 6, 10 and 8. These figures come from a single company source\u2014Titan\u2019s quarterly disclosures\u2014and measure net additions, not gross new-store openings. I could not find a full-year worldwide total of new Tanishq store openings in the supplied evidence.",
+      "n_claims": 8
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789400878.7018838,
+      "facts_saved": 7
+    }
+  ]
+}

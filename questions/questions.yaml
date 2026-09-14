@@ -1,0 +1,74 @@
+# 8 research questions, increasing difficulty. q03, q04 and q08 deliberately
+# reuse entities from q01/q02 (Tanishq, Titan Company) so the memory-transfer
+# effect is visible in the per-question cost/trace comparison -- see
+# scripts/run_pipeline.py and DECISIONS.md's cost table.
+#
+# q07 is a deliberate disagreement question (funding round figures for
+# quick-commerce deals are reported inconsistently across outlets) -- it
+# exercises the "sources disagree, resolve and justify" path rather than
+# the happy path every other question takes.
+
+- id: q01
+  difficulty: 1
+  question: >
+    Which company owns the jewellery brand Tanishq, and since when has it
+    been part of that company?
+  notes: Single-entity, single-fact lookup. Establishes Tanishq/Titan Company facts in memory for later questions.
+
+- id: q02
+  difficulty: 1
+  question: >
+    How many new stores did Tanishq open in the last year?
+  notes: Single-entity, single-number lookup, same entity as q01 -- first test of whether memory narrows the plan.
+
+- id: q03
+  difficulty: 2
+  question: >
+    Which three Indian jewellery retailers opened the most new stores in
+    the last two years, and what is your evidence for each?
+  notes: >
+    Multi-entity ranking question (the brief's own example). Reuses Tanishq
+    from q01/q02 -- expect the plan to skip re-researching Tanishq's store
+    count from scratch and spend its search budget on the other two retailers instead.
+
+- id: q04
+  difficulty: 2
+  question: >
+    Who is the current CEO of Titan Company, and when did they take the role?
+  notes: Reuses Titan Company, introduced only as an answer (not the subject) in q01 -- tests whether memory keys on entities mentioned anywhere, not just the question's main subject.
+
+- id: q05
+  difficulty: 3
+  question: >
+    List every company that raised funding in Indian quick commerce since
+    January 2026, with amounts, investors and dates.
+  notes: New domain, open-ended enumeration (the brief's own example) -- no single canonical source, tests planning multiple queries and citing per-item.
+
+- id: q06
+  difficulty: 3
+  question: >
+    For Zepto, find its current head of engineering, when they joined, and
+    where they worked before.
+  notes: New entity, the brief's own "named company, head of engineering" example -- a role that changes hands often and is thinly documented, good test of "state plainly when it cannot find something."
+
+- id: q07
+  difficulty: 4
+  question: >
+    What was Blinkit's most recent funding round size, and who led it?
+  notes: >
+    Deliberate disagreement case -- outlets report different figures/leads
+    for the same round depending on when they published and whether they
+    count the full round or a single tranche. Tests whether the analyst
+    resolves and justifies a choice rather than reporting both and shrugging.
+
+- id: q08
+  difficulty: 5
+  question: >
+    Compare Tanishq's and Titan Company's store-count growth over the last
+    two years -- which grew faster, and does Titan's overall retail
+    footprint include brands beyond Tanishq?
+  notes: >
+    Hardest question: multi-hop (needs q01-q04's facts plus new research
+    into Titan's other brands), reuses both Tanishq and Titan Company, and
+    requires synthesizing across two different metrics (store count vs.
+    brand portfolio) rather than a single lookup.

@@ -1,0 +1,23 @@
+{
+  "question_id": "q01",
+  "original_answer": "Tanishq is owned by Titan Company Limited, and its beginnings under Titan date to 1994. However, 1996 is the better-supported year for its launch as a jewellery brand. Titan\u2019s official sources disagree on the launch date: its franchising page says 1994, while its heritage timeline and an earnings-call transcript say 1996.",
+  "repaired_answer": "Tanishq is owned by Titan Company Limited, and its beginnings under Titan date to 1994. However, 1996 is the better-supported year for its jewellery-brand launch, with Titan\u2019s investor presentation distinguishing the 1994 jewellery-facility inauguration from the 1996 Tanishq milestone. Titan\u2019s official sources disagree on the launch date: its franchising page says 1994, while its heritage timeline and Q3 FY2020 earnings-call transcript say Tanishq was launched in 1996.",
+  "repaired_claims": [
+    {
+      "original_claim": "1996 is the better-supported year for Tanishq\u2019s jewellery-brand launch, with Titan\u2019s investor presentation distinguishing the 1994 jewellery-facility inauguration from the 1996 Tanishq milestone.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "1996 is the better-supported year for Tanishq\u2019s jewellery-brand launch, with Titan\u2019s investor presentation distinguishing the 1994 jewellery-facility inauguration from the 1996 Tanishq milestone.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2024-05/Q4FY24%20Earnings%20Presentation.pdf"
+    },
+    {
+      "original_claim": "Titan\u2019s Q3 FY2020 earnings-call transcript says Tanishq was launched in 1996.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Titan\u2019s Q3 FY2020 earnings-call transcript says Tanishq was launched in 1996.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2023-08/Q3%20FY20%20Earnings%20Call%20Transcript.pdf"
+    }
+  ],
+  "cost_usd": 0.206681,
+  "wall_clock_s": 59.500916957855225
+}

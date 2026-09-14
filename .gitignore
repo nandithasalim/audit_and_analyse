@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.db
+data/*.sqlite
+.DS_Store
+
+# NOTE: traces/*.jsonl and traces/*.json are intentionally NOT ignored --
+# costs.jsonl, report.jsonl, and the per-question trace files are the run
+# evidence the brief asks for ("we want the full trace"). Commit them after
+# running scripts/run_pipeline.py.
