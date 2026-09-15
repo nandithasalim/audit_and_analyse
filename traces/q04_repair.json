@@ -1,0 +1,23 @@
+{
+  "question_id": "q04",
+  "original_answer": "Titan Company does not list a company-wide officer with the title \u201cChief Executive Officer\u201d; its current Managing Director is Ajoy Chawla. He took the role on January 1, 2026, succeeding C. K. Venkataraman.",
+  "repaired_answer": "Titan Company does not list a company-wide officer with the title \u201cChief Executive Officer\u201d; its current Managing Director is Ajoy Chawla. Ajoy Chawla became Managing Director of Titan Company Limited on January 1, 2026, succeeding C. K. Venkataraman as Managing Director of Titan Company, effective January 1, 2026.",
+  "repaired_claims": [
+    {
+      "original_claim": "Ajoy Chawla became Managing Director on January 1, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Ajoy Chawla became Managing Director of Titan Company Limited on January 1, 2026.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2025-12/Postal%20Ballot%20notice%20Ajoy.pdf"
+    },
+    {
+      "original_claim": "Ajoy Chawla succeeded C. K. Venkataraman as Managing Director.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Ajoy Chawla succeeded C. K. Venkataraman as Managing Director of Titan Company, effective January 1, 2026.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2025-05/SE09Successionplan.pdf"
+    }
+  ],
+  "cost_usd": 0.0993226,
+  "wall_clock_s": 16.635445833206177
+}

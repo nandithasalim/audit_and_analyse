@@ -63,24 +63,46 @@ def chunk_text(text: str, url: str, *, min_len: int = 40, max_len: int = 1200) -
 
     chunks: list[Chunk] = []
     idx = 0
+
+    def _emit(piece: str) -> None:
+        nonlocal idx
+        piece = piece.strip()
+        if piece:
+            chunks.append(Chunk(text=piece, index=idx, url=url))
+            idx += 1
+
     for para in raw_paragraphs:
         if len(para) < min_len:
             continue
         if len(para) <= max_len:
-            chunks.append(Chunk(text=para, index=idx, url=url))
-            idx += 1
-        else:
-            # split long paragraphs on sentence boundaries into ~max_len pieces
-            sentences = re.split(r"(?<=[.!?])\s+", para)
-            buf = ""
-            for s in sentences:
-                if len(buf) + len(s) + 1 > max_len and buf:
-                    chunks.append(Chunk(text=buf.strip(), index=idx, url=url))
-                    idx += 1
-                    buf = s
-                else:
-                    buf = f"{buf} {s}".strip()
-            if buf:
-                chunks.append(Chunk(text=buf.strip(), index=idx, url=url))
-                idx += 1
+            _emit(para)
+            continue
+
+        # split long paragraphs on sentence boundaries into ~max_len pieces
+        sentences = re.split(r"(?<=[.!?])\s+", para)
+        buf = ""
+        for s in sentences:
+            # A single "sentence" can itself be longer than max_len -- a
+            # data table or a dense disclosure block with no sentence-
+            # ending punctuation, which the split above never breaks up.
+            # This is exactly what broke q08's audit: the previous version
+            # of this function emitted that one oversized "sentence" as a
+            # single chunk (contradicting this function's own docstring,
+            # which already claimed everything gets hard-split), and it
+            # later blew OpenAI's per-item embedding token limit. Hard-split
+            # anything this long on its own, character-wise, instead.
+            if len(s) > max_len:
+                if buf:
+                    _emit(buf)
+                    buf = ""
+                for i in range(0, len(s), max_len):
+                    _emit(s[i:i + max_len])
+                continue
+            if len(buf) + len(s) + 1 > max_len and buf:
+                _emit(buf)
+                buf = s
+            else:
+                buf = f"{buf} {s}".strip()
+        if buf:
+            _emit(buf)
     return chunks

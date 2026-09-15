@@ -1,0 +1,44 @@
+{
+  "question_id": "q05",
+  "original_answer": "Based only on the supplied evidence, Dazzl raised $3.2 million from Stellaris and angels Ritesh Agarwal and Abhishek Bansal on January 13, 2026. Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5; HomeRun raised \u20b960 crore (about $6.6 million) from Sorin Investments, Titan Capital, Sparrow, Consumer Collective and Helios on February 17. Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2; Blinkit received \u20b9450 crore from parent Eternal on March 12; Swish raised $38 million from Hara Global, Bain Capital Ventures and Accel on March 23; Ozi raised $6.2 million from RTP Global, Blume, Huddle and Zerpact on March 25; and Pronto raised an initial $25 million, later extended to $45 million, from Epiq Capital, Lachy Groom and prior backers in March, although the exact day was not provided. BazaarNow raised \u20b972 crore (about $7.5 million) from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures and named angels around June 9\u201311; I preferred this finalized figure over the preliminary $9 million \u201cin talks\u201d headline because it is more specific to the completed event. Plazza raised $15 million from Accel, Elevation, Nexus, All In and Better Capital on July 20; Fixxly raised $5.5 million from Accel, Fireside and Lightspeed India on July 29; HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6; and Peeko raised \u20b967.4 crore, reported as over $7 million, from Chiratae, Stellaris and angels on August 20. Zepto\u2019s reported July 17 $800 million IPO was excluded because it was not confirmed as completed, while the evidence\u2019s reference to a $55 million FirstClub raise from Peak XV, Sofina and others lacks an announcement date and therefore cannot be verified against the requested period.",
+  "repaired_answer": "Based only on the supplied evidence, Dazzl raised $3.2 million from Stellaris and angels Ritesh Agarwal and Abhishek Bansal on January 13, 2026. Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5, 2026; HomeRun raised \u20b960 crore (about $6.6 million) from Sorin Investments, Titan Capital, Sparrow, Consumer Collective and Helios on February 17. Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2, 2026; Blinkit received \u20b9450 crore from parent Eternal on March 12; Swish raised $38 million from Hara Global, Bain Capital Ventures and Accel on March 23; Ozi raised $6.2 million from RTP Global, Blume, Huddle and Zerpact on March 25; and Pronto raised an initial $25 million, later extended to $45 million, from Epiq Capital, Lachy Groom and prior backers in March, although the exact day was not provided. BazaarNow raised \u20b972 crore (about $7.5 million) from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures, and named angel investors on June 9, 2026; it ultimately raised \u20b972 crore (about $7.5 million) in a funding round, while an earlier report said it was in talks to raise $9 million. Plazza raised $15 million from Accel, Elevation, Nexus, All In and Better Capital on July 20; Fixxly raised $5.5 million from Accel, Fireside and Lightspeed India on July 29; HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6, 2026; and Peeko raised \u20b967.4 crore, reported as over $7 million, from Chiratae, Stellaris and angels on August 20. Zepto\u2019s reported July 17 $800 million IPO was excluded because it was not confirmed as completed, while the evidence\u2019s reference to a $55 million FirstClub raise from Peak XV, Sofina and others lacks an announcement date and therefore cannot be verified against the requested period.",
+  "repaired_claims": [
+    {
+      "original_claim": "Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5, 2026.",
+      "new_citation_url": "https://retail.economictimes.indiatimes.com/amp/news/e-commerce/e-tailing/fashion-quick-commerce-startup-zilo-raises-15-3-million-in-series-a-led-by-peak-xv/127925685"
+    },
+    {
+      "original_claim": "Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2, 2026.",
+      "new_citation_url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082"
+    },
+    {
+      "original_claim": "BazaarNow raised \u20b972 crore, approximately $7.5 million, from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures and named angels around June 9\u201311, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "BazaarNow raised \u20b972 crore (about $7.5 million) from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures, and named angel investors on June 9, 2026.",
+      "new_citation_url": "https://www.cbinsights.com/company/bazaarnow/financials"
+    },
+    {
+      "original_claim": "For BazaarNow, the finalized \u20b972 crore figure in the supplied evidence was preferred over the preliminary $9 million \u201cin talks\u201d headline because it was more specific to the completed event.",
+      "original_verdict": "unsupported",
+      "resolution": "corrected",
+      "new_text": "BazaarNow ultimately raised \u20b972 crore (about $7.5 million) in a funding round; an earlier report said it was in talks to raise $9 million.",
+      "new_citation_url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/"
+    },
+    {
+      "original_claim": "HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6, 2026.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6, 2026.",
+      "new_citation_url": "https://inc42.com/buzz/exclusive-homerun-in-talks-to-raise-%E2%82%B9100-cr-to-scale-its-quick-construction-delivery-platform/"
+    }
+  ],
+  "cost_usd": 0.27735279999999995,
+  "wall_clock_s": 52.53388285636902
+}

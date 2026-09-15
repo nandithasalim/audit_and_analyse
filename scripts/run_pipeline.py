@@ -7,6 +7,7 @@ one that reuses its entities.
     python scripts/run_pipeline.py                  # all 8 questions
     python scripts/run_pipeline.py --limit 2         # just the first 2 (cheap smoke test)
     python scripts/run_pipeline.py --only q05        # a single question by id
+    python scripts/run_pipeline.py --only q04,q05,q06,q07,q08   # resume a batch that stopped partway (comma-separated ids, no --fresh-memory so already-saved facts carry over)
     python scripts/run_pipeline.py --skip-repair      # analyst + audit only
     python scripts/run_pipeline.py --fresh-memory      # wipe data/memory.db first (re-run all 8 as if for the first time)
 
@@ -45,7 +46,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--questions", default="questions/questions.yaml")
     ap.add_argument("--limit", type=int, default=None)
-    ap.add_argument("--only", default=None, help="run a single question id, e.g. q05")
+    ap.add_argument("--only", default=None, help="run one question id, or a comma-separated list, e.g. q05 or q04,q05,q06")
     ap.add_argument("--skip-repair", action="store_true")
     ap.add_argument("--fresh-memory", action="store_true", help="wipe data/memory.db before running")
     args = ap.parse_args()
@@ -60,9 +61,10 @@ def main():
 
     questions = yaml.safe_load(open(args.questions))
     if args.only:
-        questions = [q for q in questions if q["id"] == args.only]
+        wanted = set(args.only.split(","))
+        questions = [q for q in questions if q["id"] in wanted]
         if not questions:
-            print(f"No question with id={args.only}")
+            print(f"No question(s) with id(s)={args.only}")
             sys.exit(1)
     if args.limit:
         questions = questions[: args.limit]

@@ -1,0 +1,229 @@
+{
+  "question_id": "q06",
+  "question": "For Zepto, find its current head of engineering, when they joined, and where they worked before.",
+  "answer": "The evidence identifies Nikhil Mittal, Zepto\u2019s Chief Technology Officer, as the senior executive leading its engineering and technology organization. He became CTO in January 2024 after serving as Zepto\u2019s VP/SVP of Engineering. The provided evidence does not establish when he originally joined Zepto or where he worked before Zepto, so those details cannot be answered without guessing. I preferred Mittal\u2019s own website because it is the most direct cited source, although it is rated tier 4.",
+  "claims": [
+    {
+      "text": "Nikhil Mittal is Zepto\u2019s current Chief Technology Officer and leads its engineering and technology organization.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai"
+    },
+    {
+      "text": "Nikhil Mittal became Zepto\u2019s CTO in January 2024.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai"
+    },
+    {
+      "text": "Before becoming CTO, Nikhil Mittal served as Zepto\u2019s VP/SVP of Engineering.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai"
+    },
+    {
+      "text": "The provided evidence does not establish when Nikhil Mittal originally joined Zepto.",
+      "citation_url": null
+    },
+    {
+      "text": "The provided evidence does not identify where Nikhil Mittal worked before Zepto.",
+      "citation_url": null
+    },
+    {
+      "text": "Mittal\u2019s own website was preferred as the most direct cited source, though it is rated tier 4 in the evidence.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai"
+    }
+  ],
+  "plan_notes": "Identify Zepto\u2019s current engineering leader and verify their exact title, joining date, and prior employers using appointment coverage and professional profiles, checking for subsequent leadership changes. The known IPO reporting does not answer this question and will not be investigated.",
+  "entities": [
+    "Zepto"
+  ],
+  "search_queries": [
+    "Zepto quick commerce current head of engineering CTO leadership",
+    "Zepto head of engineering appointment joining date previous roles",
+    "site.linkedin.com/in Zepto \"engineering\" \"head\""
+  ],
+  "known_facts_used": [
+    {
+      "id": 110,
+      "subject": "Zepto",
+      "relation": "was reported to have",
+      "object": "a $800 million IPO",
+      "source_url": "https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410711.5455098,
+      "_fts_score": 3.0384601166964407,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 111,
+      "subject": "Zepto's reported $800 million IPO",
+      "relation": "was reported on",
+      "object": "July 17, 2026",
+      "source_url": "https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410711.548769,
+      "_fts_score": 2.619423737541677,
+      "_blend_score": 0.1926573667404031
+    },
+    {
+      "id": 112,
+      "subject": "Zepto's reported $800 million IPO",
+      "relation": "was not confirmed as",
+      "object": "a completed funding event",
+      "source_url": "https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410711.551536,
+      "_fts_score": 2.398870362447097,
+      "_blend_score": 0.0
+    }
+  ],
+  "retrieval": [
+    {
+      "query": "Zepto quick commerce current head of engineering CTO leadership",
+      "text": "**Zepto\u2019s current technology/engineering leadership:**\n\n- **Nikhil Mittal \u2014 Chief Technology Officer (CTO).** He has held the CTO role since **January 2024**, after serving as Zepto\u2019s VP/SVP of Engineering. He is the senior executive leading the company\u2019s engineering and technology organization. ([mittalnikhil.com](https://mittalnikhil.com/?utm_source=openai))  \n- **Kaivalya Vohra \u2014 Co-founder & President, Technology & Product.** Vohra previously held the CTO title; following Mittal\u2019s appointment, the technology, product, analytics, and data-science functions were consolidated under his broader leadership. ([hirezapp.com](https://www.hirezapp.com/careers/zepto?utm_source=openai))  \n- **Koushik Kottamasu \u2014 Senior Director, Engineering.** A publicly featured senior engineering leader in Zepto\u2019s engineering organization. ([linkedin.com](https://www.linkedin.com/posts/nikhilkmittal_zeptoengineering-zeptoleadeship-activity-7360885958755405826-jrf_?utm_source=openai))  \n- **Karthic Somalinga \u2014 SVP, Engineering, Fulfillment.** Leads engineering related to fulfillment, based on current organizational listings. ([theorg.com](https://theorg.com/org/zeptonow/person/nikhil-mittal?utm_source=openai))  \n- **Qamar Ali Shaikh \u2014 VP, Infrastructure Platform Engineering** and **Suthakar Loganathan \u2014 Head of IT & Security Engineering.** ([theorg.com](https://theorg.com/org/zeptonow/person/nikhil-mittal?utm_source=openai))  \n\nSo if you mean the overall **head of engineering / CTO**, the answer is **Nikhil Mittal**.",
+      "citations": [
+        {
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "title": "Nikhil Mittal"
+        },
+        {
+          "url": "https://www.hirezapp.com/careers/zepto?utm_source=openai",
+          "title": "Zepto Careers & Jobs | zepto"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/nikhilkmittal_zeptoengineering-zeptoleadeship-activity-7360885958755405826-jrf_?utm_source=openai",
+          "title": "#zeptoengineering #zeptoleadeship | Nikhil Mittal"
+        },
+        {
+          "url": "https://theorg.com/org/zeptonow/person/nikhil-mittal?utm_source=openai",
+          "title": "Nikhil Mittal - Chief Technology Officer at Zepto | The Org"
+        },
+        {
+          "url": "https://theorg.com/org/zeptonow/person/nikhil-mittal?utm_source=openai",
+          "title": "Nikhil Mittal - Chief Technology Officer at Zepto | The Org"
+        }
+      ],
+      "cost_usd": 0.06837,
+      "search_calls": 2,
+      "single_source": false,
+      "domains": [
+        "mittalnikhil.com",
+        "theorg.com",
+        "www.hirezapp.com",
+        "www.linkedin.com"
+      ]
+    },
+    {
+      "query": "Zepto head of engineering appointment joining date previous roles",
+      "text": "Assuming you mean **Karthic Somalinga**, Zepto\u2019s engineering leader for fulfillment:\n\n- **Appointment / joining date:** He joined **Zepto in October 2023** as **VP, Engineering \u2013 Fulfillment**; Zepto has since described him publicly as **Vice President \u2013 Engineering**. ([theorg.com](https://theorg.com/org/zeptonow/person/karthic-somalinga?utm_source=openai))  \n- **Previous roles:** Before Zepto, he was **Head of Engineering, Lending at Grab** (April 2019\u2013October 2023), where he worked on Grab PayLater and lending products. Earlier, he held engineering-leadership positions at **Ninjacart** and **Swiggy**, and worked at **Microsoft** (Bing Ads), **Yahoo!**, and **CA**. ([theorg.com](https://theorg.com/org/zeptonow/person/karthic-somalinga?utm_source=openai))  \n\nIf instead you meant a different Zepto engineering appointment\u2014e.g., an associate director or head of IT\u2014share the person\u2019s name and I\u2019ll pinpoint it.",
+      "citations": [
+        {
+          "url": "https://theorg.com/org/zeptonow/person/karthic-somalinga?utm_source=openai",
+          "title": "Karthic Somalinga - Senior Vice President of Engineering, Fulfillment at Zepto | The Org"
+        },
+        {
+          "url": "https://theorg.com/org/zeptonow/person/karthic-somalinga?utm_source=openai",
+          "title": "Karthic Somalinga - Senior Vice President of Engineering, Fulfillment at Zepto | The Org"
+        }
+      ],
+      "cost_usd": 0.08993999999999999,
+      "search_calls": 3,
+      "single_source": true,
+      "domains": [
+        "theorg.com"
+      ]
+    },
+    {
+      "query": "site.linkedin.com/in Zepto \"engineering\" \"head\"",
+      "text": "Use this Google query:\n\n```text\nsite:linkedin.com/in/ Zepto (\"Head of Engineering\" OR \"Engineering Head\" OR \"VP Engineering\" OR \"Director of Engineering\")\n```\n\nFor broader results:\n\n```text\nsite:linkedin.com/in/ Zepto (engineering OR engineer) (head OR director OR vp OR \"vice president\")\n```",
+      "citations": [],
+      "cost_usd": 0.01048,
+      "search_calls": 0,
+      "single_source": true,
+      "domains": []
+    }
+  ],
+  "facts_saved": 7,
+  "cost_usd": 0.201476,
+  "wall_clock_s": 51.8503201007843,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789410814.455082,
+      "entities": [
+        "Zepto"
+      ],
+      "known_facts": 3,
+      "search_queries": [
+        "Zepto quick commerce current head of engineering CTO leadership",
+        "Zepto head of engineering appointment joining date previous roles",
+        "site.linkedin.com/in Zepto \"engineering\" \"head\""
+      ],
+      "plan_notes": "Identify Zepto\u2019s current engineering leader and verify their exact title, joining date, and prior employers using appointment coverage and professional profiles, checking for subsequent leadership changes. The known IPO reporting does not answer this question and will not be investigated."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410819.447045,
+      "query": "site.linkedin.com/in Zepto \"engineering\" \"head\"",
+      "n_citations": 0,
+      "search_calls": 0
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410827.942441,
+      "query": "Zepto quick commerce current head of engineering CTO leadership",
+      "n_citations": 5,
+      "search_calls": 2
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410828.172346,
+      "query": "Zepto head of engineering appointment joining date previous roles",
+      "n_citations": 2,
+      "search_calls": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410829.4805708,
+      "query": "Zepto quick commerce current head of engineering CTO leadership",
+      "single_source": false,
+      "domains": [
+        "mittalnikhil.com",
+        "theorg.com",
+        "www.hirezapp.com",
+        "www.linkedin.com"
+      ],
+      "chunks_total": 4,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410830.750536,
+      "query": "Zepto head of engineering appointment joining date previous roles",
+      "single_source": true,
+      "domains": [
+        "theorg.com"
+      ],
+      "chunks_total": 3,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410831.2671602,
+      "query": "site.linkedin.com/in Zepto \"engineering\" \"head\"",
+      "single_source": true,
+      "domains": [],
+      "chunks_total": 2,
+      "chunks_kept": 2
+    },
+    {
+      "step": "synthesize",
+      "t": 1789410844.841385,
+      "answer": "The evidence identifies Nikhil Mittal, Zepto\u2019s Chief Technology Officer, as the senior executive leading its engineering and technology organization. He became CTO in January 2024 after serving as Zepto\u2019s VP/SVP of Engineering. The provided evidence does not establish when he originally joined Zepto or where he worked before Zepto, so those details cannot be answered without guessing. I preferred Mittal\u2019s own website because it is the most direct cited source, although it is rated tier 4.",
+      "n_claims": 6
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789410858.90141,
+      "facts_saved": 7
+    }
+  ]
+}

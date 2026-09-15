@@ -1,0 +1,380 @@
+{
+  "question_id": "q05",
+  "claim_audits": [
+    {
+      "claim_text": "Dazzl raised $3.2 million from Stellaris and angels including Ritesh Agarwal and Abhishek Bansal on January 13, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5, 2026.",
+      "citation_url": "https://economictimes.indiatimes.com/tech/funding/fashion-quick-commerce-startup-zilo-raises-15-3-million-led-by-peak-xv-partners/articleshow/127924933.cms?from=mdr&utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence supports the $15.3 million amount and Peak XV Partners\u2019 lead role, and names InfoEdge Ventures, Chiratae Ventures, and some angel investors. However, it does not state the February 5, 2026 date or mention Alteria Capital and Stride Ventures, so the full claim is unsupported.",
+      "quote": "Zilo, a fashion quick commerce startup founded by former Flipkart and Myntra executives, has raised $15.3 million in funding led by Peak XV Partners, according to a company statement.",
+      "evidence_chunks": [
+        {
+          "text": "Synopsis\nThe funding round also saw participation from angel investors including Groww founder and CEO Lalit Keshre, Cred founder Kunal Shah and Ayyappan R, founder of FirstClub. Founded in February last year by Padmakumar Pal and Bhavik Jhaveri, Zilo has already raised nearly $20 million in funding. ETtech\nPadmakumar Pal (Left) and Bhavik Jhaveri, founders, Zilo\nZilo\n, a \nfashion quick commerce\n startup founded by former Flipkart and Myntra executives, has raised $15.3 million in funding led by \nPeak XV Partners\n, according to a company statement. Existing investors \nInfoEdge Ventures\n and \nChiratae Ventures\n also participated. The startup said it plans to utilise fresh capital to scale operations, invest in technology and expand to new markets. Add\n \n \nas a Reliable and Trusted News Source\n \nAdd Now! Read more news on\nZilo\nfashion quick commerce\nPeak XV Partners\ninvestment\nChiratae Ventures\nInfoEdge Ventures\n(Catch all the \nTechnology News News\n, and \nLatest News\n Updates on \nThe Economic Times\n.)\n...more\nAdd Comment\nElevate your knowledge and leadership skills at a cost cheaper than your daily tea. Four rules made HDFC Bank a compounder. All four have stopped.",
+          "index": 0,
+          "url": "https://economictimes.indiatimes.com/tech/funding/fashion-quick-commerce-startup-zilo-raises-15-3-million-led-by-peak-xv-partners/articleshow/127924933.cms?from=mdr&utm_source=openai",
+          "score": 0.7421537934265733
+        },
+        {
+          "text": "Can the new CEO rewrite them? Gold rush on Dalal St as regional jewellers bid to be the next Tanishq\nHormuz is a state, not a strait. There are 10 other possible chokepoints for the global economy, including India\nWill the yuan become the new yen? Bigger or Better: One order from Power Grid Corp added $1 billion to the market cap of a company \u2013 Final part\nBanks have received a flood of money. Now comes the real test\nNew aircraft order opens door for ATR assembly line in India\nAn old India Inc habit: Ignore the nudge, wait for the stick\nSeason of change in accounting policy: A simple AI prompt can tell you a lot\nIs crude oil becoming a financial problem? Subscribe Now",
+          "index": 1,
+          "url": "https://economictimes.indiatimes.com/tech/funding/fashion-quick-commerce-startup-zilo-raises-15-3-million-led-by-peak-xv-partners/articleshow/127924933.cms?from=mdr&utm_source=openai",
+          "score": 0.3069075882350825
+        }
+      ]
+    },
+    {
+      "claim_text": "HomeRun raised \u20b960 crore, approximately $6.6 million, from Sorin Investments, Titan Capital, Sparrow, Consumer Collective and Helios on February 17, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2, 2026.",
+      "citation_url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence confirms the USD 8 million raise and named investors, but none of the chunks mention March 2, 2026. Therefore, the full claim is not supported.",
+      "quote": "A Mumbai-based quick commerce enablement startup, Inamo, has raised USD 8 million in a Series A funding round led by Prime Venture Partners, with participation from existing investors Shastra VC, Antler India, and Gemba Capital.",
+      "evidence_chunks": [
+        {
+          "text": "A Mumbai-based quick commerce enablement startup, Inamo, has raised USD 8 million in a Series A funding round led by Prime Venture Partners, with participation from existing investors Shastra VC, Antler India, and Gemba Capital.",
+          "index": 1,
+          "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+          "score": 0.7552628871970564
+        },
+        {
+          "text": "A Mumbai-based quick commerce enablement startup, Inamo, has raised USD 8 million in a Series A funding round led by Prime Venture Partners, with participation from existing investors Shastra VC, Antler India, and Gemba Capital.",
+          "index": 8,
+          "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+          "score": 0.7552628871970564
+        },
+        {
+          "text": "The startup had previously raised USD 3 million in a seed round led by Shastra VC, with backing from Antler India, Gemba Capital, and Scope Promoters.",
+          "index": 3,
+          "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+          "score": 0.686205973019734
+        },
+        {
+          "text": "The startup had previously raised USD 3 million in a seed round led by Shastra VC, with backing from Antler India, Gemba Capital, and Scope Promoters.",
+          "index": 10,
+          "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+          "score": 0.686205973019734
+        },
+        {
+          "text": "Currently, Inamo claims to process about 1.8 million orders per month and operates more than 80 dark stores across six metro cities. Within 18 months, the startup has expanded rapidly and reported significant revenue growth.",
+          "index": 6,
+          "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+          "score": 0.5571818660118423
+        }
+      ]
+    },
+    {
+      "claim_text": "Blinkit received a \u20b9450 crore capital infusion from parent Eternal on March 12, 2026.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Swish raised $38 million from Hara Global, Bain Capital Ventures and Accel on March 23, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Ozi raised $6.2 million from RTP Global, Blume, Huddle and Zerpact on March 25, 2026.",
+      "citation_url": "https://www.moneycontrol.com/news/business/funding/baby-care-quick-commerce-startups-ozi-raises-6-2-million-in-funding-from-rtp-global-13870561.html/amp?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/funding/baby-care-quick-commerce-startups-ozi-raises-6-2-million-in-funding-from-rtp-global-13870561.html/amp?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Pronto raised an initial $25 million, later extended to $45 million, from Epiq Capital, Lachy Groom and prior backers in March 2026; the exact announcement day was not supplied.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "BazaarNow raised \u20b972 crore, approximately $7.5 million, from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures and named angels around June 9\u201311, 2026.",
+      "citation_url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence supports the \u20b972 crore/$7.5 million amount and names Peak XV Partners, Whiteboard Capital, and Antler. However, it does not mention Nirman Ventures, named angels, or the June 9\u201311, 2026 timing, so the full claim is not supported.",
+      "quote": "Quick commerce startup BazaarNow has raised \u20b972 Cr (about $7.5 Mn) in a funding round led by Peak XV Partners, with participation from Whiteboard Capital and Antler.",
+      "evidence_chunks": [
+        {
+          "text": "Quick commerce startup BazaarNow has raised \u20b972 Cr (about $7.5 Mn) in a funding round led by Peak XV Partners, with participation from Whiteboard Capital and Antler.",
+          "index": 3,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.829978909380899
+        },
+        {
+          "text": "Quick commerce startup BaazarNow is in talks to raise $9 Mn (about \u20b982 Cr), sources told Inc42.",
+          "index": 7,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.6954802308857274
+        },
+        {
+          "text": "Peak XV Partners and BazaarNow declined to comment on Inc42\u2019s queries on the funding round.",
+          "index": 10,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.6854073479885265
+        },
+        {
+          "text": "Launched in January 2026 by former Zepto executives Priyanshu Jain, Arjun Harish, and Tarithmay Mandal, BazaarNow is a quick commerce platform for daily essentials such as groceries and vegetables. The startup is currently operational in select neighbourhoods in Bengaluru.",
+          "index": 11,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.6568316215898478
+        },
+        {
+          "text": "The startup plans to use the fresh capital to expand BazaarNow\u2019s presence in tier II and III cities. BazaarNow said it has scaled to more than 1,800 orders per day per store in its first pilot city.",
+          "index": 5,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.6311743252422987
+        }
+      ]
+    },
+    {
+      "claim_text": "For BazaarNow, the finalized \u20b972 crore figure in the supplied evidence was preferred over the preliminary $9 million \u201cin talks\u201d headline because it was more specific to the completed event.",
+      "citation_url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence reports both a \u20b972 crore raised figure and an earlier $9 million figure described as being in talks, but it does not state that the former was preferred because it reflected a completed event.",
+      "quote": "Quick commerce startup BazaarNow has raised \u20b972 Cr (about $7.5 Mn) in a funding round led by Peak XV Partners, with participation from Whiteboard Capital and Antler.",
+      "evidence_chunks": [
+        {
+          "text": "Quick commerce startup BazaarNow has raised \u20b972 Cr (about $7.5 Mn) in a funding round led by Peak XV Partners, with participation from Whiteboard Capital and Antler.",
+          "index": 3,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.5768188691414472
+        },
+        {
+          "text": "Quick commerce startup BaazarNow is in talks to raise $9 Mn (about \u20b982 Cr), sources told Inc42.",
+          "index": 7,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.5581767264961902
+        },
+        {
+          "text": "Peak XV Partners and BazaarNow declined to comment on Inc42\u2019s queries on the funding round.",
+          "index": 10,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.5277883314372438
+        },
+        {
+          "text": "The startup plans to use the fresh capital to expand BazaarNow\u2019s presence in tier II and III cities. BazaarNow said it has scaled to more than 1,800 orders per day per store in its first pilot city.",
+          "index": 5,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.5057953758115645
+        },
+        {
+          "text": "Launched in January 2026 by former Zepto executives Priyanshu Jain, Arjun Harish, and Tarithmay Mandal, BazaarNow is a quick commerce platform for daily essentials such as groceries and vegetables. The startup is currently operational in select neighbourhoods in Bengaluru.",
+          "index": 11,
+          "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+          "score": 0.45730240113976245
+        }
+      ]
+    },
+    {
+      "claim_text": "Plazza raised $15 million from Accel, Elevation, Nexus, All In and Better Capital on July 20, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Fixxly raised $5.5 million from Accel, Fireside and Lightspeed India on July 29, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6, 2026.",
+      "citation_url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence supports the $12 million raise and names the listed investors, and it mentions a prior $6.6 million raise. However, none of the chunks states that the funding occurred on August 6, 2026, so the full claim is unsupported.",
+      "quote": "HomeRun, a quick commerce platform for construction and interior materials, has raised $12 million in a funding round led by Nexus Venture Partners, with existing investors Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective by Atrium participating.",
+      "evidence_chunks": [
+        {
+          "text": "Synopsis\nHomeRun, the Bengaluru-based startup that specializes in quick delivery of construction and renovation materials, has successfully raised twelve million dollars in a funding round led by Nexus Venture Partners. This fresh capital injection will support its expansion efforts and improve its supply chain technology. Having completed over one hundred thousand deliveries in the last year, this investment reflects the growing interest in niche quick commerce services. HomeRun, a \nquick commerce platform\n for construction and interior materials, has raised $12 million in a funding round led by \nNexus Venture Partners\n, with existing investors Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective by Atrium participating. The capital will be used to expand Homerun\u2019s geographical presence, invest in enhancing its supply chain and technology, and expand into new categories. Founded in 2024, the Bengaluru-based startup delivers construction and renovation materials within 60 minutes. Some of its stock-keeping units (SKUs) include cement, plywood, electricals, plumbing supplies, hardware, adhesives, and finishing products.",
+          "index": 0,
+          "url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+          "score": 0.7103322219671118
+        },
+        {
+          "text": "In the instant househelp sector, Snabbit has raised $112 million from investors such as Susquehanna Venture Capital, Unicorn Growth Fund, Bertelsmann India Investments, and Lightspeed Venture Partners. Similarly, Pronto has raised about $58 million from Epiq Capital, General Catalyst, Bain Capital Ventures, and tech investor Lachy Groom. ET reported in May on \nactivity around early-stage venture capital fundraising\n in specialised quick commerce sectors. Beauty and personal care (BPC) delivery startup Firi was in talks to raise $3-4 million from investors led by 360 One Asset. Dazzl, which promises to provide beauty services in 10 minutes, is targeting $10-11 million in funding. Tier-2 focused quick commerce platform BazaarNow raised $8 million in a round led by Peak XV Partners. Add\n \n \nas a Reliable and Trusted News Source\n \nAdd Now! Read more news on\nHomeRun funding\nconstruction materials\nquick commerce platform\nventure capital\nNexus Venture Partners\n(Catch all the \nTechnology News News\n, and \nLatest News\n Updates on \nThe Economic Times\n.)\n...more\nAdd Comment\nElevate your knowledge and leadership skills at a cost cheaper than your daily tea.",
+          "index": 2,
+          "url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+          "score": 0.5938059021426759
+        },
+        {
+          "text": "The startup\u2019s target group includes both homeowners and contractors. \u201cBuilding material procurement in India has remained fragmented and inefficient. We're making it as reliable, transparent and fast as any modern commerce experience,\u201d said Pukhraj Grewal, founder and chief executive. Grewal had previously cofounded Tornado, a tech-led interior contracting startup, and Project Hero, a construction labour-hiring platform. Over the past 12 months, HomeRun has delivered over 100,000 orders and grown eight-fold across top categories. It raised $6.6 million in February. Commenting on the funding, Anand Datta, Partner, Nexus Venture Partners, said, \u201cOur quick commerce thesis centres on formalizing supply chains while preserving the proximity advantage of small-format local merchants. Building materials and local hardware is one such supply chain that has largely skipped digitisation.\u201d\nThe investment comes at a time when \nventure capital\n firms have shown strong interest in vertical quick commerce platforms across categories such as house help, beauty, fashion and more.",
+          "index": 1,
+          "url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+          "score": 0.5907169936780544
+        },
+        {
+          "text": "Four rules made HDFC Bank a compounder. All four have stopped. Can the new CEO rewrite them? Gold rush on Dalal St as regional jewellers bid to be the next Tanishq\nHormuz is a state, not a strait. There are 10 other possible chokepoints for the global economy, including India\nWill the yuan become the new yen? Bigger or Better: One order from Power Grid Corp added $1 billion to the market cap of a company \u2013 Final part\nBanks have received a flood of money. Now comes the real test\nNew aircraft order opens door for ATR assembly line in India\nAn old India Inc habit: Ignore the nudge, wait for the stick\nSeason of change in accounting policy: A simple AI prompt can tell you a lot\nIs crude oil becoming a financial problem? Subscribe Now",
+          "index": 3,
+          "url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+          "score": 0.22314290717318538
+        }
+      ]
+    },
+    {
+      "claim_text": "Peeko raised \u20b967.4 crore, reported as over $7 million, from Chiratae, Stellaris and angels on August 20, 2026.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Zepto's reported $800 million IPO on July 17, 2026 was not confirmed as a completed funding event.",
+      "citation_url": "https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "The supplied evidence references a $55 million FirstClub raise from Peak XV, Sofina and others but provides no announcement date.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    }
+  ],
+  "cost_usd": 0.0020559999999999997,
+  "wall_clock_s": 40.728312969207764,
+  "trace": [
+    {
+      "step": "audit_claim",
+      "t": 1789410719.909926,
+      "claim": "Dazzl raised $3.2 million from Stellaris and angels including Ritesh Agarwal and Abhishek Bansal on January 13, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410727.396099,
+      "claim": "Zilo raised $15.3 million from Peak XV Partners, Info Edge Ventures, Chiratae Ventures, Alteria Capital, Stride Ventures and named angels on February 5, 2026.",
+      "url": "https://economictimes.indiatimes.com/tech/funding/fashion-quick-commerce-startup-zilo-raises-15-3-million-led-by-peak-xv-partners/articleshow/127924933.cms?from=mdr&utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.7421537934265733
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410727.3961148,
+      "claim": "HomeRun raised \u20b960 crore, approximately $6.6 million, from Sorin Investments, Titan Capital, Sparrow, Consumer Collective and Helios on February 17, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410733.992311,
+      "claim": "Inamo raised $8 million from Prime Venture Partners, Shastra VC, Antler India and Gemba Capital on March 2, 2026.",
+      "url": "https://www.entrepreneur.com/en-in/news-and-trends/prime-venture-partners-leads-usd-8-mn-investment-in-inamo/503082?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.7552628871970564
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410734.427379,
+      "claim": "Blinkit received a \u20b9450 crore capital infusion from parent Eternal on March 12, 2026.",
+      "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410734.427389,
+      "claim": "Swish raised $38 million from Hara Global, Bain Capital Ventures and Accel on March 23, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410734.667336,
+      "claim": "Ozi raised $6.2 million from RTP Global, Blume, Huddle and Zerpact on March 25, 2026.",
+      "url": "https://www.moneycontrol.com/news/business/funding/baby-care-quick-commerce-startups-ozi-raises-6-2-million-in-funding-from-rtp-global-13870561.html/amp?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/funding/baby-care-quick-commerce-startups-ozi-raises-6-2-million-in-funding-from-rtp-global-13870561.html/amp?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410734.6673532,
+      "claim": "Pronto raised an initial $25 million, later extended to $45 million, from Epiq Capital, Lachy Groom and prior backers in March 2026; the exact announcement day was not supplied.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410744.223974,
+      "claim": "BazaarNow raised \u20b972 crore, approximately $7.5 million, from Peak XV Partners, Whiteboard Capital, Antler, Nirman Ventures and named angels around June 9\u201311, 2026.",
+      "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.829978909380899
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410748.454648,
+      "claim": "For BazaarNow, the finalized \u20b972 crore figure in the supplied evidence was preferred over the preliminary $9 million \u201cin talks\u201d headline because it was more specific to the completed event.",
+      "url": "https://inc42.com/buzz/exclusive-quick-commerce-startup-bazaarnow-in-talks-to-raise-9-mn/?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.5768188691414472
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410748.454682,
+      "claim": "Plazza raised $15 million from Accel, Elevation, Nexus, All In and Better Capital on July 20, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410748.4546869,
+      "claim": "Fixxly raised $5.5 million from Accel, Fireside and Lightspeed India on July 29, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410754.2074618,
+      "claim": "HomeRun raised another $12 million from Nexus Venture Partners, Sorin Investments, Titan Capital, Sparrow Capital and Consumer Collective on August 6, 2026.",
+      "url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.7103322219671118
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410754.207476,
+      "claim": "Peeko raised \u20b967.4 crore, reported as over $7 million, from Chiratae, Stellaris and angels on August 20, 2026.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410754.510004,
+      "claim": "Zepto's reported $800 million IPO on July 17, 2026 was not confirmed as a completed funding event.",
+      "url": "https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/ipo/zepto-ipo-norges-motilal-oswal-to-invest-in-800-million-ipo-valuing-company-at-5-1-billion-post-money-13976803.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410754.510022,
+      "claim": "The supplied evidence references a $55 million FirstClub raise from Peak XV, Sofina and others but provides no announcement date.",
+      "verdict": "no_citation"
+    }
+  ]
+}

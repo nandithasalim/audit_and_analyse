@@ -25,7 +25,7 @@ from typing import Optional
 
 from src.analyst import AnalystResult
 from src.auditor import AuditResult, ClaimAudit
-from src.config import CHEAP_MODEL, STRONG_MODEL
+from src.config import CHEAP_MODEL, SEARCH_MODEL
 from src.jsonutil import parse_json_response, JSONParseError
 from src.llm import call_llm
 
@@ -92,9 +92,16 @@ def repair_answer(analyst_result: AnalystResult, audit_result: AuditResult) -> R
         return result
 
     for audit in flagged:
+        # SEARCH_MODEL, not STRONG_MODEL: this is the same "search and report
+        # back" shape as retrieve() -- find sources, say what they say -- not
+        # open-ended reasoning, so it gets the same cheaper web-search-capable
+        # tier. (Originally left on STRONG_MODEL reasoning it was low-volume/
+        # high-stakes; on reflection the task shape, not volume, is what
+        # should decide the tier -- retrieve() and this call are the same
+        # kind of task and should be routed the same way.)
         r = call_llm(
             _REPAIR_SEARCH_PROMPT.format(verdict=audit.verdict, claim=audit.claim_text, reasoning=audit.reasoning),
-            question_id=analyst_result.question_id, stage="repair", model=STRONG_MODEL, use_web_search=True,
+            question_id=analyst_result.question_id, stage="repair", model=SEARCH_MODEL, use_web_search=True,
         )
         result.cost_usd += r.cost_usd
         try:
@@ -115,6 +122,9 @@ def repair_answer(analyst_result: AnalystResult, audit_result: AuditResult) -> R
         f"{'REMOVE this claim, could not confirm it' if rc.resolution == 'unresolvable' else rc.new_text}"
         for rc in result.repaired_claims
     )
+    # CHEAP_MODEL here: rewriting a short answer paragraph to fold in already-
+    # decided fixes is a mechanical patch, not research -- the reasoning
+    # already happened in the re-search call above.
     r = call_llm(
         _PATCH_ANSWER_PROMPT.format(answer=analyst_result.answer, fixes=fixes_str),
         question_id=analyst_result.question_id, stage="repair", model=CHEAP_MODEL,

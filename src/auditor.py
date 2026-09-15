@@ -144,8 +144,15 @@ def _audit_one(claim_text: str, citation_url: Optional[str], question_id: str, r
         _log(result, "audit_claim", {"claim": claim_text, "url": citation_url, "verdict": "unverifiable", "error": str(e)})
         return audit
 
-    evidence = select_relevant_chunks(claim_text, chunks, top_k=5)
+    evidence = select_relevant_chunks(claim_text, chunks, top_k=5, question_id=question_id)
     if not evidence:
+        # HTTP fetch succeeded (200 OK) but extraction yielded zero usable text --
+        # in practice this has meant a JS-rendered page whose server HTML is an
+        # empty shell (see DECISIONS.md: titancompany.in returns 0 chars this way).
+        # This is NOT the same as "checked the source and it doesn't say this" --
+        # we never got real content to check against, so it belongs in
+        # "unverifiable", not "unsupported". Mislabeling it "unsupported" would
+        # make the auditor look more confident than it actually is.
         audit = ClaimAudit(claim_text=claim_text, citation_url=citation_url, verdict="unverifiable",
                             reasoning="Cited page returned HTTP 200 but no extractable body text (commonly a JavaScript-rendered page whose content isn't in the server-sent HTML) -- could not verify against it.",
                             evidence_chunks=[])
@@ -153,6 +160,14 @@ def _audit_one(claim_text: str, citation_url: Optional[str], question_id: str, r
         return audit
 
     chunks_str = "\n\n".join(f"[{c['index']}] {c['text']}" for c in evidence)
+    # CHEAP_MODEL, not STRONG_MODEL: this is a bounded judgement over a small,
+    # already-selected set of chunks (supported/unsupported/contradicted +
+    # a quote), the same category of task as fact extraction -- not
+    # open-ended reasoning. It also runs once per claim across every
+    # question, so it's the single highest-volume LLM call in the whole
+    # pipeline; downgrading it is the biggest cost lever available without
+    # a redesign. Worth re-checking verdict quality against a STRONG_MODEL
+    # run on a few claims before trusting this at face value in DECISIONS.md.
     r = call_llm(
         _AUDIT_PROMPT.format(claim=claim_text, url=citation_url, chunks=chunks_str),
         question_id=question_id, stage="audit", model=CHEAP_MODEL,

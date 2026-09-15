@@ -1,0 +1,95 @@
+{
+  "question_id": "q07",
+  "claim_audits": [
+    {
+      "claim_text": "Blinkit\u2019s most recent reported funding was a \u20b9450 crore capital infusion.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "The capital infusion was structured as a rights issue.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Eternal Ltd., Blinkit\u2019s parent, provided the funding and is the closest equivalent to the lead investor.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "The transaction was an intra-group infusion rather than a conventional third-party funding round.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "reasoning": "Could not fetch cited source: Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Moneycontrol is a higher-trust established-news source.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    }
+  ],
+  "cost_usd": 0.0,
+  "wall_clock_s": 5.662842273712158,
+  "trace": [
+    {
+      "step": "find_uncaptured_claims",
+      "t": 1789410977.5195332,
+      "n_found": 1,
+      "claims": [
+        "Moneycontrol is a higher-trust established-news source."
+      ]
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410977.9380639,
+      "claim": "Blinkit\u2019s most recent reported funding was a \u20b9450 crore capital infusion.",
+      "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410978.2133288,
+      "claim": "The capital infusion was structured as a rights issue.",
+      "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410978.537596,
+      "claim": "Eternal Ltd., Blinkit\u2019s parent, provided the funding and is the closest equivalent to the lead investor.",
+      "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410978.8503911,
+      "claim": "The transaction was an intra-group infusion rather than a conventional third-party funding round.",
+      "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "verdict": "unverifiable",
+      "error": "Client error '403 Forbidden' for url 'https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410978.850404,
+      "claim": "Moneycontrol is a higher-trust established-news source.",
+      "verdict": "no_citation"
+    }
+  ]
+}

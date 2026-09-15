@@ -1,0 +1,44 @@
+{
+  "question_id": "q08",
+  "original_answer": "Using Titan\u2019s official, recent disclosures, Tanishq\u2019s network grew from 479 stores in FY2023-24 to 557 in FY2025-26, an increase of 78 stores or about 16.3%. Titan\u2019s overall network rose from 3,035 to 3,603 outlets over the same period, an increase of 568 or about 18.7%, so Titan grew faster in both absolute and percentage terms. Titan\u2019s footprint extends beyond Tanishq and includes brands such as Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+; the FY2025-26 total also includes Damas.",
+  "repaired_answer": "Using Titan\u2019s official, recent disclosures, Tanishq had 479 stores in FY2023-24 and 557 stores at the end of FY2025-26, an increase of 78 stores or about 16.3%. Titan\u2019s overall retail network had 3,035 outlets in FY2023-24 and 3,603 outlets in FY2025-26, an increase of 568 or about 18.7%, so Titan grew faster in both absolute and percentage terms. Titan\u2019s footprint extends beyond Tanishq and includes brands such as Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+; Titan\u2019s FY2025-26 overall network total includes Damas.",
+  "repaired_claims": [
+    {
+      "original_claim": "Tanishq had 479 stores in FY2023-24.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Tanishq had 479 stores in FY2023-24.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2024-05/Q4FY24%20Earnings%20Presentation.pdf"
+    },
+    {
+      "original_claim": "Tanishq had 557 stores in FY2025-26.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Tanishq had 557 stores at the end of FY2025-26.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2026-09/Titan%20AR%202026_0.pdf"
+    },
+    {
+      "original_claim": "Titan\u2019s overall retail network had 3,035 outlets in FY2023-24.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Titan\u2019s overall retail network had 3,035 outlets in FY2023-24.",
+      "new_citation_url": "https://titancompany.in/sites/default/files/2024-05/Q4FY24%20Earnings%20Presentation.pdf"
+    },
+    {
+      "original_claim": "Titan\u2019s overall retail network had 3,603 outlets in FY2025-26.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Titan\u2019s overall retail network had 3,603 outlets in FY2025-26.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2026-04/Q4update202526.pdf"
+    },
+    {
+      "original_claim": "Titan\u2019s FY2025-26 overall network total includes Damas.",
+      "original_verdict": "unsupported",
+      "resolution": "confirmed",
+      "new_text": "Titan\u2019s FY2025-26 overall network total includes Damas.",
+      "new_citation_url": "https://www.titancompany.in/sites/default/files/2026-04/Q4update202526%20%281%29.pdf"
+    }
+  ],
+  "cost_usd": 0.4360954,
+  "wall_clock_s": 77.36418271064758
+}

@@ -28,7 +28,7 @@ config.DB_PATH = _tmp_db.name
 from src import memory  # noqa: E402
 from src.fetch import Chunk, chunk_text  # noqa: E402
 from src.jsonutil import parse_json_response, JSONParseError  # noqa: E402
-from src.retriever import select_relevant_chunks  # noqa: E402
+from src.retriever import select_relevant_chunks_tfidf  # noqa: E402
 
 PASS = 0
 FAIL = 0
@@ -121,7 +121,7 @@ def test_retriever_known_limitation():
         ),
     ]
 
-    ranked = select_relevant_chunks(claim, chunks, top_k=len(chunks))
+    ranked = select_relevant_chunks_tfidf(claim, chunks, top_k=len(chunks))
     print("  Full ranking for claim:", claim)
     for rank, r in enumerate(ranked, start=1):
         print(f"    #{rank} score={r['score']:.4f} chunk#{r['index']}: {r['text'][:90]}...")

@@ -1,0 +1,200 @@
+{
+  "question_id": "q04",
+  "question": "Who is the current CEO of Titan Company, and when did they take the role?",
+  "answer": "Titan Company does not list a company-wide officer with the title \u201cChief Executive Officer\u201d; its current Managing Director is Ajoy Chawla. He took the role on January 1, 2026, succeeding C. K. Venkataraman.",
+  "claims": [
+    {
+      "text": "Titan Company does not list a company-wide officer titled \u201cChief Executive Officer.\u201d",
+      "citation_url": "https://www.titancompany.in/leadership-team?utm_source=openai"
+    },
+    {
+      "text": "Ajoy Chawla is Titan Company\u2019s current Managing Director.",
+      "citation_url": "https://www.titancompany.in/leadership-team?utm_source=openai"
+    },
+    {
+      "text": "Ajoy Chawla became Managing Director on January 1, 2026.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-11/Q2FY26%2520Results.pdf?utm_source=openai"
+    },
+    {
+      "text": "Ajoy Chawla succeeded C. K. Venkataraman as Managing Director.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-05/SE09Successionplan.pdf?utm_source=openai"
+    }
+  ],
+  "plan_notes": "Check Titan\u2019s official leadership page for its current chief executive, then verify the role\u2019s effective start date in an appointment announcement or reliable news report, distinguishing it from the announcement date. Skip brand ownership research because the company is already identified.",
+  "entities": [
+    "Titan Company"
+  ],
+  "search_queries": [
+    "site.titancompany.in leadership current managing director chief executive officer Titan Company",
+    "Titan Company latest CEO managing director appointment succession effective date"
+  ],
+  "known_facts_used": [
+    {
+      "id": 1,
+      "subject": "Tanishq",
+      "relation": "is owned by",
+      "object": "Titan Company Limited",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400678.7875369,
+      "_fts_score": 6.147674120320402,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 139,
+      "subject": "Titan",
+      "relation": "includes",
+      "object": "Titan World",
+      "source_url": "https://www.titancompany.in/our-brands",
+      "question_id": "q08",
+      "confidence": 1.0,
+      "created_at": 1789411106.3310678,
+      "_fts_score": 2.5481315699518414,
+      "_blend_score": 0.23468518740266409
+    },
+    {
+      "id": 141,
+      "subject": "Titan",
+      "relation": "includes",
+      "object": "Titan Eye+",
+      "source_url": "https://www.titancompany.in/our-brands",
+      "question_id": "q08",
+      "confidence": 1.0,
+      "created_at": 1789411106.3339121,
+      "_fts_score": 2.5481315699518414,
+      "_blend_score": 0.23468518740266409
+    },
+    {
+      "id": 142,
+      "subject": "Titan",
+      "relation": "includes",
+      "object": "Tanishq",
+      "source_url": "https://www.titancompany.in/our-brands",
+      "question_id": "q08",
+      "confidence": 1.0,
+      "created_at": 1789411106.3362691,
+      "_fts_score": 2.1254560794243087,
+      "_blend_score": 0.07589444822630242
+    },
+    {
+      "id": 136,
+      "subject": "Titan",
+      "relation": "includes",
+      "object": "Mia",
+      "source_url": "https://www.titancompany.in/our-brands",
+      "question_id": "q08",
+      "confidence": 1.0,
+      "created_at": 1789411106.325015,
+      "_fts_score": 2.1254560794243087,
+      "_blend_score": 0.07166734581582183
+    }
+  ],
+  "retrieval": [
+    {
+      "query": "site.titancompany.in leadership current managing director chief executive officer Titan Company",
+      "text": "**Titan Company Limited\u2019s current Managing Director is Mr. Ajoy Chawla.** ([titancompany.in](https://www.titancompany.in/leadership-team?utm_source=openai))\n\nTitan does **not** list one company-wide officer titled simply \u201cChief Executive Officer\u201d on its leadership page. Its business-division CEOs include:\n\n- **Mr. Arun Narayan** \u2014 Chief Executive Officer, Jewellery  \n- **Mr. Kuruvilla Markose** \u2014 Chief Executive Officer, Watches  \n- **Mr. N. S. Raghavan** \u2014 Chief Executive Officer, Eyecare  \n- **Manish Gupta** \u2014 Chief Executive Officer, Fragrances & Women\u2019s Bags ([titancompany.in](https://www.titancompany.in/leadership-team?utm_source=openai))\n\nFor context, Ajoy Chawla succeeded C. K. Venkataraman as Managing Director effective **January 1, 2026**. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-05/SE09Successionplan.pdf?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/leadership-team?utm_source=openai",
+          "title": "Leadership at Titan Company Ltd."
+        },
+        {
+          "url": "https://www.titancompany.in/leadership-team?utm_source=openai",
+          "title": "Leadership at Titan Company Ltd."
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/SE09Successionplan.pdf?utm_source=openai",
+          "title": "PRESS RELEASE"
+        }
+      ],
+      "cost_usd": 0.034268,
+      "search_calls": 1,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "Titan Company latest CEO managing director appointment succession effective date",
+      "text": "**Titan Company\u2019s Managing Director succession is effective January 1, 2026.**\n\n- **Ajoy Chawla** succeeded **C. K. Venkataraman** as Managing Director.\n- Venkataraman retired/superannuated on **December 31, 2025**.\n- Chawla, previously CEO of Titan\u2019s Jewellery Division, was appointed Managing Director for a **five-year term starting January 1, 2026**, subject to shareholder approval. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-11/Q2FY26%2520Results.pdf?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-11/Q2FY26%2520Results.pdf?utm_source=openai",
+          "title": "SEC 98 / 2025-26"
+        }
+      ],
+      "cost_usd": 0.033664,
+      "search_calls": 1,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    }
+  ],
+  "facts_saved": 4,
+  "cost_usd": 0.09255000000000001,
+  "wall_clock_s": 38.312227725982666,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789415706.980014,
+      "entities": [
+        "Titan Company"
+      ],
+      "known_facts": 5,
+      "search_queries": [
+        "site.titancompany.in leadership current managing director chief executive officer Titan Company",
+        "Titan Company latest CEO managing director appointment succession effective date"
+      ],
+      "plan_notes": "Check Titan\u2019s official leadership page for its current chief executive, then verify the role\u2019s effective start date in an appointment announcement or reliable news report, distinguishing it from the announcement date. Skip brand ownership research because the company is already identified."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789415712.9424698,
+      "query": "site.titancompany.in leadership current managing director chief executive officer Titan Company",
+      "n_citations": 3,
+      "search_calls": 1
+    },
+    {
+      "step": "retrieve",
+      "t": 1789415714.070443,
+      "query": "Titan Company latest CEO managing director appointment succession effective date",
+      "n_citations": 1,
+      "search_calls": 1
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789415716.613173,
+      "query": "site.titancompany.in leadership current managing director chief executive officer Titan Company",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ],
+      "chunks_total": 4,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789415717.46313,
+      "query": "Titan Company latest CEO managing director appointment succession effective date",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ],
+      "chunks_total": 2,
+      "chunks_kept": 2
+    },
+    {
+      "step": "synthesize",
+      "t": 1789415722.750624,
+      "answer": "Titan Company does not list a company-wide officer with the title \u201cChief Executive Officer\u201d; its current Managing Director is Ajoy Chawla. He took the role on January 1, 2026, succeeding C. K. Venkataraman.",
+      "n_claims": 4
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789415733.992908,
+      "facts_saved": 4
+    }
+  ]
+}

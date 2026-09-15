@@ -1,0 +1,302 @@
+{
+  "question_id": "q08",
+  "claim_audits": [
+    {
+      "claim_text": "Tanishq had 479 stores in FY2023-24.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+      "verdict": "unsupported",
+      "reasoning": "The provided evidence chunks are garbled and do not state Tanishq's store count for FY2023-24. They neither confirm the figure of 479 nor provide a conflicting number.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "\ufffd\u0001V\ufffdw\ufffd\ufffd(\u0013W\ufffd\ufffd?\u0015\ufffd\ufffd\ufffda\u0005\ufffd3\ufffd\ufffd\u02f1\ufffdK\ufffd\ufffd\ufffdt\u0113\ufffd\u000f\ufffdu\u001fV\u0013\ufffdqMf\u0003\ufffd\ufffd;\\\u0491(\u07be1~\ufffd\ufffd*\u007f\ufffd\ufffd\ufffd\ufffdw\ufffd1\ufffd@\ufffd\ufffd\u0003Q\ufffdw~\ufffd)\ufffd\ufffd\ufffdG\u06c1\u0313\u07b9?\ufffd\ufffdUr\ufffd\u0421[\ufffd\ufffdCH\rG3\ufffd\ufffd\ufffd\ufffdJJ\ufffd\ufffd}\u0006o\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdJ\u067d\u0002\ufffd0\ufffd\ufffd\ufffd\u0013\u9902\n.",
+          "index": 2405,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.12263375435584548
+        },
+        {
+          "text": "5\ufffd\ufffd\ufffd\u0005\ufffd\u015a\ufffd\"\ufffd\u001c\ufffdcq.u\ufffdY)\ufffd\t4",
+          "index": 1790,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.1174132998571671
+        },
+        {
+          "text": "\ufffd\u0011\u56ebT\u0011\ufffd3L)\ufffd6\ufffd\u0586\u001e\ufffd\u0016\ufffd.TY\ufffdl\\)7\ufffd=\ufffd\ufffd\ufffd\ufffd\ufffd\b2\ufffd\u001d\u0017\ufffdS\ufffd3d\u001a\ufffdj1\ufffd=\ufffd\ufffd?\ufffd\t\u0004\ufffd\ufffd\u0013J)3|~\ufffdD\ufffd\ufffd\ufffd)\ufffd \ufffd\ufffdL\u0006#\ufffd\ufffd\ufffd\ufffd$_\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd\ue4cdq\u001e}R_\u0001\u0258\u001fM\ufffd\u00169/\u0018\ufffd}\ufffd\ufffd(m7\ufffd\ufffd\ufffd\u0013\ufffd\ufffd\bT\u0016\ufffdr^\ufffd\ufffd=\u0001\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffdq\"\u001c\ufffd\ufffd,\ufffd(\u0683\ufffd8\u0016'(\u04ea\ufffdM\u001cn\ufffd\ufffd3\ufffdWX44#-\ufffd\u0013\ufffd\ufffd\ufffd~\ufffd\u01da\ufffdd\b\ufffd9\ufffd/g\ufffd\ufffd>A\ufffdpo\ufffd\ufffdf.\ufffdk&\u040cM\ufffd\ufffd\ufffd\ufffdq\ufffd@\ufffd\u0016\ufffdp\ufffd{\ufffd\ufffdS\ufffd\ufffdx\ufffd!",
+          "index": 1568,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.116208784249268
+        },
+        {
+          "text": "&\u06e4\ufffd\ufffd9B\ufffd\ufffd\nEx\ufffd\u001d$\ufffd\ufffd:\ufffd-\ufffd3\ufffd?",
+          "index": 3142,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.11497156575190194
+        },
+        {
+          "text": "\ufffd \ufffd.\u0013\ufffd<DwYz\u001a\ufffd.\ufffd!\ufffd\ufffd\u0004\ufffdtT\ufffdo\ufffd|Z\ufffd/\ufffd\ufffdB C\ufffdI\u00016\ufffdV[\\V\ufffd\u001cr$\ufffd\u0004}!\ufffd)m\ufffd\ufffd\b\u0015.",
+          "index": 1487,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.11342717300347624
+        }
+      ]
+    },
+    {
+      "claim_text": "Tanishq had 557 stores in FY2025-26.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+      "verdict": "unsupported",
+      "reasoning": "The evidence chunks consist of image/resource references and corrupted or unreadable text. They do not state that Tanishq had 557 stores in FY2025-26, nor do they provide a conflicting store count.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "Image15555 7888 0 R/Image15557 7890 0 R/Image15559 8394 0 R/Image15561 9491 0 R/Image15563 7892 0 R/Image15565 7894 0 R/Image15567 7896 0 R/Image15569 7898 0 R/Image15571 7900 0 R/Image15573 7902 0 R/Image15575 7904 0 R/Image15577 9490 0 R/Image15579 7906 0 R/Image15581 7908 0 R/Image15583 7910 0 R/Image15585 7912 0 R/Image15587 7914 0 R/Image15589 7916 0 R/Image15591 7918 0 R/Image15593 9492 0 R/Image15595 7920 0 R/Image15597 7922 0 R/Image15599 7924 0 R/Image15601 7926 0 R/Image15603 7928 0 R/Image15605 7930 0 R/Image15607 7932 0 R/Image15609 7934 0 R/Image15611 7936 0 R/Image15613 7938 0 R/Image15615 7940 0 R/Image15617 7942 0 R/Image15619 7944 0 R/Image15621 7946 0 R/Image15623 9494 0 R/Image15625 7948 0 R/Image15627 7950 0 R/Image15629 7952 0 R/Image15631 7954 0 R/Image15633 7956 0 R/Image15635 7958 0 R/Image15637 7960 0 R/Image15639 7962 0 R/Image15641 7964 0 R/Image15643 7966 0 R/Image15645 7968 0 R/Image15647 7970 0 R/Image15649 7972 0 R/Image15651 7974 0 R/Image15653 7976 0 R/Image15655 9156 0 R/Image15657 9493 0 R/Image15659 7978 0 R/Image15661 7980 0 R/Image15663 7982 0 R/Image15665 9497 0 R/Image15667 8394 0 R/Image15669 9498 0 R/Image15671 7984 0 R/Image15673 7986 0 R/",
+          "index": 13037,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.16051910232953437
+        },
+        {
+          "text": "5eV\u0007.",
+          "index": 6889,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.15362412553383437
+        },
+        {
+          "text": "851 0 R/P5408 10852 0 R/P5410 10853 0 R/P5412 10854 0 R/P5414 10855 0 R/P5416 10856 0 R/P5418 10857 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject<</Image1671 8436 0 R/Image25 8376 0 R/Image3823 8639 0 R/Image4477 8716 0 R/Image46 8373 0 R/Image5362 2534 0 R/Image5364 2536 0 R/Image5366 2537 0 R/Image5367 2538 0 R/Image5368 2539 0 R/Image5369 8790 0 R/Image5371 8791 0 R/Image5373 8792 0 R/Image5375 8793 0 R/Image5377 8794 0 R/Image5379 8797 0 R/Image5381 8798 0 R/Image5419 2541 0 R/Image5421 2543 0 R/Image5423 2545 0 R/Image5425 2547 0 R/Image5427 2549 0 R/Image5429 2551 0 R/Image5431 2553 0 R/Image5433 2555 0 R/Image5435 2557 0 R/Image5437 2553 0 R/Image5439 2559 0 R/Image5441 2561 0 R/Image5443 2563 0 R/Image5445 2565 0 R/Image5447 2567 0 R/Image5449 2569 0 R/Image5451 2571 0 R/Image5453 2573 0 R/Image5455 2575 0 R/Image5457 2577 0 R/Image5459 2575 0 R/Image5461 2579 0 R/Image5463 2581 0 R/Image5465 2583 0 R/Image5467 2585 0 R/Image5469 2555 0 R/Image5471 2553 0 R/Image5473 2587 0 R/Image5475 2589 0 R/Image5477 2591 0 R/Image5479 2593 0 R/Image5481 2595 0 R/Image5483 2597 0 R/Image5485 2599 0 R/Image5487 2601 0 R/Image5489 2603 0 R/Image5491 2591 0 R/Image5493 2605 0 R/Ima",
+          "index": 5029,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.14596350063076044
+        },
+        {
+          "text": "j\ufffd\u0184\u02af52\ufffd\ufffd5r\ufffd\ufffd\ufffd\u001a\u05e9\ufffd\ufffdF\u068d}c?",
+          "index": 10721,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.14531673604704437
+        },
+        {
+          "text": "\ufffd\ufffd\u001dT.",
+          "index": 1343,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.14420315809171316
+        }
+      ]
+    },
+    {
+      "claim_text": "Tanishq added 78 stores, representing growth of about 16.3%, from FY2023-24 to FY2025-26.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Titan\u2019s overall retail network had 3,035 outlets in FY2023-24.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+      "verdict": "unsupported",
+      "reasoning": "The evidence chunks are corrupted or unintelligible and do not state Titan\u2019s retail outlet count for FY2023-24. They neither confirm nor contradict the figure of 3,035 outlets.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "~\u0006\u0016\u0013\ufffd+\ufffd\u02e8.\u0015\ufffd\ufffd\ufffd@\ufffd\u007f\ufffdu\ufffd\b\u007f\ufffd\ufffdn\u001b~\ufffd\ufffd\u01f8\ufffd%\ufffd(\ufffdu\ufffdg\u001b\ufffd\u0007\ufffd@\ufffd\ufffdTD\ufffd\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffd<H\ufffd\ufffdE\ufffd\ufffd\u06c3y&\ufffd|\ufffd\ufffd\\\ufffd\ufffd\ufffd\u001f\n\u0015\ufffdO\ufffd\u049f\ufffd#m\ufffdTD\ufffdG\u000b\ufffd#f\ufffd4!",
+          "index": 1588,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.16014979339984345
+        },
+        {
+          "text": "\u0017/W{\ufffd\ufffd\u0299x\u0014\ufffd\u02f0M2x\ufffd?\u00188m\u0018r}\ufffd\ufffdb\ufffdQ\ufffdvh\ufffd#\ufffd*#t\ufffd\ufffd\ufffd\u0225\ufffd\ufffd\u07a7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdf\u0015\u0017\ufffdG\ufffd\ufffd\ufffd\u0458\"\ufffd\ufffdS\ufffd\u0011\ufffd.\ufffd\ufffdD\ufffddEJ\u01c34\ufffd\ufffdGTP\ufffd\ufffd_\ufffdH\ufffd\ufffd\ufffd\ufffdg\u03fe\ufffd\ufffdv\ufffd\ufffd@\ufffd\u001c;C\ufffd\ufffd\u0003.\u0005LtX\u05b3\ufffd\ufffd5\ufffdZ\ufffd\ufffd/Z1W\ufffd\ufffd\ufffd\u0007d\u000bm\ufffd\u0081\ufffd\ufffdR4\ufffd_>\ufffdY\ufffd\ufffd\ue9be\ufffd\ufffd\fo_3\ufffd~P\ufffd8\ufffdB\ufffd\ufffd\u0016o\ufffd\ufffda.\ufffd6Jw\u0653'\ufffd\ufffdg\ufffd?\ufffd\ufffd\ufffdy\ufffd\u007f\ufffdj>\ufffd\ufffdG\u001b\ufffd=\ufffdC\u00015\ufffd\u0013\ufffd\u02fe\f\ufffd\ufffd\ufffdb\u0568\ufffdY\ufffdtE\ufffd\ufffd\ufffd\ufffdr~ai\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=x\ufffd\ufffd\ufffdyd\ufffdzM\ufffd\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffd\r\ufffd\ufffd\u0013FA\ufffdixS\ufffd\ufffd\ufffd\ufffds\u001d\tT\ufffdN{U\u001b\ufffd\ufffd6SI\ufffd?\ufffd\ufffd\ufffd}R\u0011Q\u0014f\ufffd\ufffd\ufffd\ufffd\ufffd[y\ufffdkM\u02b2>Y\u00156\ufffdF\ufffdz\u0416v\ufffdR}\ufffd\u0002\ufffd\u0728N \ufffdZ,c\u001a\ufffd)-\u001f\ufffd+\ufffdD|\u0125\ufffd\u0004\ufffdc\ufffd\ufffdp\ufffd\u0005\ufffd\ufffd*\n\ufffd\u0005\ufffd\u91c0/\ufffd\ufffd5\ufffd_\ufffd\ufffd\b\ufffds\ufffd\ufffd\ufffd\ufffd\ufffd=\u0304aU\ufffdu\ufffd\u0005\ufffdF%\u0017\ufffd{8\f\ufffd\ufffd7~X\ufffd\ufffd3v\ufffdEj\ufffdq\ufffdV\ufffd\ufffd\ufffdu\ufffd\ufffdV\ufffd\t\ufffd`/t\ufffd\ufffd;B\u0014\u0007&=\ufffd\u001c\ufffd\u000e\u001f\u0013\ufffd0\ufffd\ufffd`\ufffd\ufffd\ufffdnE5VO\ufffd(\ufffdv\ufffd)\ufffd\u001a\ufffd\u000fWt\ufffd\u000b\u001f\u0355\ufffd\ufffd\u0005\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffd{\ufffd~+\ufffd\ufffd\ufffd\u0002b\ufffd\ufffd2\u001d\ufffd\u07ed\u0604\ufffd\ufffd\ufffdq\ufffdQ\ufffdM\ufffdw\ufffd\ufffd\u0000\ufffd\ufffd\ufffd\u000e`\ufffd6\u0004\ufffd\u0012&w\u001e>%\ufffd[\ufffd\ufffdW\u0007\ufffd\ufffd\ufffd.\ufffd\ufffd\u078c\ufffdb\ufffd\ufffd^\u001d\ufffd1\ufffd\ufffd'\ufffd\ufffd\u001e\ufffd\n\ufffd\ufffdbT\ufffd\ufffd\ufffd(\u000b~\u0015\ufffd*\ufffd\ufffd\ufffdNNg\ufffd\u0006m\ufffd\u0006\u001b\ufffd\ufffdz\ufffd\ufffdU\u001c\u00156\ufffd\ufffd\ufffd\ufffd\u001c\ufffd(Y\ufffdLb\ufffd%\u0013\ufffdQ\ufffd/\u0014:<\ufffd\ufffd o\ufffd\ufffd} \\\ufffdW\ufffdU3\u000e\ufffd\ufffd\u000b\ufffd^8\ufffd\ufffdv\ufffd\u0003\ufffd D#\ufffd\ufffd\ufffd_\ufffd\ufffdf\ufffdI\ufffdv%\ufffd\u0012\ufffd\ufffdc;\ufffd\ufffd\u0005|\ufffdC8}\ufffd\ufffd\"j\ufffd\ufffd\ufffd\ud856\ude3a\ufffd7\ufffd3d9\u001c\ufffd\u0019\ufffd\rD\ufffd0\ufffd\ufffd)\ufffd\b)\ufffd2\ufffd\ufffd\u013e\u001eT\ufffd\ufffd\ufffd\u047cDyaC\ufffd\ufffd\ufffd\ufffd\ufffd\u0018\ufffd\ufffdJ\u0016\ufffd\u001d\ufffd\ufffd\ufffd\ufffdR~\ufffd\ufffd\f\u02aa\ufffd\ufffdbyy=\u4e1e\ufffdG`X\ufffdl\ufffd\ufffd\n\ufffdK\ufffd\ufffd}\u000b\u0004\ufffd\u0002hM\ufffdQ\ufffd[\ufffd\ufffd_\ufffd\u0015\ufffd\ufffdK\ufffd\ufffd\"\ufffdt\u001e\ufffd\u001aU?\ufffdn\u02b5\ufffd\u0007M\ufffdK\u0010\t\ufffd\u001e\ufffd\ufffd\ufffd\ufffdJ\ufffd7X\ufffd%\ufffdv\ufffd\ufffd\u0460\\\ufffd\ufffd\u0010G\u0014\u0415\ufffd\ufffd\ufffd\ufffd\ufffd1\u001c\ufffdu\ufffdX\ufffd\ufffd\ufffd\ufffdej\u0018\u0011\ufffd^[:e]Q;P\u0017\ufffdQ\u001d\ufffd\ufffd\ufffd\ufffd|\ufffdR\ufffd<\ufffd\u0012\ufffd\n\ufffd\u0018vs\u000f\ufffd\ufffd\ufffd\ufffdA>\u0013\ufffdc\u001d\ufffd\ufffd\ufffd\ufffd1K\ufffd\ufffd\u0019\u0004:\ufffd\ufffd\u02af\u001f\ufffd\ufffd\ufffd\ufffd\ufffd<Z\ufffd+\ufffd\ufffdYc\ufffd\u0014\ufffd\ufffdT\u0010A\u01bc\ufffd\u0016\ufffd\ufffd\u0014<S6R1\ufffd\ufffd\u0013$\t\ufffd~Ux\ufffd\ufffd^\u000e\u0011\ufffdK\ufffd\ufffd\ufffd\ufffd\u000f\ufffd\ufffd0\ufffd\ufffd\u0017\ufffd\u007f\u0007\ufffdIX\ufffd\r\ufffd\ufffdGg\ufffd\u0002;cQ\ufffd&c0C\ufffdo3\ufffd\u05c8\u0011\f\ufffdF\ufffd\ufffd\ufffd\u015c\u048e\ufffd\u0006\ufffdo;\u001a\ufffd\ufffdj<\u0015#\ufffdl\ufffd\u0012f]#\ufffd\ufffd}}\ufffd\u07af\ufffd]\ufffd\ufffd\ufffd\u0171\ufffd\ufffd\u0001l\ufffd\u0006n\u0002\ufffd\ufffd+w+\u000f\ufffd\u0004R?\u0003\ufffd\ufffd\u0014\ufffd]\u0001\ufffdg\ufffd\ufffd\ufffd\u0018\ufffd\ufffd\"9\ufffd\ufffd\ufffd+}\ufffd\ufffd\u00022U`\ufffd$*\ufffd\ufffd\ufffd7\ufffd~\ufffdMs\u0003\ufffd\"T\ufffd\ufffd[\ufffd\ufffd\u0548F\ufffd4\ufffd\ufffdI\ufffd\ufffd\ufffd\ufffd\ufffdl\u000b7lM\ufffd\u0018\u001d\ufffd\u0000\ufffd\ufffd\ufffd\ufffd\u00a9\ufffd\u0001\ufffdx\ufffd\u0007\"\n8(\ufffd\ufffd\u0007\u038a\ufffd:!TvC\ufffdW\ufffd\ufffd\ufffdpZ\ufffd\ufffd&\ufffd\ufffd1\ufffd\u000f\u02a4j\ufffd\u0004\ufffd\u0712\"\u000f\ufffd\ufffd\ufffde\ufffdZ]\ufffd\ufffdw]\ufffdk\ufffd\ufffd_@\ufffd\ufffd\ufffdE\ufffd\ufffd\ufffd\u0287/?\ufffd:\ufffd\u000b\ufffdA\ufffd\u001d|\ufffd\u0012\u0000\ufffdd\ufffdO\ufffdP\ufffd%\ufffdM\ufffd\"\u0528!\ufffdl\ufffdw\ufffd\ufffdq\ufffd\u0013\ufffd \ufffd\ufffd\u0010\ufffd\u628f7\ufffd\ufffd\u001c\"",
+          "index": 3206,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.15807670943116953
+        },
+        {
+          "text": "\ufffd\ufffd\u0442c\u0005\ufffd\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\u000e\ufffd\ufffdD\u07fc\ufffd\ufffd\ufffd\ufffd2'7\ufffd\ufffd\ufffd\n\ufffd7\\\ufffd\ufffdzf\ufffdg\ufffd\ufffd\ufffd\\\ufffd\fE:\ufffd\\O\u02c5]\ufffd3\ufffdJ\ufffd\u02e6\ufffdJ\u0014\u0012\ud8f9\udf30\u0001\u0016j\ufffd\u0733;\ufffdOqO\ufffd\u001c\ufffd\ufffdb1\ufffd\ufffd\ufffd\ufffdk\ufffd\ufffd\ufffdY*\ufffdJM\u0019\ufffd\ufffd\ufffd\ufffd\u0004\ufffd?",
+          "index": 3433,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.1516348094689897
+        },
+        {
+          "text": "7\u0000tx\u0004\u0004\ufffdTv\ufffdP\ucc8f\ufffd\r\ufffd\ufffd\ufffd\ufffd\ufffdRk\u0006,'\ufffd\ufffd\u03a5mR\u07e5\u0018w\ufffd\u001d\ufffd\uac03Q\ufffdu\ufffd\ufffdo}\ufffd\ufffdY\u07f5ux\ufffd\ufffd\u0006\ufffdI,\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd,\ufffdm\ufffd?\ufffdw\ufffd\ufffd`q\ufffd\u0015\ufffdn\ufffd\t\u0007\u0012l]\u0010t\ufffd\ufffd\u02ca\\\ufffdI\ufffd\ufffd%\ufffdTI\ufffd\ufffd3\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\u0001\ufffdY\n\u0011\ufffd5\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdE\ufffd5\ufffdFN#r\ufffdV]M6.\ufffd\ufffd%v=F\u06dex\ufffd\u001f\ufffdlJ3/C\ufffd\f\ufffd)\ufffd\u001a\u0018\ufffd\ufffd3g=n(2\ufffd\u001b\ufffdZ\ufffd\u01e8\u0005\ufffd*|\\4\ufffd\ufffd\u049a\ufffd\u0018\ufffdOYq\ufffd1=_w\ufffd\u001fr\ufffdH\u001f\u001d\u0006\ufffd\ufffd\u001f\ufffdI\\\ufffd\ufffd,G\ufffdgy\ufffdemU\ufffd\ufffd\ufffd\ufffdh5X_\u06ea+c\ufffd\ufffd3;\ufffdk\ufffdh\ufffd\u0011\ufffd7xz\u0010\ufffdNNQ\ufffd\ufffd(svC-\ufffd\ufffdq\ufffd\ufffd7\ufffd\ufffd\u00115':\ufffd!zV\ufffd\ufffd\ufffd{\u0004\ufffd\u0018\u0007\ufffdj\u001dY6#\ufffd\ufffdx\u0015F\ufffd\ufffd\ufffd)[\"s\ufffd\u0168\ufffd\u0010*K_\ufffd/\u0001q\f\ufffd\u0016\ufffd\u0783o\u06a8\ufffdfK\u02cd\ufffd\u0004V\ufffd\"\ufffd\ufffd\n[\ufffdO\ufffd\ufffd)\ufffd\ufffd\ufffd\ufffd\ufffdm\ufffduY\ufffd\u0000\ufffdW\ufffd\ufffd\u000e\ufffd)\ufffd\ufffd\ufffd$\n\ufffd\u0005\u0003\ufaec\ufffd\ufffdS\ufffdZ\ufffda\ufffd\u001a\ufffd\ufffd\ufffdw\t\ufffdN\u066b/\ufffdO\ufffd\ufffd\u0012\u0006\ufffdT\ufffd\u0715\ufffd`P\ufffdh\ufffd\ufffd)\u001e\u0016\\\u0773\ufffd)\ufffddy\ufffd\u0016e2\ufffd%\ro\\\u001cc\b\ufffd\ufffd0XG:sYj3\ufffdf\ufffd\ufffdhJE\ufffd\ufffd\ufffd\ufffd\ueb9a\u001a3\ufffdw\ufffd\ufffd\ufffd\ufffdoYg\ufffd/\u0004\u0003V\ufffd\u001f\u0001\ufffdCP\ufffd8f1\u0003\ufffd\u0004\ufffd\u050cV\ufffd\u0018\ufffd\u001a\u03b1\ufffdg\ufffd\ufffd,ZC\ufffd+\ufffd\ufffd8\ufffdC\ufffd5\ufffd\ufffd\ufffd@S\ufffd\ufffd\u0013\ufffd\u001d\ufffd\u0003=\ufffd\ufffd\ufffd\ufffdj\u001b\u00e7R\ufffdzD\ufffd8\ufffd\ufffd\ufffd=s\ufffd\ufffdKA6y\ufffd\u000eK\ufffdn\ufffd\ufffd\ufffd\u001c\ufffd\ufffd\u001c\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffd\ufffd\\\u0007\u0016\"\ufffd4\ufffdAp\u00140\ufffd\ufffd(\u025c)\ufffdoE.\u001bA\ufffdi\ufffd0z\u0001\ufffd\tS/>\b\ufffd\t\u04c3\t`\ufffdH\ufffd:+%\ufffd\ufffd\ufffdd@\ufffd\f\ufffdQ\ufffd\ufffdb[m\u0005\ufffdw}+\u000bK\ufffd%\ufffd\u000b\u0014?\ufffd\ufffd\ufffd<\ufffdIx\ufffd\ufffd9\ufffd\ufffd}\u0012\u0002_\ufffd\ub6e4\ufffd'\ufffd`T7\ufffd\ufffd\ufffdi\ufffdC\b\ufffd{\ufffd\ufffd\ufffd\ufffdU\u0000\ufffd\u0015x\ufffd|2\ufffd\ufffd\ufffdt\ufffd\ufffd\u001a\ufffd\ufffd\u0019G\ufffd8?\ufffdlO\\\ufffd\u0012\ufffd\ufffd\ufffd&\ufffd\ufffd2\n\ufffdn\u001c\ufffd\t\ufffdl]\ufffd\ufffdE^t\ufffd\ufffdR\ufffd\ufffd\u007f\ufffd\u001e\ufffd2v\u0011\ufffd\ufffd,G)\u001b\ufffd\ufffd|\ufffd\u0003\ufffd\ufffdTg\ufffd\ufffd\ufffd\u0015\ufffd!",
+          "index": 641,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.15158644049567768
+        },
+        {
+          "text": "\u0000\ufffdKr\ufffd\ufffdR\ufffd\u001c\ufffd\ufffd\ufffd\ufffd\u0018f\ufffdC\u0017\ufffd\ufffd\u0000U\u001dI>\ufffd.\ufffd.\ufffdJ\ufffd\u001b\ufffd\u0002N\ufffdg<Q\ufffd\u01ed\ufffdQ\ufffd\ufffdmo/\f\ufffd\\\ufffdl\ufffds\ufffd[\u0001\u0011#UQ\ufffd\ufffd\ufffd\ufffd\u0001\ufffd\ufffdzzTN\ufffdt\u0003\u001e\ufffd\ufffdN\ufffdz\ufffd\ufffd'\u03f6\\)<\ufffd\ufffd\ufffd\ufffd\ufffdA\u0101\ufffd\ufffd]O?(\ufffd\ufffd\ufffdE\ufffdz\ufffd\ufffd<\u0013\ufffdV\ufffdb\ufffd6\ufffd\ufffd~\ufffdq\ufffd\ufffd)7r\ufffdgN\ufffd\u000b\ufffd$\ufffd\u9dc2NH\ufffd\u06e7\ufffd\ufffd\ufffd\u0004w\ufffdW\ufffd\u0015\u0774p;V\u0015\ufffd\ufffd1\u001f\ufffd*,n\ufffd\ufffd\u0330\ufffdn\ufffd?\ufffd\ufffd\u0000\u0003\u06b2\f\ufffd4\ufffd'\u0014\ufffd\ufffdqp\ufffdO\ufffd\ufffdVf'\ufffd\ufffd-\ufffd\ufffd\ufffd\ufffdB\ufffdqL&\ufffd\ufffd0\ufffdN\u0007&\ufffd-\ufffdja'\ufffdU\ufffd4\ufffdm>\ufffd$0I=\ufffd$(dv\ufffd\u0005\u001c\ufffd\f\u072e9\ufffd\ufffdYs\ufffd\ufffdW4\ufffd+\ufffdJC\ufffdx\ufffd\ufffd:\ufffd\ufffd(\ufffdkr\ufffd\ufffd\ufffd\ufffdK\ufffd\ufffd\ufffd\ufffd\ufffdT\ufffd\ufffd\ufffd\ufffd\u0711G\ufffd5TU_\ufffdG\u0002\ufffd\u02f0\ufffd\ufffd=\u0006\ufffd\ufffd\u0112\ufffd\ufffdL?\ufffd\ufffdA\ufffd\u0015j{\ufffdt\u001d:\u000e\ufffdK.\u0013~\u000e:}MP\ufffdERZF\u0007\ufffd\u0003\u04a1\u0756\ufffdKs#\u001e\b\ufffd\f\ufffd\ufffd\u001c\u001fZ\ufffd\ufffd\ufffd\ufffd\u0018B8\u001d\ufffd\ufffdO\ufffdEd\ufffd\u0019=\u000f4\ufffdX;\ufffd\u0000\u0007\ufffd\ufffd\u0489I\u00189\ufffd$\ufffd0\ufffd\ufffd\u0011Q\ufffd\ufffd9\ufffd\"S&\u0007^\r7\ufffd9\ufffdF\ufffd\ufffd4\ufffd=\ufffd\u0011.\ufffdi7z\ufffd4\ufffdHh\u0010\ufffd;\ufffdy:\ufffdg\ufffdN\ufffd\u000bt\ufffd\u0015I\ufffd\u0014d\u000e2852\ufffd\u0004\ufffdU\ufffd\u0004\ufffd\ufffd\u0019\u0002\ufffdS\u0002\ufffdK\ufffd\ufffd\ufffd\u8b19\ufffdQ:\ufffd\u0014\ufffd\u027a;#\u0014\ufffd\ufffdG\u001b\ufffde\ufffd\u00184\ufffdZB\ufffd\ufffd\ufffd\ufffd#\u0018\u0015\u001a\u038c\u0015\ufffd\u0012\u0018S\ufffd\ufffd)\ufffdE\ufffd\ufffd4\u0019\ufffd\ufffdD\ufffd_yl\ufffd\ufffd\u022c\ufffd\ufffd+t\ufffdp+v\ufffdWy^G\ufffdsYS\ufffd\ufffd\ufffd\u0019\u0006\ufffdH\ufffd~\ufffd\ufffd\ufffdEAjK@S\ufffd*\ufffd\ufffd\u001f=;\ufffd1\u0000Q\ufffd>\ufffd0(\ufffd\f\ufffd]\u001ct5-\ufffdN\ufffd\u001f\ufffd\ufffdk/\ufffd+\ufffd0\u0017\ufffdU\ufffd\ufffd\ufffd|\ufffd\u001c.j\ufffde\ufffd\u000boj\u0015\ufffdw4\"\uc03a\u001c)\u666a\ufffd\ufffd\ufffd\u0003\ufffd\u0002\ufffdX\ufffdF\t\u0018\ufffd1\u0012\ufffd\\,\ufffd&\ufffd\u049b\ufffd\ufffd3\u031c\ufffdx\ufffd,-\ufffd\ufffdV-\ufffd\ufffd\ufffd\ufffd\u0003\ufffd<n\ufffd\u0012\u000bv\ufffd\ufffd\ufffd\u007f\ufffdEMuk\ufffd\ufffd\ufffd\u001c\ufffd\ufffd\u04f5\tDV!\ufffd9>\ufffd\ufffd.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdQ\ufffd@\u0013[:\ufffd\u000e\ufffd\ufffd\rgA\ufffd\ufffdZ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdds\ufffd;@\u0726s\ufffd|\ufffdrM\ufffdnC\ufffd\u000eM\u0000?\ufffd(\ufffd\u008c\ufffd\ufffd\ufffdf\ufffd\ufffd\ufffd\u0018\ufffd v\ufffdW\ufffdy6\ufffd\u03b8U\ufffd\ufffd5\ufffd\ufffdKTu\ufffdw\f\ufffd\ufffd\ufffda\ufffd\ufffd6\u0003\ufffd'\u07ae]\ufffd\u0014\ufffd\ufffdr\ufffdN:\ufffdu\ufffd\ufffd.\ufffd\u0473|\ufffd\ufffdT\ufffd\ufffd\ufffd.=\ufffd\u001c\ufffd\u0014\u0001r\ufffd\u0003o\u0001\u0003\ufffd8\ufffdm\u017c\ufffd;\ufffd\ufffd\ufffd\ufffdRi\ufffd\ufffd\ufffd\u0003\ufffd\ufffd\u001c\ufffd=\ufffd\ufffdm\ufffdgi\ufffd\ufffd\u0000o\ufffd\ufffd\u0365\ufffdl\ufffd[\ufffd\ufffd\ufffdiE<7\ufffd+\ufffd&\ufffd\u0013Xz\ufffd\u0012][)S\ufffd\ufffd\u27e6+}\ufffdG/'\u0018\ufffd&\ufffd\u001aS[\u0010y\\U9\ufffde$\ufffd\u007f*-.\ufffd\ufffde\ufffdo:\u06f0n\ufffd\ufffd5~_*\ufffdCDs\ufffd\u001d\ufffd\u001a\ufffdI\ufffd\ufffdR\u0011V\u7026r*\ufffdZ.P\ufffdR\ufffdK\ufffd\u672bL\u0005E\ufffdR\ufffd\u0229\u0016?\ufffd\ufffd\u00163\ufffd\ufffd\ufffdE\ufffd7,NqOXY\ufffd\ufffd9\ufffdV\u0012\f\ufffd\u001dH\ufffd\ufffdZ1\ufffd\u0000\ufffdS\ufffdO\ufffd\ufffd\ufffd@=\ufffd\u001d\u0315\ufffd\ufffd\u0019\u0007'\ufffd\ufffd\ufffd\u0000<\ufffd\ufffd\u06c6 \ufffd:d\ufffd\ufffd\ufffd>\ufffd\ufffd\u0000:\ufffd6\ufffd\u0001f\ufffdS\ufffd8\ufffd\ufffd3L\ufffd\ufffd\ufffd\ufffd\u0014t\ufffd\u04e7\\\u007f:\u0005{\ufffdr\ufffd\u0012IU\ufffd\u0019 \u000e\ufffd\ufffd\ufffd\u000f\u01b3.`\ufffdu\ufffd$wQ\ufffd\ufffd\ufffd\ufffd\nC\u0010\u000b}\ufffd\ufffd\ufffda\ufffd&\ufffd\ufffd,\ufffd\f\u028a\ufffd~\ufffd\u000e\u007f>\ufffdD\ufffd\ufffd\u0018=i;\u0559\ufffd)\ufffd\ufffd\u07f5U\ufffd\u0005\ufffd\u001aNi3\ufffd&sL\u0007g\ufffd8\ufffd4\ufffd\ufffd\u0478u\ufffd\u0003\ufffd\ufffdFi\ufffd\ufffdu0\u001f\ufffdiA\ufffdz\ufffd&\ufffd4\u0001*\ufffd\u001a\ufffd\u001b\ufffdW\\\u050b\ufffd\ufffd\u0019n6\ufffd\ufffd\ufffd\ufffdJ\ufffd\ufffd@\ufffdR,\ufffd\ufffdh\ufffd\u02fb\ufffd\ufffdZ\ufffd\u001f\u0007\ufffd\u01aa\u0007\ufffd",
+          "index": 1384,
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "score": 0.14962982460850943
+        }
+      ]
+    },
+    {
+      "claim_text": "Titan\u2019s overall retail network had 3,603 outlets in FY2025-26.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+      "verdict": "unsupported",
+      "reasoning": "The evidence chunks consist mainly of image references and unreadable binary data. They do not state that Titan had 3,603 outlets in FY2025-26, nor do they provide a conflicting figure.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "e7489 8904 0 R/Image7665 3720 0 R/Image7667 3722 0 R/Image7669 3724 0 R/Image7671 3726 0 R/Image7673 3728 0 R/Image7675 8905 0 R/Image7677 8897 0 R/Image7679 3730 0 R/Image7681 3732 0 R/Image7683 8897 0 R/Image7685 3730 0 R/Image7687 8905 0 R/Image7689 3734 0 R/Image7691 8898 0 R/Image7693 3736 0 R/Image7695 3738 0 R/Image7697 3740 0 R/Image7699 3742 0 R/Image7701 3744 0 R/Image7703 3746 0 R/Image7705 3748 0 R/Image7707 3750 0 R/Image7709 3752 0 R/Image7711 3754 0 R/Image7713 3756 0 R/Image7715 3758 0 R/Image7717 3760 0 R/Image7719 3762 0 R/Image7721 3764 0 R/Image7723 3766 0 R/Image7725 3768 0 R/Image7727 3770 0 R/Image7729 3772 0 R/Image7731 3774 0 R/Image7733 3776 0 R/Image7735 3778 0 R/Image7737 8907 0 R/Image7739 3780 0 R/Image7741 3782 0 R/Image7743 3784 0 R/Image7745 3786 0 R/Image7747 3788 0 R/Image7749 3790 0 R/Image7751 3792 0 R/Image7753 3794 0 R/Image7755 3796 0 R/Image7757 3798 0 R/Image7759 8908 0 R/Image7761 3800 0 R/Image7763 3802 0 R/Image7765 3804 0 R/Image7767 3806 0 R/Image7769 3808 0 R/Image7771 3810 0 R/Image7773 3812 0 R/Image7775 3814 0 R/Image7777 3816 0 R/Image7779 3818 0 R/Image7781 3820 0 R/Image7783 3822 0 R/Image7785 3824 0 R/Image7787 3802 0 R/Image77",
+          "index": 8751,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.18511094742790865
+        },
+        {
+          "text": "89 3826 0 R/Image7791 3828 0 R/Image7793 3830 0 R/Image7795 3832 0 R/Image7797 3834 0 R/Image7799 3836 0 R/Image7801 3838 0 R/Image7803 3840 0 R/Image7805 3842 0 R/Image7807 3844 0 R/Image7809 3846 0 R/Image7811 3848 0 R/Image7813 3850 0 R/Image7815 3852 0 R/Image7817 8914 0 R/Image7819 3854 0 R/Image7821 3856 0 R/Image7823 3858 0 R/Image7825 3860 0 R/Image7827 3862 0 R/Image7829 3864 0 R/Image7831 3866 0 R/Image7833 3868 0 R/Image7835 3870 0 R/Image7837 3872 0 R/Image7839 3874 0 R/Image7841 3876 0 R/Image7843 3878 0 R/Image7845 3880 0 R/Image7847 3882 0 R/Image7849 3884 0 R/Image7851 3886 0 R/Image7853 3888 0 R/Image7855 3890 0 R/Image7857 3892 0 R/Image7859 3894 0 R/Image7861 3896 0 R/Image7863 3898 0 R/Image7865 3900 0 R/Image7867 3896 0 R/Image7869 3902 0 R/Image7871 3904 0 R/Image7873 3906 0 R/Image7875 3908 0 R/Image7877 3910 0 R/Image7879 3912 0 R/Image7881 3914 0 R/Image7883 3916 0 R/Image7885 3918 0 R/Image7887 8915 0 R/Image7889 3920 0 R/Image7891 3922 0 R/Image7893 3924 0 R/Image7895 3926 0 R/Image7897 3928 0 R/Image7899 3930 0 R/Image7901 3932 0 R/Image7903 3934 0 R/Image7905 3936 0 R/Image7907 3938 0 R/Image7909 3940 0 R/Image7911 3942 0 R/Image7913 3944 0 R/Image7915",
+          "index": 8752,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.1723257836296143
+        },
+        {
+          "text": "\u0011s\u001bdt\u0014\u0001@\ufffddn\ufffd4\u071d\ufffd\ufffd\u06c9[=\ufffd3\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdsQI\u0300~5+pW\ufffdQ\u001c\ufffd-\ufffd\n\u0000nv\ufffdD\ufffd\ufffd\"\ufffd\ufffdW\ufffdI\ufffdg\ufffd\u0003^+'\ufffd\ufffd\u0006\ufffd\ufffd|\ufffdF}QO\ufffd*$TA\ufffdp2y\u001c\ufffd\ufffds\ufffdJG\u000b\ufffdn\ufffd\u0013h\u0018\u0002\ufffd\ufffd\ufffd\ufffd\u00184S\ufffd6\ufffdq\ufffd\u0014\u0001V\u4404\ufffd\ufffd\u0014F\ufffd;\ufffd\ufffd\u0018\u0014\ufffd\nZ\"9\ufffd\ufffd\u049e\u0000D\u73ed\u0000W\ufffd;1\ufffd&\ufffd\u0011\ufffd\ufffd\ufffd\ufffd<a\u05d0\ufffd=\ufffdJd\ufffd1\ufffdM\ufffdE\ufffd&D\ufffd\ufffd[\u001d\ufffd\ufffd\ng\ufffd\ufffd\ufffd\f\ufffd\ufffd\ufffd~}H\ufffd\ufffdH\ufffdc\ufffdz\u0004U\ufffd\u0012\ufffd5M\ufffd\ufffd\ufffd\ufffd@\ufffd\u0734\ufffd\ufffdX\ufffd}\ufffdV1JFX\ufffd\ufffd~x\ufffd\"\ufffd\ufffd\ufffd5\n;\ufffd|\ufffd\ufffdz\ufffd%\ufffd\ufffd\ufffd\u007fv\u0007\ufffd5\u000bC,i\ufffdG\ufffd~h\u00021!\u0000+\ufffd=\ufffd\u0019\u05d1\ufffd\ufffd\ufffd|\ufffde!\u0014\ufffd\u0469\ufffdH\u007f\ufffd8?L\ufffd\u0005Q\u050fC[>\n}\ufffd1\ufffd\ufffd\u0000n)S\ufffd_\ufffd\ufffdc+)\ufffd\ufffda\ufffd\ufffdZ^\u0018\u007f+\ufffd\ufffdQ=\ufffd\ufffd\u007f\u0015\"\ufffd\ufffdL\ufffd\ufffd\ufffd\u0003\ufffdy\ufffd\u001cSH\ufffd\ufffd\ufffd\u00141\ufffd\u001d\ufffdz\ufffd\ufffdtG\ufffd\ufffdE6@C(\ufffdi\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdH\u0007\ufffd\u001a)J\ufffd#<Q@\u0016i\u0018\ufffdC\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd-f?\ufffd\u001a\ufffd\ufffd+s\f)%@\ufffdj\ufffd\ufffd)l\f\u007f\t\u001fZ\ufffd\u000b\ufffd9\ufffdU\ufffdnds\ufffd\u001f\u051f\ufffd$\ufffd\ufffd\u0000\ufffd#\ufffd\u0007\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd+\u001d\u0003f\ufffd\ufffdeQ,\ufffd\u0000\u0004\u00109==\u0005E\ufffd\ufffd\ufffd\u0010\ufffd4\ufffd\\\u0012\u0017h\ufffdj\ufffd,q\ufffd\ufffdH\ufffdGe\u0000Uh\ufffd<\ufffd\ufffd\ufffdT\u0000i\r\b\ufffd\\\ufffd]\ufffd\ufffd\ufffdwyG\ufffd\ufffd\ufffd[\ufffd\u0019&\ufffd\u0006?\ufffdj\ufffde\ufffdc\ufffd>\ufffd\u001c\ufffd\ufffd}z\ufffd\u0004\u0001.",
+          "index": 7059,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.16883196915693152
+        },
+        {
+          "text": "3946 0 R/Image7917 8917 0 R/Image7919 3948 0 R/Image7921 3950 0 R/Image7923 3952 0 R/Image7925 3954 0 R/Image7927 8919 0 R/Image7929 8920 0 R/Image7931 3956 0 R/Image7933 3958 0 R/Image7935 3960 0 R/Image7937 3746 0 R/Image7939 3962 0 R/Image7941 3964 0 R/Image7943 3966 0 R/Image7945 3968 0 R/Image7947 3970 0 R/Image7949 3972 0 R/Image7951 8884 0 R/Image7953 8894 0 R/Image7955 8891 0 R/Image7957 3974 0 R/Image7959 3976 0 R/Image7961 3978 0 R/Image7963 3980 0 R/Image7965 8888 0 R/Image7967 8895 0 R/Image7969 8887 0 R/Image7971 3982 0 R/Image7973 3984 0 R/Image7975 3986 0 R/Image7977 3746 0 R/Image7979 3988 0 R/Image7981 3990 0 R/Image7983 3992 0 R/Image7985 3994 0 R/Image7987 3996 0 R/Image7989 3998 0 R/Image7991 8930 0 R/Image7993 8931 0 R/Image7995 4000 0 R/Image7997 4002 0 R/Image7999 4004 0 R/Image8001 8785 0 R/Image8003 8928 0 R/Image8005 4006 0 R/Image8007 4008 0 R/Image8009 4010 0 R/Image8011 4012 0 R/Image8013 4014 0 R/Image8015 4016 0 R/Image8017 4018 0 R/Image8019 4020 0 R/Image8021 8797 0 R/Image8023 4022 0 R/Image8025 4024 0 R/Image8027 4026 0 R/Image8045 4028 0 R/Image8047 8925 0 R/Image8049 8792 0 R/Image8051 4030 0 R/Image8053 8921 0 R/Image8055 8924 0 R/Image8057 403",
+          "index": 8753,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.16841023377491685
+        },
+        {
+          "text": "e4568 2012 0 R/Image4570 8743 0 R/Image4572 2014 0 R/Image4574 2016 0 R/Image4576 2018 0 R/Image4578 2020 0 R/Image4580 8744 0 R/Image4582 8745 0 R/Image4584 2022 0 R/Image4586 8758 0 R/Image4588 8753 0 R/Image4590 2024 0 R/Image4592 2026 0 R/Image4594 2028 0 R/Image4596 2030 0 R/Image4598 8761 0 R/Image46 8373 0 R/Image4600 1980 0 R/Image4602 2032 0 R/Image4604 2034 0 R/Image4606 2036 0 R/Image4608 2038 0 R/Image4610 2040 0 R/Image4612 2042 0 R/Image4614 2044 0 R/Image4616 8731 0 R/Image4618 2046 0 R/Image4620 2048 0 R/Image4622 2050 0 R/Image4624 2052 0 R/Image4626 2054 0 R/Image4628 8731 0 R/Image4630 2056 0 R/Image4632 2058 0 R/Image4634 2060 0 R/Image4636 8767 0 R/Image4638 2062 0 R/Image4640 2064 0 R/Image4642 8765 0 R/Image4644 8741 0 R/Image4646 2066 0 R/Image4648 2068 0 R/Image4650 8374 0 R/Image4652 2070 0 R/Image4654 2072 0 R/Image4656 2074 0 R/Image4658 8763 0 R/Image4660 2056 0 R/Image4662 2072 0 R/Image4664 2076 0 R/Image4666 2078 0 R/Image4668 8374 0 R/Image4670 2080 0 R/Image4672 2082 0 R/Image4674 8758 0 R/Image4676 2084 0 R/Image4678 2086 0 R/Image4680 2088 0 R/Image4682 2090 0 R/Image4684 2092 0 R/Image4686 2094 0 R/Image4688 2096 0 R/Image4690 2098 0 R/Image4692",
+          "index": 3977,
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+          "score": 0.15745302143290146
+        }
+      ]
+    },
+    {
+      "claim_text": "Titan\u2019s overall network added 568 outlets, representing growth of about 18.7%, from FY2023-24 to FY2025-26.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Titan\u2019s overall store count grew faster than Tanishq\u2019s in both absolute and percentage terms over the period.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Titan\u2019s retail footprint includes Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+ in addition to Tanishq.",
+      "citation_url": "https://www.titancompany.in/our-brands",
+      "verdict": "unverifiable",
+      "reasoning": "Cited page returned HTTP 200 but no extractable body text (commonly a JavaScript-rendered page whose content isn't in the server-sent HTML) -- could not verify against it.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Titan\u2019s FY2025-26 overall network total includes Damas.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+      "verdict": "unsupported",
+      "reasoning": "The evidence chunks are unreadable binary or compressed data and do not state whether Titan\u2019s FY2025-26 overall network total includes Damas. They neither confirm nor contradict the claim.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "TDl\ufffdJVV+z\ufffd\u0017/U\n\ufffdEZ\ufffd\ufffdat\u000e\ufffd6\ufffd\ufffd\ufffd\ufffdjh\ufffdEZ\ufffd*$e\ufffd1\ufffd\ufffd\ufffd\ufffd\u0002O\ufffd\ufffd\ufffd\"\ufffd\ufffd\u0013\u001f\u0013JJl\ufffd\ufffd\ufffd\u0002\ufffd|H\u000bS\u0153\u0003\u001d\ufffdb[\ufffd'\ufffdV\ufffd\ufffd\u03cb\ufffdjI]\"\ufffd\u0015b\ufffda\ufffd\ufffd$\ufffd\ufffdt\u0001\ufffd[R\ufffd\ufffd\u001bM\"J\ufffd\u0007\ufffdE\ufffdM\ufffdP\u0292\ufffd\ufffd\ufffd\ufffd\u0000\ufffdy]\u001cU\ufffd\ufffdn\ufffd?\ufffd@\u03de\"\ufffdK\ufffd\n\ufffd-\ufffdB\ufffd\ufffd\ufffdjo\ufffd\ufffd\ufffdp\ufffdC\ufffd<\u007fEu\ufffd~V\ufffdk\ufffdd\u0012\ufffdnb\ufffd \ufffd\ufffdZ\ufffd\ufffd\ufffd\\J\ufffd\ufffd\ufffdd??\u0011H\u0574r\ufffd|\ufffd\ufffd\ufffd*\ufffd\ufffd'\n\u0006\ufffd\ufffd\ufffd\u0011\ufffd\ufffd\ufffdNN\u0016\u001az\ufffd.\ufffd\ufffd\u01da\u0006\u0325\ny\ufffdW\ufffdA\u007f\ufffdY\ufffd7~\ufffd\b\ufffd\u0549]\ufffd\ufffd\u0017IR\ufffd\u001eK\ufffd\ufffd\ufffd\ufffdFW\ufffd\u0005\ufffd\ufffd\u0015/U\ufffd\u00a7\ufffd\u0013.8\ufffdm\ufffd\ufffdU\ufffd\u054a]\ufffd\u0752\ufffdb3N.",
+          "index": 218,
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+          "score": 0.207385012445118
+        },
+        {
+          "text": "\"\u03484#\ufffd\ufffdE\ufffd\u0013iN\ufffd\ufffd\ufffd\ufffd$\u0492HK\u0017iE\ufffd\u0015\ufffdV.\u049aHk\"\ufffd]\ufffd\r\ufffd6D\u06b8\ufffd\ufffdD^'\udaa8\udef4#\u048eH;\u0017iO\ufffd=\ufffd\ufffd.\u0481H\u0007\"\u001d\\\ufffd#\ufffd\ufffdD:\ufffdH'\"\ufffd\ufffdtr\ufffd\ufffd\ufffd\ufffdE\ufffd-\u0017\ufffdL\ufffd3\ufffd\ufffd.\u0485H\u0017\"]\\\ufffdm\"o\u0013y\ufffdE\ufffd\u0013\ufffdN\ufffd\ufffd\ufffd\ufffd \u0483H\u000f\u0017y\ufffd\ufffd;D\ufffdq\ufffd\ufffdDz\u0012\ufffd\ufffd\"\ufffd\u0012y\ufffd\u023b.\u049bHo\"\ufffd]\ufffd/\ufffd\ufffdD\ufffd\ufffdH?\"\ufffd\ufffd\ufffds\ufffd\ufffdD\ufffd\u0013\ufffd\ufffd\"\u0003\ufffd\f$2\ufffdE\u0006\u0011\u0019Dd\ufffd\ufffd\f!2\ufffd\ufffd\u0010\u0017\u0019Jd(\ufffd\ufffd.2\ufffd\ufffd0\"\ufffd\\d8\ufffd\ufffdD\ufffd\ufffd\ufffd\b\"#\ufffd\ufffdp\ufffd\ufffdDF\u0012\u0019\ufffd\"\ufffd\ufffd\ufffd\"2\ufffdE>\"\ufffd\u0011\ufffd\ufffd\\d4\ufffd\ufffdDF\ufffd\ufffd_\ufffd\ufffd\ufffd\ufffd_\\d\f\ufffd1D\u01b8\ufffd\ufffdD>&\uda84\udecc%2\ufffd\ufffdX\u0017\u0019Gd\u001c\ufffdq.2\ufffd\ufffdx\"\ufffd]d\"\ufffd\ufffdD&\ufffd\ufffd$\"\ufffd\ufffdLr\ufffd\ufffdD&\u0013\ufffd\ufffd\"S\ufffdL!2\ufffdE\ufffd\u0012\ufffdJd\ufffd\ufffdL#2\ufffd\ufffd4\u0017\ufffdNd:\ufffd\ufffd.2\ufffd\ufffd\f\"3\\d&\ufffd\ufffdDf\ufffd\ufffd,\"\ufffd\ufffd\ufffdr\ufffd\ufffdDf\u0013\ufffd\ufffd\"iD\u0488\ufffd\ufffd\ufffd\\\"s\ufffd\ufffdu\ufffdyD\ufffd\u0011\ufffd\ufffd\"\ufffd\ufffd'2\ufffdE\u0016\u0010Y@d\ufffd\ufffd,$\ufffd\ufffd\ufffdB\u0017YDd\u0011\ufffdE.\ufffd\ufffd\ufffdb\"\ufffd]d\t\ufffd%D\ufffd\ufffd\ufffdR\"K\ufffd,u\ufffdeD\ufffd\u0011Y\ufffd\"\u02c9,'\ufffd\ufffdEV\u0010YAd\ufffd\ufffd|J\ufffdS\"\ufffd\ufffd\ufffdJ\"+\ufffd\ufffdt\ufffdUDV\u0011Y\ufffd\"\ufffd\ufffd\ufffd&\ufffd\ufffdE\u0489\ufffd\u0013Iw\ufffd5D\ufffd\u0010Y\ufffd\"k\ufffd\ufffd%\ufffd\ufffdE\ufffd\u0011YGd\ufffd\ufffd|F\ufffd3\"\ufffd\ufffd\ufffdz\"\ub26cw\ufffd\rD6\u0010\ufffd\ufffd\"\u001b\ufffdl$\ufffd\ufffdE6\u0011\ufffdDd\ufffd\ufffdl&\ufffd\ufffd\ufffdf\u0017\ufffdBd\u000b\ufffd-D8\ufffd8\ufffd1j\ufffd\ufffdh\ufffd\ufffdD\ufffd\u057c4[\ufffdO\ufffd\ufffdd\ufffd\ufffd6\ufffd\u00b4bS\ufffdVl\ufffd\u04caMiZ\ufffd)C+6\ufffdi\u0166\u0002\ufffd\u063cH+6Ui\u0166:\ufffd\u063cL+65q\ufffd;\u001ej\ufffd\ufffdPcZ\u001dR+33\ufffd\u0007\ufffd \ufffdB\u0019\ufffd\nu\ufffd1\ufffd\ufffd\ufffd\ufffd\u000b\ufffd\ufffd(\ufffd@\ufffd#4\u01e7#\ufffd\ufffd\ufffd\u0011\ufffd\ufffd\ufffd\ufffd\ufffdtDs~:\ufffdy?",
+          "index": 289,
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+          "score": 0.17874874154432674
+        },
+        {
+          "text": "PUR\u0014\u0004/dF\u0013\ufffd(4K\u000e\u055e@\ufffdj\ufffd<\ufffd\ufffd8\u0011\ufffd0\ufffd\u001c\ufffd\ufffd\ufffdd\ufffd]\ufffd\u0433\ufffd\u05e1a\ufffd\ufffdW\ufffd\u0011\ufffd\ufffd\u0321J[\u0012\u001c\u001a\u06b9J\ufffd\u000f%\ufffd\ufffdr\u000f\u0002+6\ufffd\u01a3G\ufffdY\u007f\ufffd\u0000T\ufffdL\ufffd\ufffd\ufffdio\ufffdw6\ufffd\ufffd\ufffdC\ufffd\u0261\ufffd\ufffd\ufffd\u000fAb\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdi\ufffdF\ufffd\u0011:\ufffd\ufffd\u001a6U\ufffdi\ufffd\u0005\u001e\u0010\ufffdMuw\ufffd\ufffdy\ufffd\u06e1\ufffd(\ufffdw\ufffd\u001a\u001c\ufffd\ufffd\u0018\u001dBcc\ufffd\u000e\ufffd*\u0100\ufffd\ufffd\ufffd\ufffd\ufffd$p\u02e5\ufffd\ufffd\u0000\ufffd \ufffd\ufffd\ufffd\ufffd\u0786oI$\ufffd\u0303Q\ufffd*\ufffd\ufffd\ufffd\t\ufffd\u0001\ufffd*t\ufffd\u0309\ufffd\"\u0018\ufffd\u001233\ufffd]]gB!\ufffd\ufffd\ufffdZ\ufffd\ufffd\ufffd\u0003\ufffd\ufffd3m\ufffd?C\ufffd\ufffd\"\\\ufffd\ufffd\ufffd\u0000~~\ufffd%Uh\ufffd#\ufffd\u0010\ufffdH{GG\ufffd\ufffd3\ufffdP\ufffdLp\ufffd\u0280*\u02b4\u001c\ufffd\u0018\ufffd\ufffd\ufffd\u0011\u0018\ufffd\ufffd\ufffd\u0015M\ufffd\u001a'\ufffd_\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\u0019\ufffdg\ufffd\ufffdRf\ufffd\ufffd+\u0014\uc71c\ufffd\u001e\ufffdl9++I\ufffd$I\ufffd$I\ufffd$I\ufffd$I\ufffd$I\ufffd$I\ufffd$IB\ufffd\u007f8\u0019.\ufffd\r\nendstream\rendobj\r25 0 obj\r<\n>stream\r\nx\ufffd}\ufffd\ufffdn\ufffd0\u0010E\ufffd|\ufffd\ufffd\ufffd\"\ufffd\ufffd\ufffdH\b)!\ufffd\u0122\u000f\ufffd\ufffd\u0003\ufffd\u0019R\ufffdb,C\u0016\ufffd}\ufffd\fI\u001b\u0016\ufffdd\ufffd\ufffd\ufffd\ufffd{\ufffd\ufffd\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffd\uf993\u0005\f\ufffdnTe\ufffd\ufffd.F\u0002;\ufffd\ufffdQ\ufffd\ufffdX\ufffd\ufffda&\ufffd\u02b6\u050ek\ufffd\ufffd\ufffd\u001f\ufffd\ufffdU\ufffd9I\ufffd\ufffd\u000f[\ufffd\u00073\ufffd\u0576\ufffdN\ufffd\ufffdo\ufffd\u0002\u04e83[}e\ufffd\ufffd\ufffd\ufffd\u000f\ufffd\ufffd\u0006\u019d4e\u0015\ufffd\ufffd\ufffd\ufffdR\ufffd\ufffd-0\u0017\ufffd\ufffdye\ufffd\ufffd0\ufffdm\u03df\ufffds\ufffd\ufffd\n>stream\r\nx\ufffd\ufffd\u0007\\TW\ufffd\ufffd\ufffds\ufffd\f}`@@t\ufffd\u0019\u001c!\u001aP4F\ufffd\u0012\u001di\ufffdX@\u00193\ufffd\ufffd.\u001aT\"`K4\ufffdXBbz\ufffd\ufffdg\ufffd&\ufffdh\"\ufffd\ufffd\ufffd{\ufffdfM\ufffd)\ufffd\ufffdlV\ufffd\ufffd\ufffds\ufffd9\ufffd-k\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd;\ufffd\u07e9\ufffd\ufffdr\ufffd=\ufffd\u001a\ufffd\u0004\u0011Y\ufffda\ufffd\ufffd\ufffd\ufffd\u0712\ufffd\ufffd[\ufffd\ufffd6\ufffd\ufffd\ufffd\ufffdK^\ufffd\ufffd\ufffd_\ufffd\u001dSEZN3Qx\ufffd\u4a59'\\\ufffdX\ufffd.\"\ufffd\u0016\ufffd\ufffd*\ufffd\ufffdo\ufffd\ufffd>GTWD\u00141\ufffdrq\ufffdck\ufffd;\ufffd\ufffd\ufffd\ufffdLd~\ufffd\ufffd~\ufffd\ufffd\ufffd\u001f\ufffdC\ufffd\u0016\ufffdOdI\ufffdS\ufffd\ufffdf\ufffd\ufffd\ufffd9Dw\u05d3\ufffd\u05fb\ufffd\ufffd\ufffd*\ufffd`\ufffd\u000e\ufffd\u0017\ufffd\ufffd\ufffd\ufffd\"\u00f2\ufffd\ufffd\ufffd?\u0017\ufffd\u07b5\ufffd\u001b\ufffd\ufffd\ufffdn\ufffd\u0007H\u007fA4\ufffd\ufffdnaey\ufffd\ufffd\ufffd}H\ufffd\u007f\u0019\ufffd\u0438\ufffd\ufffdK\ufffd\ufffd/KC]Q\ufffd\ufffd\ufffd\ufffd\u054d\ufffd\u05dc\ufffd~1i\ufffd>\ufffd\ufffdYP>\ufffd:\ufffd?\ufffd5\ufffd\ufffd\ufffd$\u001a\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffdF\ufffdq>e\ufffd~\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd}\ufffd\ufffdl\ufffdo\ufffd\u007f\ufffd\ufffd\u0016!y\ufffd\ufffdY9\ufffd\ufffd1#\u007f\ufffdna$\u306fO\u007fA\ufffdgy\u000br\ufffd\ufffd\ufffd\ufffd\u001c\ufffd3l\b\ufffd\ufffd\u0011\u0007\u0685\ufffd>\u0012OD\ufffd\u07f3{\ufffd\ufffd\ufffdFO\ufffd\ufffd\ufffd\u0006\ufffdc[K7\ufffd\ufffd\ufffd\ufffd\u0019-\ufffd\ufffdIk\ufffd\ufffd\ufffd\ufffd:JuS\ufffd\ufffd\b%a\ufffd\u0343\ufffdeOV\ufffd\u0015Z\ufffdQ\u0018i1fM\ufffdL\ufffdf\ufffd\ufffd\ufffdw\n\ufffdF\ufffdy\ufffd!o\ufffd\ufffd\u001f\ufffd\ufffd<\ufffd*\ufffd\ufffdx\u01b1zq?\ufffd\n\ufffd4y\u000e\ufffd\u000e\u001bi\ufffd\ufffd\ufffdS\ufffd\u001f9\ufffdA\ufffdk\ufffd^\ufffd=\u9923\ufffd\ufffd\ufffdGh\ufffdA\ufffd\ufffd\ufffd\ufffd\ufffdc\ufffd\ufffd&\ufffdy\ufffd\u007f\u0132j<\u05dd\ufffdo>8}\ufffd\u040b\ufffd&\ufffdYTwX\u007fK\u000f\ufffd\u0017;\u007f\ufffd/\ufffd\ufffd*\ufffd\ufffd\n\ufffd\ufffd,\ufffd\u0476\u001f\ufffdmH\b\ufffd{\ufffd\ufffdLwQ\u0371\ufffd]\ufffd\ufffd$\ufffdcj\ufffd\u001a}\ufffd!\ufffda2\u0015\u001c\ufffd\ufffd\ufffdz\u001ct\ufffdut\ufffd1\u001fo/\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@C\ufffd\ufffd\u000f\ufffd\ufffd\ufffd\\\ufffd=(\ufffd&\ufffd8\ufffdc\ufffd\u001f\u07c9t\ufffd^A\ufffdG*\u000b]H\ufffd!",
+          "index": 221,
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+          "score": 0.1776834636438387
+        },
+        {
+          "text": "\ufffd\ufffd\u0015D\ufffd\ufffdPS)\n\ufffd\u0002\ufffd\ufffd\ufffde\u0013\ufffdt9a\u000e\ufffd)2\u0000\ufffde\ufffd\ufffd\u000f<\ufffdB\ufffd\ufffd:\ufffd\ufffd\ufffdn\ufffd\u0005\ufffd\f\ufffd02\u001f\ufffd\ufffd9\ufffdnz`C\ufffd\ufffd\ufffd\ufffd.5\ufffd-\ufffd%\u0007\ufffdPbgf\ufffd\ufffd=6m0\ufffd$\ufffdc\ufffd\ufffd1\u0007\u0003\ufffd!\ufffd\ufffd\ufffd2\ufffdf\ufffd8\ufffd\ufffd\ufffd7\ufffd\ufffd\u000b\ufffd\ufffd\ufffd\ufffd|\u0002~Q\u0015G\ufffd\ufffdK\u0004;\ufffd\ufffdw\ufffd\ufffd}\u001e\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffdV\ufffd>{fW\r\ufffd\ufffdq\ua496S\ufffd3\ufffd\"\ufffd\n\u001a\ufffd&\ufffd\ufffd\ufffdX\u0003\ufffd\u06344a\n>stream\r\nH\ufffd\ufffdTMO\ufffd@\u0010\ufffd\ufbd8c\ufffd\ufffd\ufffdN\ufffd\ufffd\u000fCH\ufffd\ufffd\u0011\u0012\ufffd\u0012\u000f\ufffdC\ufffdU0X\ufffd\ufffd\ufffd\u007f\ufffdv\ufffd\ufffd*\ufffd\u0016/\ufffdI\ufffd\ufffdf\u079b\ufffd\ufffd\ufffdAF\ufffd\ufffd\u0010\n\ufffd\t\ufffdSr\u007f\u0005\u0019\ufffd*\ufffd(\ufffd\u0001]P\ufffd\ufffd\u000f\ufffd\ufffd\u0005\ufffd^\u0222\u0010TB\u001e\ufffdQL=\ufffd\u00161\u0015`\ufffd1\r\ufffd\ufffd.v9\ufffd#\ufffd\u0337\u0016\ufffdzHQ\u00f2d\u0019\ufffdGuK\u0006\ufffdL\ufffd;\u1d7a\ufffd\f\u0019\ufffd*]-\ufffd\ufffd\u0019\ufffd\ufffd\u0011\ufffdX\u007f\ufffd\ufffdCz\ufffdn N\r9\u0018\ufffd@\u00139\ufffdM\ufffdA\ufffd\ufffd\ufffd\ufffd\ufffd\u000bXif\u03e6\ufffd\u0019\ufffd\ufffd}\b\ufffd\ufffd\ufffd\ufffd5\ufffdn\ufffdr\u000f\ufffddxT3\ufffd\ufffdV\ufffdd\ufffd,7\ufffd['\ufffd5\u0517\ufffd\ufffd\ufffdnA]a\ufffd$\u7222\ufffd\ufffd\ufffd{LDU\ufffd\ufffdK\ufffd@\ufffd\ufffd\ufffd\\\ufffd/\ufffd>\ufffd\ufffd\ub569.\ufffd\ufffd\ufffd\ufffd\ufd0a\ufffdn\u0011t\ufffd\ufffdCy3n\u001e#\ufffd\ufffd\ufffd\ufffd)\ufffd\ufffdc\u0014\ufffd12\ufffd?\ufffdQ] \ufffd\u000b\ufffd)C\ufffd\u0005\ufffd\ufffdK?\ufffd\ufffd\ufffd\u0018\ufffd0]\u001ak\ufffdm\ufffd;\ufffd\ufffd\ufffd\ufffd\u0017w\u0003o\u0010\ufffdh\u001e\ufffdK\ufffd[W3\ufffd\ufffd,}\ufffd\ufffd\u001a\ufffd\ufffdy\ufffd\u01d0M\ufffdFz\ufffd\u0017N\ufffd\ufffd\ufffd\ufffd\ufffdr\ufffd\u0001\ufffd\ufffd\ufffd$\ufffd\u000f\ufffdt(\ufffdS\ufffd\u0001\u0000\ufffd\ufffd:\ufffd\r\nendstream\rendobj\r310 0 obj\r<\n>stream\r\nH\ufffd\ufffd\ufffd]K\ufffd0\u0014\ufffd\ufffd\ufffd+\ufffde\"4\ufffdw[(\ufffd\ufffd\u0017L\ufffd0\f\ufffd\u0010\ufffd\ufffd:7\ufffdv\ufffd\ufffd\ufffd7+km{\ufffd\ufffdW=m\ufffd\n>stream\r\nH\ufffd\ufffd\ufffd;O\ufffd0\u0014\ufffdw\ufffd\ufffd;\u0688\ufffd\ufffd+v\ufffd\ufffd\u0003\ufffd\u0001D\u0007T#T!\ufffd\ufffd\ufffd$<\u001c\ufffdc\ufffd\ufffdIK\u0015u@M\u0016+\ufffd9\ufffdr\u03f9\ufffdX\u0011\ufffd\ufffd\ufffd\u0016=\ufffd\u001f\u0014B\b*V\ufffd\ufffd\ufffd\ufffdJ\ufffd2\ufffdt\u0001\u000e]Y4\ufffd6\u0004\ufffd\ufffdn\ufffd\u0412\n\u0003\ufffd\u001b\ufffd\u0014\ufffd\u0014\ufffd`\u0002\ufffdP!\ufffd\f>\ufffda\ufffd\t#\u001a\u03c8\ufffd\u0013\u0006L`D\ufffd\ufffd\u0001\ufffd\u0019'D\u0002\ufffd\ufffd\u0004\\\ufffd\ufffd\ufffd-\t\"\ufffdU\u007f\ufffd\ufffd\u03b3\ufffd{\ufffd\r\ufffd\ufffd\ufffd\"\u0006\ufffd\u0273\ufffd\ufffda\ufffdu\u04d0@t\u03c1\u0002\ufffd\ufffdU\ufffd;S\u0012\ufffd\ufffd|\ufffdw\ufffd\u068c4\ufffd\ufffd\ufffd\ufffd$\u05476\u04f2\u0007\ufffd_\ufffdk\ufffdx\"c\ufffd\ufffd!\ufffd\u0018\ufffdru\r\u001e4[\u007f'\u000e\ufffd\ufffd\ufffd}\ufffd\ufffd\u0000g.x\\\ufffd\ufffd\ufffd\ufffd\ufffd\u0006\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdz\ufffd\u007f\ufffd\ufffdO9\u04a94\ufffd\ufffd\ufffdS\ufffd\u00175\u0014}\ufffd5l\u02ca\ufffdPaW\ufffd\u0015\ufffd\u0015(\\W\ufffdI|%\ufffd\u00171?\ufffd\ufffdA?\u0006\ufffd\ufffd\ufffd\u0010}\u0018A\u0647_\ufffd\ufffd\ufffd\ufffdx$(\u0017\ufffd\ufffd\u01a4\ufffd\ufffdN\ufffdLMK\ufffd\ufffd\ufffd\ufffdy\ufffd\u0005\ufffd>`S\ufffdS\u0016\ufffdKj\ufffd\u00009\ufffdj|\ufffdU\u001eN\ufffd*\u0018\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\ufffdmES\ufffd\ufffd\ufffd\ufffd\t\u0017\ufffd\ufffd\ufffd/\ufffd\ufffd:\ufffd-\ufffd\n0\u0000%z<\ufffd\r\nendstream\rendobj\r312 0 obj\r<\n>stream\r\nH\ufffd\ufffdS]O\ufffd0\u0014}\ufbf8O\ufffd5\ufffd>\u068em\ufffd\ufffd\u0000\ufffd\u0006\ufffdP\ufffd\u001ac\ufffd\u000f\u0013\ufffdhp\u04e1&\ufffd{oa\u0018\ufffd\ufffd\ufffdSo\ufffdso\ufffd9\ufffdT\ufffd0\u0018\ufffd\ufffd1\ufffdO\ufffd\u0007A\u001c8\u0002\"%\u001c\u0005\ufffd!\ufffd\ufffdP\ufffd\ufffd&\ufffd\ufffd\u001e\ufffd\u0002\ufffd3\u914e\ufffd)P~\ufffd\ufffd\u0012\ufffd\u0013\ufffd\ufffd\ufffd\u0007\ufffd\ufffdA3\u001e\u0000\ufffd0<\ufffd\u0018G@\ufffd3\ufffd\ufffd\u0098q\u0001\ufffd*\ufffd\u001e\ufffd\ufffd\u0018^\u0002\ufffd1\ufffd)\"\ufffd6c\ufffd\ufffd0M[h\ufffd\ufffd\u0007}IR",
+          "index": 50,
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+          "score": 0.17668924342758524
+        },
+        {
+          "text": "\u0015\bd\ufffd\u0004\u0002\u0018\u0004\u0011\u0006\ufffdOT\u001c\u0018\ufffd\u001f:\ufffd\ufffd\n|\ufffd|H:sou\ufffd\u06f2\b\ufffdL\u000etu\ufffdW\ufffd\ufffd\ufffds\ufffd=\ufffds\u03f9\ufffd\u0014w\ufffdd\ufffdz\ufffd`V\ufffd\ufffd\ufffdk\u001a\ufffd{\ufffdg\ufffd\ufffd\u0731v2T\r\ufffd-\ufffdmS\ufffd\ufffdt\u000b\u0006g\ufffd/\u0019px\u001d\ufffd\u031cDb \ufffdTK\u0011\ufffd+d\ufffd8r\u0003q?b\ufffd'\ufffd\u0458\ufffd.\ufffd\ufffd\"\u0291\ufffd\ufffdW\ufffdvlXP\u0451tf\ufffd\u0012\ufffd\ufffd\ufffd\n\ufffd&\u0019\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd6(\ufffd\ufffd\ufffd\u0000\ufffd\ufffd;1\u0001\ufffd\ufffd\ufffd\ufffdi\ufffd(\ufffdp\ufffd\ufffd\u0000N\ufffd\u0306\ufffd9W.\u0018\u01a9\u0299\ufffdh\ufffd\ufffd8Z\ufffdj\ufffd\ufffdj\ufffd\u0019G\ufffd\u001f\u0000K\ufffd\ufffdJ\ufffd}\ufffdE\f\ufffd\ufffd{\ufffd\u0019\ufffdN&\u001d\ufffd>|\nO\ufffd\u0019\ufffd\u0013t\u001an?\ufffd<\u0017\ufffdT\ufffdF\ufffd\u0010\ufffd\u3f72\ufffd\ufffdD\ufffd\ufffdH\u001a\ufffd'@\b\ufffd\ufffd\u0011\ufffd\ufffd\u06d7Z\ufffdVh\u0017\u0238\ufffd\u0014\ufffd\ufffd\ufffd\ufffd?>jc'\ufffd\ufffd>\ufffd\ufffd\u0575K\u01b2\ufffdFEb'7\u0013\ufffd]\ufffds\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0019q\ufffd\u001a\ufffd\ufffd%\ufffd\ufffd\ufffd)J\u0012/\u0622\u001eG\ufffd\ufffdZ\u001c\u0016{a\ufffd\ufffd\u0019\ufffd\ufffd\u058e\b\ufffdE\ufffd\ufffd\ufffd\ufffdYj\ufffd\r!\u0000\ufffd5\ufffdb\ufffdL\ufffd\\C\u0015\ufffd\ufffd|\ufffd8\ufffd\ufffd\f\ufffdA\ufffd\ufffd\u001f*x\ufffd,\ufffd3\u0003\u001eC\ufffdBv\ufffd\u007fc4\ufffd\ufffd\ufffd+\u0011\ufffd\u0019?",
+          "index": 417,
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+          "score": 0.17479264485767282
+        }
+      ]
+    }
+  ],
+  "cost_usd": 0.0027646,
+  "wall_clock_s": 466.87221574783325,
+  "trace": [
+    {
+      "step": "audit_claim",
+      "t": 1789412271.335742,
+      "claim": "Tanishq had 479 stores in FY2023-24.",
+      "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.12263375435584548
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412667.0653272,
+      "claim": "Tanishq had 557 stores in FY2025-26.",
+      "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.16051910232953437
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412667.0680919,
+      "claim": "Tanishq added 78 stores, representing growth of about 16.3%, from FY2023-24 to FY2025-26.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412670.736226,
+      "claim": "Titan\u2019s overall retail network had 3,035 outlets in FY2023-24.",
+      "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.16014979339984345
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412676.1567638,
+      "claim": "Titan\u2019s overall retail network had 3,603 outlets in FY2025-26.",
+      "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.18511094742790865
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412676.162318,
+      "claim": "Titan\u2019s overall network added 568 outlets, representing growth of about 18.7%, from FY2023-24 to FY2025-26.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412676.1623218,
+      "claim": "Titan\u2019s overall store count grew faster than Tanishq\u2019s in both absolute and percentage terms over the period.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412676.762353,
+      "claim": "Titan\u2019s retail footprint includes Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+ in addition to Tanishq.",
+      "url": "https://www.titancompany.in/our-brands",
+      "verdict": "unverifiable",
+      "reason": "no_chunks"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789412686.781804,
+      "claim": "Titan\u2019s FY2025-26 overall network total includes Damas.",
+      "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.207385012445118
+    }
+  ]
+}

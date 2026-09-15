@@ -35,13 +35,14 @@ import time
 from dataclasses import dataclass, field
 from urllib.parse import urlparse
 
-from src.config import CHEAP_MODEL, STRONG_MODEL
+from src.config import CHEAP_MODEL, SEARCH_MODEL, STRONG_MODEL, SYNTH_MODEL
 from src.facts import extract_facts_from_claim
 from src.fetch import chunk_text
 from src.jsonutil import parse_json_response, JSONParseError
 from src.llm import call_llm
 from src import memory
 from src.retriever import select_relevant_chunks
+from src.trust import tag_citations
 
 _ENTITY_PROMPT = """List the specific named entities (companies, people, products) mentioned or clearly implied in this research question. Return ONLY a JSON array of strings, e.g. ["Tanishq", "Titan Company"]. If none, return [].
 
@@ -63,7 +64,7 @@ Write a research plan as JSON:
 
 Rules:
 - Each search_query should be a specific, self-contained web search query (not a restatement of the whole question).
-- Prefer 2-5 targeted queries over one vague one. Add a second query that approaches the same fact from a different angle when the question calls for a specific number, date, or ranking that a single source might get wrong or that might be disputed.
+- Default to 2-3 targeted queries. Only go to 4-5 when the question calls for a specific number, date, or ranking that a single source might get wrong or that outlets commonly disagree on -- each extra query is a real added cost, so add one only when cross-checking that specific fact is worth it, not by default "for safety."
 - If known facts already fully answer the question, you may return an empty search_queries list and say so in plan_notes.
 - Return ONLY the JSON object.
 """
@@ -85,7 +86,7 @@ Return JSON:
 
 Rules:
 - Every specific factual statement in "answer" (a number, a name, a date, a ranking) must also appear as an entry in "claims" with its supporting citation_url.
-- If the evidence is single-source or the sources disagree, say so plainly in the answer rather than picking silently.
+- Each evidence block below is tagged with a trust tier for its source(s): tier 1 = official/regulatory source, tier 2 = established news, tier 3 = trade/industry press, tier 4 = unranked/unrecognized. When sources disagree on a fact, prefer the higher-trust-tier source, but treat tier as ONE input, not an automatic override -- a very recent tier-4 source can still be right over a stale tier-2 one, and you should weigh recency and specificity too. State which source you preferred and briefly why (trust tier, recency, or specificity) rather than picking silently or reporting both numbers and shrugging.
 - If the evidence does not actually answer the question (or part of it), say so explicitly in the answer ("I could not find ...") rather than filling the gap with a plausible-sounding guess. Do not invent a citation to cover a gap.
 - Return ONLY the JSON object.
 """
@@ -98,6 +99,7 @@ class AnalystResult:
     answer: str = ""
     claims: list[dict] = field(default_factory=list)
     plan_notes: str = ""
+    entities: list[str] = field(default_factory=list)
     search_queries: list[str] = field(default_factory=list)
     known_facts_used: list[dict] = field(default_factory=list)
     retrieval: list[dict] = field(default_factory=list)
@@ -138,6 +140,7 @@ def _domains(citations: list[dict]) -> set[str]:
 
 def plan(question: str, question_id: str, result: AnalystResult) -> dict:
     entities = _extract_entities(question, question_id)
+    result.entities = entities
     known_facts: list[dict] = []
     for entity in entities:
         known_facts.extend(memory.get_facts_for_entity(entity, top_k=5))
@@ -178,7 +181,7 @@ def retrieve(search_queries: list[str], question_id: str, result: AnalystResult)
         return []
 
     def _run_one(q: str) -> dict:
-        r = call_llm(q, question_id=question_id, stage="retrieve", model=STRONG_MODEL, use_web_search=True)
+        r = call_llm(q, question_id=question_id, stage="retrieve", model=SEARCH_MODEL, use_web_search=True)
         return {"query": q, "text": r.text, "citations": r.citations, "cost_usd": r.cost_usd, "search_calls": r.search_calls}
 
     retrieved = []
@@ -208,11 +211,26 @@ def resolve_evidence(retrieved: list[dict], known_facts: list[dict], question: s
         item["single_source"] = single_source
         item["domains"] = sorted(domains)
         tag = "SINGLE-SOURCE" if single_source else f"corroborated across {len(domains)} sources"
-        cite_str = "; ".join(f"{c.get('title','')} ({c['url']})" for c in item["citations"]) or "no citations returned"
+        # trust.tag_citations appends a [tier N: label] to each source instead
+        # of a plain title/url join, so synthesize() has the trust signal it
+        # needs to resolve disagreements (see _SYNTHESIZE_PROMPT's rules)
+        # without a separate LLM call to look sources up.
+        cite_str = tag_citations(item["citations"], entity_hint=" ".join(result.entities))
 
+        # TF-IDF-filter the retrieved text against the overall question before
+        # it goes into synthesize()'s prompt, instead of passing the raw
+        # web_search summary through unfiltered -- same technique the auditor
+        # already uses on cited pages (src/retriever.py), applied here to
+        # keep synthesize focused on the on-topic part of each result. NOTE:
+        # for a short retrieve() summary (a few sentences) this chunks down
+        # to only 1-2 pieces and filters almost nothing -- the real payoff
+        # shows up on questions whose retrieve() results come back long
+        # (e.g. q05's open-ended enumeration). Check traces/costs.jsonl's
+        # "synthesize" stage cost before/after to see the actual effect
+        # rather than assuming this alone is what moves the number.
         chunks = chunk_text(item["text"], url=item["query"])
         if chunks:
-            top_chunks = select_relevant_chunks(question, chunks, top_k=3)
+            top_chunks = select_relevant_chunks(question, chunks, top_k=3, question_id=result.question_id)
             text_for_synthesis = "\n".join(c["text"] for c in top_chunks) if top_chunks else item["text"]
         else:
             text_for_synthesis = item["text"]
@@ -229,7 +247,7 @@ def resolve_evidence(retrieved: list[dict], known_facts: list[dict], question: s
 def synthesize(question: str, evidence_str: str, question_id: str, result: AnalystResult) -> None:
     r = call_llm(
         _SYNTHESIZE_PROMPT.format(question=question, evidence=evidence_str),
-        question_id=question_id, stage="synthesize", model=STRONG_MODEL,
+        question_id=question_id, stage="synthesize", model=SYNTH_MODEL,
     )
     result.cost_usd += r.cost_usd
     try:

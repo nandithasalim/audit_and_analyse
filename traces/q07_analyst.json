@@ -1,0 +1,210 @@
+{
+  "question_id": "q07",
+  "question": "What was Blinkit's most recent funding round size, and who led it?",
+  "answer": "Blinkit\u2019s most recent reported funding was a \u20b9450 crore capital infusion through a rights issue, provided by its parent, Eternal Ltd. Because this was an intra-group infusion rather than a conventional third-party funding round, Eternal is the closest equivalent to the lead investor; I preferred Moneycontrol\u2019s reporting because it is the higher-trust established-news source and specifically identifies the amount, investor, and transaction structure.",
+  "claims": [
+    {
+      "text": "Blinkit\u2019s most recent reported funding was a \u20b9450 crore capital infusion.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai"
+    },
+    {
+      "text": "The capital infusion was structured as a rights issue.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai"
+    },
+    {
+      "text": "Eternal Ltd., Blinkit\u2019s parent, provided the funding and is the closest equivalent to the lead investor.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai"
+    },
+    {
+      "text": "The transaction was an intra-group infusion rather than a conventional third-party funding round.",
+      "citation_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai"
+    }
+  ],
+  "plan_notes": "Check whether the known \u20b9450 crore infusion remains the latest financing and confirm who provided it. Distinguish parent-company capital injections from externally led funding rounds so the answer identifies the amount and lead investor for the appropriate transaction.",
+  "entities": [
+    "Blinkit"
+  ],
+  "search_queries": [
+    "Blinkit latest funding capital infusion after March 12 2026 Eternal",
+    "Blinkit March 2026 450 crore rights issue Eternal investor",
+    "Blinkit Grofers last external funding round amount led by Zomato SoftBank 2021"
+  ],
+  "known_facts_used": [
+    {
+      "id": 60,
+      "subject": "Eternal",
+      "relation": "is parent of",
+      "object": "Blinkit",
+      "source_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410664.387009,
+      "_fts_score": 3.9533209420513034,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 59,
+      "subject": "Blinkit",
+      "relation": "received",
+      "object": "\u20b9450 crore capital infusion",
+      "source_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410664.3843288,
+      "_fts_score": 3.704973651601361,
+      "_blend_score": 0.32999034325551424
+    },
+    {
+      "id": 61,
+      "subject": "Blinkit",
+      "relation": "received capital infusion on",
+      "object": "March 12, 2026",
+      "source_url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410664.388751,
+      "_fts_score": 3.2914379401783074,
+      "_blend_score": 0.0
+    }
+  ],
+  "retrieval": [
+    {
+      "query": "Blinkit latest funding capital infusion after March 12 2026 Eternal",
+      "text": "**No newer publicly reported capital infusion by Eternal into Blinkit has surfaced after March 12, 2026** (checked through September 14, 2026).\n\nThe latest disclosed transaction remains:\n\n- **Date:** March 12, 2026  \n- **Investor:** Eternal Ltd. (Blinkit\u2019s parent)  \n- **Amount:** **\u20b9449.84 crore** (commonly reported as **\u20b9450 crore**, about US$50m)  \n- **Structure:** Rights issue by Blink Commerce Pvt. Ltd.  \n- **Shares allotted:** 2,799 equity shares at about **\u20b916.07 lakh per share**  \n- **Context:** It was Eternal\u2019s **first Blinkit capital injection in calendar 2026**. ([in.marketscreener.com](https://in.marketscreener.com/news/blink-commerce-private-limited-announced-that-it-has-received-inr-4-498443639-billion-in-funding-fro-ce7e5fd2df8bf423?utm_source=openai))\n\nThis was an **intra-group equity infusion**, not a third-party VC funding round. For comparison, Eternal injected a cumulative **\u20b92,600 crore during 2025** into Blinkit. ([m.economictimes.com](https://m.economictimes.com/tech/technology/eternal-infuses-rs-450-crore-into-quick-commerce-business-blinkit/amp_articleshow/129503525.cms?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://in.marketscreener.com/news/blink-commerce-private-limited-announced-that-it-has-received-inr-4-498443639-billion-in-funding-fro-ce7e5fd2df8bf423?utm_source=openai",
+          "title": "Blink Commerce Private Limited announced that it has received INR 4.498443639 billion in funding from Eternal Limited | MarketScreener India"
+        },
+        {
+          "url": "https://m.economictimes.com/tech/technology/eternal-infuses-rs-450-crore-into-quick-commerce-business-blinkit/amp_articleshow/129503525.cms?utm_source=openai",
+          "title": "Eternal infuses Rs 450 crore into quick commerce business Blinkit - The Economic Times"
+        }
+      ],
+      "cost_usd": 0.084482,
+      "search_calls": 3,
+      "single_source": false,
+      "domains": [
+        "in.marketscreener.com",
+        "m.economictimes.com"
+      ]
+    },
+    {
+      "query": "Blinkit March 2026 450 crore rights issue Eternal investor",
+      "text": "In **March 2026**, Eternal (formerly Zomato) injected **\u20b9450 crore** into its wholly owned quick-commerce subsidiary, **Blinkit**, through a **rights issue**.\n\n- Blinkit allotted **2,799 equity shares** to Eternal at about **\u20b916.07 lakh per share**.\n- This was **not a rights issue for Eternal\u2019s public shareholders**\u2014it was an internal equity infusion by the parent into Blinkit, so it did **not dilute Eternal investors**.\n- The funding was intended for Blinkit\u2019s expansion: dark stores, working capital, operations, and competing with Zepto, Swiggy Instamart, Amazon, Flipkart, etc.\n- It was Eternal\u2019s **first Blinkit capital infusion in 2026**, following **\u20b92,600 crore invested during 2025**. ([moneycontrol.com](https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai))\n\n**Investor takeaway:** For an Eternal shareholder, this is effectively management reallocating company capital toward Blinkit\u2019s growth. It can be positive if Blinkit\u2019s scale and profitability improve, but it also signals ongoing capital intensity and execution/competition risk in quick commerce.",
+      "citations": [
+        {
+          "url": "https://www.moneycontrol.com/news/business/eternal-injects-rs-450-crore-into-blinkit-via-rights-issue-as-quick-commerce-battle-intensifies-13858303.html?utm_source=openai",
+          "title": "Eternal injects Rs 450 crore into Blinkit via rights issue as quick commerce battle intensifies"
+        }
+      ],
+      "cost_usd": 0.039964,
+      "search_calls": 1,
+      "single_source": true,
+      "domains": [
+        "www.moneycontrol.com"
+      ]
+    },
+    {
+      "query": "Blinkit Grofers last external funding round amount led by Zomato SoftBank 2021",
+      "text": "**Grofers (now Blinkit)** last major external funding round in **2021** was approximately **US$120 million** (June\u2013August 2021), led primarily by **Zomato**, with **Tiger Global** also participating. Zomato\u2019s own investment was initially reported as **$100 million** for roughly a 9.3% stake.  \n\n**SoftBank was not the lead investor in that 2021 round**\u2014it was Grofers\u2019 largest existing shareholder/backer. ([moneycontrol.com](https://www.moneycontrol.com/news/business/startup/done-deal-ipo-bound-zomato-invests-120-million-in-grofers-7099491.html?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.moneycontrol.com/news/business/startup/done-deal-ipo-bound-zomato-invests-120-million-in-grofers-7099491.html?utm_source=openai",
+          "title": "Done Deal!\u00a0IPO-bound\u00a0Zomato invests $120 million\u00a0in Grofers\u00a0- Moneycontrol.com"
+        }
+      ],
+      "cost_usd": 0.03439,
+      "search_calls": 1,
+      "single_source": true,
+      "domains": [
+        "www.moneycontrol.com"
+      ]
+    }
+  ],
+  "facts_saved": 6,
+  "cost_usd": 0.194052,
+  "wall_clock_s": 65.31712508201599,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789410915.9815722,
+      "entities": [
+        "Blinkit"
+      ],
+      "known_facts": 3,
+      "search_queries": [
+        "Blinkit latest funding capital infusion after March 12 2026 Eternal",
+        "Blinkit March 2026 450 crore rights issue Eternal investor",
+        "Blinkit Grofers last external funding round amount led by Zomato SoftBank 2021"
+      ],
+      "plan_notes": "Check whether the known \u20b9450 crore infusion remains the latest financing and confirm who provided it. Distinguish parent-company capital injections from externally led funding rounds so the answer identifies the amount and lead investor for the appropriate transaction."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410923.794604,
+      "query": "Blinkit Grofers last external funding round amount led by Zomato SoftBank 2021",
+      "n_citations": 1,
+      "search_calls": 1
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410924.481529,
+      "query": "Blinkit March 2026 450 crore rights issue Eternal investor",
+      "n_citations": 1,
+      "search_calls": 1
+    },
+    {
+      "step": "retrieve",
+      "t": 1789410936.906566,
+      "query": "Blinkit latest funding capital infusion after March 12 2026 Eternal",
+      "n_citations": 2,
+      "search_calls": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410937.827243,
+      "query": "Blinkit latest funding capital infusion after March 12 2026 Eternal",
+      "single_source": false,
+      "domains": [
+        "in.marketscreener.com",
+        "m.economictimes.com"
+      ],
+      "chunks_total": 4,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410938.3130162,
+      "query": "Blinkit March 2026 450 crore rights issue Eternal investor",
+      "single_source": true,
+      "domains": [
+        "www.moneycontrol.com"
+      ],
+      "chunks_total": 3,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789410939.349806,
+      "query": "Blinkit Grofers last external funding round amount led by Zomato SoftBank 2021",
+      "single_source": true,
+      "domains": [
+        "www.moneycontrol.com"
+      ],
+      "chunks_total": 2,
+      "chunks_kept": 2
+    },
+    {
+      "step": "synthesize",
+      "t": 1789410959.9558558,
+      "answer": "Blinkit\u2019s most recent reported funding was a \u20b9450 crore capital infusion through a rights issue, provided by its parent, Eternal Ltd. Because this was an intra-group infusion rather than a conventional third-party funding round, Eternal is the closest equivalent to the lead investor; I preferred Moneycontrol\u2019s reporting because it is the higher-trust established-news source and specifically identifies the amount, investor, and transaction structure.",
+      "n_claims": 4
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789410973.184732,
+      "facts_saved": 6
+    }
+  ]
+}

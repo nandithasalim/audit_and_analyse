@@ -46,11 +46,32 @@ call (tagged by pipeline stage) to `traces/costs.jsonl` as it runs.
 # cost-per-question trend table (USD + INR), regenerated from traces/costs.jsonl
 python scripts/cost_report.py
 
+# readable per-question Markdown report (Mermaid flow + evidence table) plus
+# an overview.md trend across all questions -- written to traces/reports/
+python scripts/render_report.py --all
+
 # see the full TF-IDF ranking for a claim against a fetched page, not just
 # the top-5 the auditor actually gets -- useful for the retrieval
 # limitation documented in DECISIONS.md
 python scripts/inspect_retrieval.py --url "https://en.wikipedia.org/wiki/Tanishq" \
     --claim "Tanishq is owned by Titan Company"
+```
+
+### Diagnostics (used to investigate real audit results, not part of the required run)
+
+```bash
+# if only the audit/repair stage of a question crashed, re-run just that
+# stage from the saved analyst trace instead of re-paying for analyst too
+python scripts/resume_audit.py q08
+
+# for one question, print every claim the auditor marked "unsupported"
+# alongside its quote/reasoning and top evidence chunk
+python scripts/inspect_unsupported.py q05
+
+# trace whether a specific date/fact in a flagged claim was actually present
+# in the raw retrieve() search summary and the auditor's fetched page (no
+# LLM calls -- pure regex/lookup against the saved traces and data/memory.db)
+python scripts/trace_claim_origin.py q05
 ```
 
 ## Offline tests (no API key, no internet needed)
@@ -76,27 +97,30 @@ under `~/.claude/projects/` and converts each to a readable markdown file
 under `logs/`. Review the output before committing — see the script's
 docstring.
 
-## Project layout
-
-```
+## Project layout 
 src/
-  config.py     model routing (STRONG_MODEL / CHEAP_MODEL) + pricing table
-  llm.py        the one call_llm() wrapper every stage uses (cost logging by stage)
-  jsonutil.py   robust "extract JSON from an LLM text response" helper
-  memory.py     typed fact graph (SQLite) + hybrid FTS5/TF-IDF retrieval
-  fetch.py      independent page fetch + chunking, used only by the auditor
-  retriever.py  TF-IDF evidence-chunk ranking (documented known limitation)
-  facts.py      claim -> (subject, relation, object) triple extraction
-  analyst.py    plan -> parallel retrieve -> resolve_evidence -> synthesize
-  auditor.py    independent 3-outcome-plus claim verification
-  repair.py     bounded single-pass repair for flagged claims
-questions/questions.yaml   the 8 questions (increasing difficulty, entity reuse)
-scripts/        run_pipeline.py, cost_report.py, inspect_retrieval.py, export_logs.py, smoke_test.py
-tests/          offline tests (no network/key needed)
-traces/         run traces + cost log (gitignored except .gitkeep)
-logs/           exported AI coding session transcripts (see above)
-data/           memory.db (gitignored)
-```
+config.py model routing (STRONG_MODEL / CHEAP_MODEL) + pricing table
+llm.py the one call_llm() wrapper every stage uses (cost logging by stage)
+jsonutil.py robust "extract JSON from an LLM text response" helper
+memory.py typed fact graph (SQLite) + hybrid FTS5/TF-IDF retrieval
+fetch.py independent page fetch + chunking, used only by the auditor
+embeddings.py OpenAI embeddings wrapper (real token-budgeted batching)
+retriever.py semantic (embedding) evidence-chunk ranking; the old TF-IDF
+ranker is kept alongside it only for the offline test that
+reproduces its documented known limitation
+trust.py heuristic source-trust tiering, fed to synthesize()
+facts.py claim -> (subject, relation, object) triple extraction
+analyst.py plan -> parallel retrieve -> resolve_evidence -> synthesize
+auditor.py independent 5-outcome claim verification
+repair.py bounded single-pass repair for flagged claims
+questions/questions.yaml the 8 questions (increasing difficulty, entity reuse)
+scripts/ run_pipeline.py, cost_report.py, render_report.py, inspect_retrieval.py,
+export_logs.py, smoke_test.py, plus diagnostics (resume_audit.py,
+inspect_unsupported.py, trace_claim_origin.py -- see above)
+tests/ offline tests (no network/key needed)
+traces/ run traces + cost log + rendered reports (gitignored except .gitkeep)
+logs/ exported AI coding session transcripts (see above)
+data/ memory.db (gitignored)
 
 ## Status
 
@@ -107,7 +131,7 @@ data/           memory.db (gitignored)
 - [x] Auditor (independent citation check: supported/unsupported/contradicted/no_citation/unverifiable)
 - [x] Repair gate (RARR-style, bounded single pass)
 - [x] 8 questions + run/eval scripts
-- [ ] A real end-to-end run on a machine with internet (numbers not yet in DECISIONS.md)
-- [x] DECISIONS.md (architecture written; cost table + live audit counts pending the real run above)
+- [x] A real end-to-end run on a machine with internet, all 8 questions ($5.30 / Rs.466.58 total)
+- [x] DECISIONS.md (architecture, real cost table, real audit findings, known limitations)
 
 See DECISIONS.md for architecture rationale, trade-offs, and known limitations.

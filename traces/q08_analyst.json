@@ -1,0 +1,324 @@
+{
+  "question_id": "q08",
+  "question": "Compare Tanishq's and Titan Company's store-count growth over the last two years -- which grew faster, and does Titan's overall retail footprint include brands beyond Tanishq?",
+  "answer": "Using Titan\u2019s official, recent disclosures, Tanishq\u2019s network grew from 479 stores in FY2023-24 to 557 in FY2025-26, an increase of 78 stores or about 16.3%. Titan\u2019s overall network rose from 3,035 to 3,603 outlets over the same period, an increase of 568 or about 18.7%, so Titan grew faster in both absolute and percentage terms. Titan\u2019s footprint extends beyond Tanishq and includes brands such as Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+; the FY2025-26 total also includes Damas.",
+  "claims": [
+    {
+      "text": "Tanishq had 479 stores in FY2023-24.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf"
+    },
+    {
+      "text": "Tanishq had 557 stores in FY2025-26.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf"
+    },
+    {
+      "text": "Tanishq added 78 stores, representing growth of about 16.3%, from FY2023-24 to FY2025-26.",
+      "citation_url": null
+    },
+    {
+      "text": "Titan\u2019s overall retail network had 3,035 outlets in FY2023-24.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf"
+    },
+    {
+      "text": "Titan\u2019s overall retail network had 3,603 outlets in FY2025-26.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf"
+    },
+    {
+      "text": "Titan\u2019s overall network added 568 outlets, representing growth of about 18.7%, from FY2023-24 to FY2025-26.",
+      "citation_url": null
+    },
+    {
+      "text": "Titan\u2019s overall store count grew faster than Tanishq\u2019s in both absolute and percentage terms over the period.",
+      "citation_url": null
+    },
+    {
+      "text": "Titan\u2019s retail footprint includes Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+ in addition to Tanishq.",
+      "citation_url": "https://www.titancompany.in/our-brands"
+    },
+    {
+      "text": "Titan\u2019s FY2025-26 overall network total includes Damas.",
+      "citation_url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf"
+    }
+  ],
+  "plan_notes": "Find the latest reported store counts and matching counts exactly two years earlier, aligning reporting dates, geographic coverage, and inclusion of subsidiaries; calculate both absolute additions and percentage growth, using percentage growth to judge which grew faster. Verify which other brands contribute to Titan\u2019s total footprint; skip Tanishq\u2019s founding-date discrepancies and unrelated Titan Capital funding because they do not affect this comparison.",
+  "entities": [
+    "Tanishq",
+    "Titan Company"
+  ],
+  "search_queries": [
+    "site:titancompany.in latest investor presentation Tanishq store count Titan total retail network FY2025-26",
+    "site:titancompany.in investor presentation FY2023-24 FY2024-25 Tanishq stores total retail outlets",
+    "site:titancompany.in annual report retail network brands Tanishq Mia Zoya CaratLane Titan World Helios Eyeplus"
+  ],
+  "known_facts_used": [
+    {
+      "id": 6,
+      "subject": "Tanishq",
+      "relation": "launched in",
+      "object": "1994",
+      "source_url": "https://www.titancompany.in/business-opportunities/franchising",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400688.824511,
+      "_fts_score": 2.6778933401223837,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 7,
+      "subject": "Tanishq",
+      "relation": "was launched in",
+      "object": "1996",
+      "source_url": "https://www.titancompany.in/our-heritage",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400691.053129,
+      "_fts_score": 2.4994615258149167,
+      "_blend_score": 0.9000151091637079
+    },
+    {
+      "id": 8,
+      "subject": "Tanishq",
+      "relation": "was launched in",
+      "object": "1996",
+      "source_url": "https://www.titancompany.in/sites/default/files/2023-08/Q3%2520FY20%2520Earnings%2520Call%2520Transcript.pdf",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400692.653815,
+      "_fts_score": 2.4994615258149167,
+      "_blend_score": 0.9000151091637079
+    },
+    {
+      "id": 2,
+      "subject": "Tanishq",
+      "relation": "began under",
+      "object": "Titan",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400682.1468952,
+      "_fts_score": 2.6778933401223837,
+      "_blend_score": 0.8417253133565585
+    },
+    {
+      "id": 3,
+      "subject": "Tanishq",
+      "relation": "dates to",
+      "object": "1994",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400682.148263,
+      "_fts_score": 2.6778933401223837,
+      "_blend_score": 0.5
+    },
+    {
+      "id": 1,
+      "subject": "Tanishq",
+      "relation": "is owned by",
+      "object": "Titan Company Limited",
+      "source_url": "https://www.titancompany.in/business-division/jewellery-division",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400678.7875369,
+      "_fts_score": 6.8046584815197875,
+      "_blend_score": 1.0
+    },
+    {
+      "id": 48,
+      "subject": "HomeRun",
+      "relation": "raised from",
+      "object": "Titan Capital",
+      "source_url": null,
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410655.819068,
+      "_fts_score": 2.7157615958791226,
+      "_blend_score": 0.2981346609492302
+    },
+    {
+      "id": 100,
+      "subject": "HomeRun",
+      "relation": "raised from",
+      "object": "Titan Capital",
+      "source_url": "https://economictimes.indiatimes.com/tech/funding/construction-qcomm-outfit-homerun-raises-12-million-from-nexus-venture-partners-others/articleshow/132984906.cms?UTM_Campaign=RSS_Feed&UTM_Medium=Referral&UTM_Source=Google_Newsstand&utm_source=openai",
+      "question_id": "q05",
+      "confidence": 1.0,
+      "created_at": 1789410701.243188,
+      "_fts_score": 2.7157615958791226,
+      "_blend_score": 0.2981346609492302
+    },
+    {
+      "id": 5,
+      "subject": "Titan's jewellery facility",
+      "relation": "was inaugurated in",
+      "object": "1994",
+      "source_url": "https://www.titancompany.in/sites/default/files/2026-02/SEinvestorpresentationQ32025-26.pdf",
+      "question_id": "q01",
+      "confidence": 1.0,
+      "created_at": 1789400685.9849348,
+      "_fts_score": 2.2633341462350907,
+      "_blend_score": 0.0755318542895422
+    }
+  ],
+  "retrieval": [
+    {
+      "query": "site:titancompany.in latest investor presentation Tanishq store count Titan total retail network FY2025-26",
+      "text": "**Latest FY2025\u201326 investor presentation:** Titan\u2019s **Q4 / FY26 Earnings Presentation**, released **May 8, 2026**. ([titancompany.in](https://www.titancompany.in/investors/corporate-announcements))\n\n**Store network as of March 31, 2026:**\n\n| Metric | Store count |\n|---|---:|\n| **Tanishq \u2014 domestic** | **528** |\n| **Tanishq \u2014 international** | **29** |\n| **Tanishq \u2014 total** | **557** |\n| **Titan consumer-business retail network \u2014 domestic** | **3,441** |\n| **Titan consumer-business retail network \u2014 international** | **162** |\n| **Titan consumer-business retail network \u2014 total** | **3,603** |\n\nThe presentation also reports Tanishq\u2019s presence across **311 towns**, with domestic stores rising by 8 and international stores by 4 during Q4 FY26. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf?utm_source=openai))\n\nNote: Titan\u2019s **3,603** figure is the combined consumer-business network and includes the Damas acquisition; **127 Damas stores** were added in Q4 FY26. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/investors/corporate-announcements",
+          "title": "Corporate Announcements | Titan Company Ltd."
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf?utm_source=openai",
+          "title": "Jewellery: Retail Network"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-04/Titan%20-%20Q4FY26-%20Quarterly%20Update.pdf?utm_source=openai",
+          "title": "7th April 2026"
+        }
+      ],
+      "cost_usd": 0.111122,
+      "search_calls": 4,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "site:titancompany.in investor presentation FY2023-24 FY2024-25 Tanishq stores total retail outlets",
+      "text": "### Titan retail footprint \u2014 FY2023-24 vs. FY2024-25  \n*Year-end figures as of March 31.*\n\n| Metric | FY2023-24 | FY2024-25 | Change |\n|---|---:|---:|---:|\n| **Tanishq stores \u2014 domestic** | 464 | 501 | +37 |\n| **Tanishq stores \u2014 international** | 15 | 21 | +6 |\n| **Tanishq stores \u2014 total** | **479** | **522** | **+43** |\n| **Titan consolidated retail outlets** | **3,035** | **3,312** | **+277** |\n\nFY24\u2019s Tanishq total comprised **464 domestic and 15 international** stores; the FY24 investor deck\u2019s aggregate count is 479. ([scribd.com](https://www.scribd.com/document/808152910/1PPT-titan?utm_source=openai))  \n\nFor FY25, Titan\u2019s Q4 investor presentation reports **501 domestic Tanishq stores plus 21 international**, or **522 total**. Its consolidated company retail network was **3,312 stores**, versus **3,035 at March 2024**. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf))  \n\n**Note:** Titan\u2019s jewellery-segment store total is not the same as its overall retail-outlet figure. The overall **3,035 / 3,312** totals cover Titan\u2019s consolidated businesses\u2014jewellery, watches, eyewear, emerging businesses, etc.",
+      "citations": [
+        {
+          "url": "https://www.scribd.com/document/808152910/1PPT-titan?utm_source=openai",
+          "title": "Titan Q1 FY 2024-25 Earnings Presentation | PDF | Economies | Business"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-05/Q4FY25%20-%20Earnings%20presentation%20Uploaded_0.pdf",
+          "title": ""
+        }
+      ],
+      "cost_usd": 0.325858,
+      "search_calls": 12,
+      "single_source": false,
+      "domains": [
+        "www.scribd.com",
+        "www.titancompany.in"
+      ]
+    },
+    {
+      "query": "site:titancompany.in annual report retail network brands Tanishq Mia Zoya CaratLane Titan World Helios Eyeplus",
+      "text": "Titan\u2019s official investor page lists **Annual Report 2026** as the latest report, covering **FY 2025\u201326**. ([titancompany.in](https://www.titancompany.in/investors/annual-reports))\n\n### Retail-network snapshot\n\n| Business | Brand | Store network / disclosure |\n|---|---|---:|\n| Jewellery | **Tanishq** | **528 domestic** + **29 international** stores as of March 31, 2026 |\n| Jewellery | **Mia by Tanishq** | **282 domestic** + **1 international** store |\n| Jewellery | **Zoya** | **13** stores |\n| Jewellery | **CaratLane** | **370 domestic** + **2 international** stores |\n| Watches | **Titan World** | **729** stores* |\n| Watches | **Helios** | **283** stores* |\n| Eyecare | **Titan Eye+** | Titan\u2019s current brand page says **950+ stores nationwide** |\n\n\\*Titan World and Helios counts are from Titan\u2019s official franchise page; its figures appear to reflect a reporting point different from the March 2026 jewellery disclosure. ([titancompany.in](https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf?utm_source=openai))\n\nFor comparison, the prior **FY 2024\u201325 annual report** showed: **Tanishq 522, CaratLane 323, Mia 234, and Zoya 12** stores. ([titancompany.in](https://www.titancompany.in/sites/default/files/2025-06/Titan%20AR%202024-25%20AR.pdf?utm_source=openai))\n\nTitan identifies **Tanishq, Zoya, Mia, and CaratLane** as jewellery brands; **Titan World** and **Helios** operate in watches retail, while **Titan Eye+** is its eyecare retail brand. ([titancompany.in](https://www.titancompany.in/our-brands?utm_source=openai))",
+      "citations": [
+        {
+          "url": "https://www.titancompany.in/investors/annual-reports",
+          "title": "Annual Reports | Titan Company"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf?utm_source=openai",
+          "title": "Jewellery: Retail Network"
+        },
+        {
+          "url": "https://www.titancompany.in/sites/default/files/2025-06/Titan%20AR%202024-25%20AR.pdf?utm_source=openai",
+          "title": "TITAN COMPANY LIMITED"
+        },
+        {
+          "url": "https://www.titancompany.in/our-brands?utm_source=openai",
+          "title": "Brands under Titan Company Ltd."
+        }
+      ],
+      "cost_usd": 0.128218,
+      "search_calls": 5,
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ]
+    }
+  ],
+  "facts_saved": 17,
+  "cost_usd": 0.62903,
+  "wall_clock_s": 131.16857194900513,
+  "trace": [
+    {
+      "step": "plan",
+      "t": 1789410991.936426,
+      "entities": [
+        "Tanishq",
+        "Titan Company"
+      ],
+      "known_facts": 9,
+      "search_queries": [
+        "site:titancompany.in latest investor presentation Tanishq store count Titan total retail network FY2025-26",
+        "site:titancompany.in investor presentation FY2023-24 FY2024-25 Tanishq stores total retail outlets",
+        "site:titancompany.in annual report retail network brands Tanishq Mia Zoya CaratLane Titan World Helios Eyeplus"
+      ],
+      "plan_notes": "Find the latest reported store counts and matching counts exactly two years earlier, aligning reporting dates, geographic coverage, and inclusion of subsidiaries; calculate both absolute additions and percentage growth, using percentage growth to judge which grew faster. Verify which other brands contribute to Titan\u2019s total footprint; skip Tanishq\u2019s founding-date discrepancies and unrelated Titan Capital funding because they do not affect this comparison."
+    },
+    {
+      "step": "retrieve",
+      "t": 1789411007.909306,
+      "query": "site:titancompany.in latest investor presentation Tanishq store count Titan total retail network FY2025-26",
+      "n_citations": 3,
+      "search_calls": 4
+    },
+    {
+      "step": "retrieve",
+      "t": 1789411009.721537,
+      "query": "site:titancompany.in annual report retail network brands Tanishq Mia Zoya CaratLane Titan World Helios Eyeplus",
+      "n_citations": 4,
+      "search_calls": 5
+    },
+    {
+      "step": "retrieve",
+      "t": 1789411050.992228,
+      "query": "site:titancompany.in investor presentation FY2023-24 FY2024-25 Tanishq stores total retail outlets",
+      "n_citations": 2,
+      "search_calls": 12
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789411055.52695,
+      "query": "site:titancompany.in latest investor presentation Tanishq store count Titan total retail network FY2025-26",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ],
+      "chunks_total": 4,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789411056.2084951,
+      "query": "site:titancompany.in investor presentation FY2023-24 FY2024-25 Tanishq stores total retail outlets",
+      "single_source": false,
+      "domains": [
+        "www.scribd.com",
+        "www.titancompany.in"
+      ],
+      "chunks_total": 5,
+      "chunks_kept": 3
+    },
+    {
+      "step": "resolve_evidence",
+      "t": 1789411057.5167518,
+      "query": "site:titancompany.in annual report retail network brands Tanishq Mia Zoya CaratLane Titan World Helios Eyeplus",
+      "single_source": true,
+      "domains": [
+        "www.titancompany.in"
+      ],
+      "chunks_total": 5,
+      "chunks_kept": 3
+    },
+    {
+      "step": "synthesize",
+      "t": 1789411085.3120189,
+      "answer": "Using Titan\u2019s official, recent disclosures, Tanishq\u2019s network grew from 479 stores in FY2023-24 to 557 in FY2025-26, an increase of 78 stores or about 16.3%. Titan\u2019s overall network rose from 3,035 to 3,603 outlets over the same period, an increase of 568 or about 18.7%, so Titan grew faster in both absolute and percentage terms. Titan\u2019s footprint extends beyond Tanishq and includes brands such as Mia, Zoya, CaratLane, Titan World, Helios and Titan Eye+; the FY2025-26 total also includes Damas.",
+      "n_claims": 9
+    },
+    {
+      "step": "save_facts_to_memory",
+      "t": 1789411110.020942,
+      "facts_saved": 17
+    }
+  ]
+}

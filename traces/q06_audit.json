@@ -1,0 +1,153 @@
+{
+  "question_id": "q06",
+  "claim_audits": [
+    {
+      "claim_text": "Nikhil Mittal is Zepto\u2019s current Chief Technology Officer and leads its engineering and technology organization.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "supported",
+      "reasoning": "The source explicitly identifies Nikhil Mittal as Zepto's CTO and describes him as building the infrastructure and working with the team, which supports his leadership of the company's engineering and technology organization.",
+      "quote": "I'm the CTO at Zepto.",
+      "evidence_chunks": [
+        {
+          "text": "Nikhil Mittal\nI'm the CTO at \nZepto\n. We're organising retail in India - building the infrastructure that lets people get groceries delivered in minutes. We've grown from a small experiment into one of India's fastest-growing companies, with a team obsessed with execution and speed. I joined Zepto's founders, Aadit and KV, early - before Zepto, we ran KiranaKart together, couldn't find the right product-market fit, shut it down, and started over. That's how the best things get built. Before that, I was building iview.ai - using generative AI and video to fix hiring. I was early and bullish on generative AI; I still am. Before that, I was at Goldman Sachs, working on consumer products including the Apple Card. I studied Computer Science at IIT (ISM) Dhanbad. Right now I'm deep in agentic AI - running experiments, figuring out where the real value is. I also back founders I believe in, or problems I can't stop thinking about. Outside of work, I'm happiest travelling somewhere new, around a table with good food and better company, or mid-game in a long session of cards or board games. \ud83c\uddee\ud83c\uddf3 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf8\ud83c\uddec \ud83c\uddee\ud83c\uddf9 \ud83c\uddf3\ud83c\uddf4 \ud83c\uddea\ud83c\uddf8 \ud83c\uddf9\ud83c\udded \ud83c\uddf1\ud83c\uddf0 \ud83c\uddee\ud83c\udde9 \ud83c\uddf6\ud83c\udde6\nhave a question or something to push back on?",
+          "index": 0,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.6503301596874087
+        },
+        {
+          "text": "ask me anything \u2192\nEssays\nComing soon. get new essays by email\nSubscribe\nX\n/\nLinkedin\n/\nGithub\n[ ` ]",
+          "index": 1,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.21164614756732114
+        }
+      ]
+    },
+    {
+      "claim_text": "Nikhil Mittal became Zepto\u2019s CTO in January 2024.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The source confirms that Nikhil Mittal is Zepto's CTO, but it does not state when he became CTO or mention January 2024.",
+      "quote": "I'm the CTO at Zepto.",
+      "evidence_chunks": [
+        {
+          "text": "Nikhil Mittal\nI'm the CTO at \nZepto\n. We're organising retail in India - building the infrastructure that lets people get groceries delivered in minutes. We've grown from a small experiment into one of India's fastest-growing companies, with a team obsessed with execution and speed. I joined Zepto's founders, Aadit and KV, early - before Zepto, we ran KiranaKart together, couldn't find the right product-market fit, shut it down, and started over. That's how the best things get built. Before that, I was building iview.ai - using generative AI and video to fix hiring. I was early and bullish on generative AI; I still am. Before that, I was at Goldman Sachs, working on consumer products including the Apple Card. I studied Computer Science at IIT (ISM) Dhanbad. Right now I'm deep in agentic AI - running experiments, figuring out where the real value is. I also back founders I believe in, or problems I can't stop thinking about. Outside of work, I'm happiest travelling somewhere new, around a table with good food and better company, or mid-game in a long session of cards or board games. \ud83c\uddee\ud83c\uddf3 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf8\ud83c\uddec \ud83c\uddee\ud83c\uddf9 \ud83c\uddf3\ud83c\uddf4 \ud83c\uddea\ud83c\uddf8 \ud83c\uddf9\ud83c\udded \ud83c\uddf1\ud83c\uddf0 \ud83c\uddee\ud83c\udde9 \ud83c\uddf6\ud83c\udde6\nhave a question or something to push back on?",
+          "index": 0,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.6503376781976163
+        },
+        {
+          "text": "ask me anything \u2192\nEssays\nComing soon. get new essays by email\nSubscribe\nX\n/\nLinkedin\n/\nGithub\n[ ` ]",
+          "index": 1,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.24125209686549332
+        }
+      ]
+    },
+    {
+      "claim_text": "Before becoming CTO, Nikhil Mittal served as Zepto\u2019s VP/SVP of Engineering.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence identifies Nikhil Mittal as Zepto\u2019s CTO and says he joined the founders early, but it does not state that he previously served as VP or SVP of Engineering.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "Nikhil Mittal\nI'm the CTO at \nZepto\n. We're organising retail in India - building the infrastructure that lets people get groceries delivered in minutes. We've grown from a small experiment into one of India's fastest-growing companies, with a team obsessed with execution and speed. I joined Zepto's founders, Aadit and KV, early - before Zepto, we ran KiranaKart together, couldn't find the right product-market fit, shut it down, and started over. That's how the best things get built. Before that, I was building iview.ai - using generative AI and video to fix hiring. I was early and bullish on generative AI; I still am. Before that, I was at Goldman Sachs, working on consumer products including the Apple Card. I studied Computer Science at IIT (ISM) Dhanbad. Right now I'm deep in agentic AI - running experiments, figuring out where the real value is. I also back founders I believe in, or problems I can't stop thinking about. Outside of work, I'm happiest travelling somewhere new, around a table with good food and better company, or mid-game in a long session of cards or board games. \ud83c\uddee\ud83c\uddf3 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf8\ud83c\uddec \ud83c\uddee\ud83c\uddf9 \ud83c\uddf3\ud83c\uddf4 \ud83c\uddea\ud83c\uddf8 \ud83c\uddf9\ud83c\udded \ud83c\uddf1\ud83c\uddf0 \ud83c\uddee\ud83c\udde9 \ud83c\uddf6\ud83c\udde6\nhave a question or something to push back on?",
+          "index": 0,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.6435363527384963
+        },
+        {
+          "text": "ask me anything \u2192\nEssays\nComing soon. get new essays by email\nSubscribe\nX\n/\nLinkedin\n/\nGithub\n[ ` ]",
+          "index": 1,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.20250525963592597
+        }
+      ]
+    },
+    {
+      "claim_text": "The provided evidence does not establish when Nikhil Mittal originally joined Zepto.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "The provided evidence does not identify where Nikhil Mittal worked before Zepto.",
+      "citation_url": null,
+      "verdict": "no_citation",
+      "reasoning": "Claim carries no citation to verify against.",
+      "quote": null,
+      "evidence_chunks": []
+    },
+    {
+      "claim_text": "Mittal\u2019s own website was preferred as the most direct cited source, though it is rated tier 4 in the evidence.",
+      "citation_url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "reasoning": "The evidence identifies Mittal\u2019s website and provides biographical information, but it does not state that the website was preferred as the most direct source or that it was rated tier 4.",
+      "quote": null,
+      "evidence_chunks": [
+        {
+          "text": "Nikhil Mittal\nI'm the CTO at \nZepto\n. We're organising retail in India - building the infrastructure that lets people get groceries delivered in minutes. We've grown from a small experiment into one of India's fastest-growing companies, with a team obsessed with execution and speed. I joined Zepto's founders, Aadit and KV, early - before Zepto, we ran KiranaKart together, couldn't find the right product-market fit, shut it down, and started over. That's how the best things get built. Before that, I was building iview.ai - using generative AI and video to fix hiring. I was early and bullish on generative AI; I still am. Before that, I was at Goldman Sachs, working on consumer products including the Apple Card. I studied Computer Science at IIT (ISM) Dhanbad. Right now I'm deep in agentic AI - running experiments, figuring out where the real value is. I also back founders I believe in, or problems I can't stop thinking about. Outside of work, I'm happiest travelling somewhere new, around a table with good food and better company, or mid-game in a long session of cards or board games. \ud83c\uddee\ud83c\uddf3 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf8\ud83c\uddec \ud83c\uddee\ud83c\uddf9 \ud83c\uddf3\ud83c\uddf4 \ud83c\uddea\ud83c\uddf8 \ud83c\uddf9\ud83c\udded \ud83c\uddf1\ud83c\uddf0 \ud83c\uddee\ud83c\udde9 \ud83c\uddf6\ud83c\udde6\nhave a question or something to push back on?",
+          "index": 0,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.18315707935123587
+        },
+        {
+          "text": "ask me anything \u2192\nEssays\nComing soon. get new essays by email\nSubscribe\nX\n/\nLinkedin\n/\nGithub\n[ ` ]",
+          "index": 1,
+          "url": "https://mittalnikhil.com/?utm_source=openai",
+          "score": 0.1725299074059826
+        }
+      ]
+    }
+  ],
+  "cost_usd": 0.000954,
+  "wall_clock_s": 15.392492055892944,
+  "trace": [
+    {
+      "step": "audit_claim",
+      "t": 1789410864.913075,
+      "claim": "Nikhil Mittal is Zepto\u2019s current Chief Technology Officer and leads its engineering and technology organization.",
+      "url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "supported",
+      "top_chunk_score": 0.6503301596874087
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410867.351187,
+      "claim": "Nikhil Mittal became Zepto\u2019s CTO in January 2024.",
+      "url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.6503376781976163
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410871.199636,
+      "claim": "Before becoming CTO, Nikhil Mittal served as Zepto\u2019s VP/SVP of Engineering.",
+      "url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.6435363527384963
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410871.19965,
+      "claim": "The provided evidence does not establish when Nikhil Mittal originally joined Zepto.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410871.1996531,
+      "claim": "The provided evidence does not identify where Nikhil Mittal worked before Zepto.",
+      "verdict": "no_citation"
+    },
+    {
+      "step": "audit_claim",
+      "t": 1789410874.295916,
+      "claim": "Mittal\u2019s own website was preferred as the most direct cited source, though it is rated tier 4 in the evidence.",
+      "url": "https://mittalnikhil.com/?utm_source=openai",
+      "verdict": "unsupported",
+      "top_chunk_score": 0.18315707935123587
+    }
+  ]
+}
